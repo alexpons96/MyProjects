@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Dungeon</title>
+    <meta charset="UTF-8">
+    <meta name="description" content="Dungeon Master AJAX Game" />
+    <meta name="keywords" content="dungeon, ajax, javascript, css" />
+    <meta name="author" content="Daniel Amo" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/main.css" type="text/css" media="all" />
+    <script src="js/juego.js"></script>
+    <script src="js/main.js"></script>
+  </head>
+  <body>
+      <ul>
+        <li onclick="tryAJAXSPostNueva()"><button class="botones">createNueva</button></li>
+        <li onclick="tryAJAXDeleteNueva()"><button class="botones">deleteNueva</button></li>
+      </ul>
+      <h1 id="title">Dungeon Master AJAX Game</h1>
+      <nav id="guardar">
+        <ul>
+          <li>Comenzar partida <ul>
+            <li  onclick="newGame()"><button class="botones">New</button></li>
+            <li  onclick="loadSlot1()"><button class="botones">Slot1</button></li>
+            <li  onclick="loadSlot2()"><button class="botones">Slot2</button></li>
+          </ul></li>
+          <li>Guardar partida<ul>
+            <li onclick="saveGame(1)"><button class="botones" >Slot1</button></li>
+            <li onclick="saveGame(2)"><button class="botones">Slot2</button></li>
+          </ul></li>
+          <li>Borra partida<ul>
+            <li onclick="deleteGame(1)"><button class="botones">Slot1</button></li>
+            <li onclick="deleteGame(2)"><button class="botones">Slot2</button></li>
+          </ul></li>
+        </ul>
+      </nav>
+    <section id="controles">
+      <h2>Controles</h2>
+      <div id="keys">
+        <img src="media/controles/esquerra.png" alt="failed to load img" onclick="teclado(this)" id="movesquerra">
+        <img src="media/controles/dreta.png" alt="failed to load img" onclick="teclado(this)" id="movdreta">
+        <img src="media/controles/endavant.png" alt="failed to load img" onclick="teclado(this)" id="movendavant">
+        <img src="media/controles/endarrere.png" alt="failed to load img" onclick="teclado(this)" id="movendarrere">
+      </div>
+    </section>
+    <section  id="minimapa">
+      <div>
+        <h2>Minimapa</h2>
+        <div id="map"></div>
+      </div>
+    </section>
+    <section id="navegacion">
+      <h2>Navegación</h2>
+      <div id="canvas_div">
+        <canvas id="visor" width="481" height="416"></canvas>
+      </div>
+    </section>
+    <section id="equipocarac">
+      <h2>Equipo & Características</h2>
+      <p>Nombre/Sexo: <span id="name"></span></p>
+      <p>Nivel: <span id="lvl"></span></p>
+      <p>Ataque: <span id="attack"></span></p>
+      <p>Defensa: <span id="defense"></span></p>
+      <p>Vida: <span id="health"></span></p>
+      <p>Mochila: <span id="objects"></span></p>
+      <p>Mano derecha: <span id="derecha"></span></p>
+      <p>Mano izquierda: <span id="izquierda"></span></p>
+      <p>Enemigos muertos: <span id="bajas"></span></p>
+      <p><button id="btn_cambiar" onclick="cambiaArma()">Cambiar arma</button></p>
+    </section>
+    <section id="info_sec">
+      <h2>Informació</h2>
+      <span id="info"></span>
+    </section>
+    <div>
+      <audio id="musica">Audio</audio>
+      <audio id="musicatheme" autoplay loop>Audio</audio>
+    </div>
+  </body>
+</html>

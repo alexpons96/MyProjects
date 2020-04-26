@@ -1,0 +1,113 @@
+$BLANCO_GRIS: rgb(215, 215, 215);
+$GRIS_OSCURO: #4f5c72;
+$BOTONES: rgb(137, 156, 186);
+
+#navegacion {
+  float:left;
+}
+
+#equipcarac {
+  float:left;
+}
+#map {
+  display: grid;
+  grid-template-columns: repeat(10, auto);
+  width: 100px;
+  height: 100px;
+  margin-top: 10px;
+}
+
+.casilla {
+  border: 3px solid $BLANCO_GRIS;
+}
+
+body{
+  justify-content: center;
+  display: grid;
+  grid-template-columns: 200px 600px 200px;
+  grid-template-rows: 75px 230px 230px 200px;
+  background-color: $GRIS_OSCURO;
+}
+h2{
+  margin: 0px;
+  text-align: center;
+}
+canvas{
+  margin: 10px;
+}
+img{
+  width: 50px;
+  height: 50px;
+}
+#title{
+  grid-column: 2;
+  grid-row: 1;
+  justify-self: center;
+}
+#guardar{
+  margin-top: 20px;
+  grid-column: 1;
+  grid-row: 2;
+  justify-self: center;
+}
+#navegacion{
+  grid-column: 2;
+  grid-row: 2 / span 2;
+  justify-self: center;
+  justify-content: center;
+}
+
+#equipocarac{
+  margin-top: 20px;
+  grid-column: 3;
+  grid-row: 2 / span 2;
+  justify-self: center;
+}
+#controles{
+  grid-column: 2;
+  grid-row: 4;
+  justify-self: center;
+  justify-content: center;
+}
+#keys{
+  display: grid;
+  grid-template-columns: 10px 50px 5px 50px 5px 50px 10px;
+  grid-template-rows: 20px 50px 5px 50px 20px ;
+}
+#movdreta{
+  grid-column: 6;
+  grid-row: 4;
+}
+#movendavant{
+  grid-column: 4;
+  grid-row: 2;
+}
+#movesquerra{
+  grid-column: 2;
+  grid-row: 4;
+}
+#movendarrere{
+  grid-column: 4;
+  grid-row: 4;
+}
+#minimapa{
+  padding-top: 20px;
+  grid-column: 1;
+  grid-row: 3;
+  justify-self: center;
+}
+#info_sec{
+  margin-top: 200px;
+  grid-column: 3;
+  grid-row: 3;
+  justify-self: center;
+}
+.botones{
+  width: 50px;
+}
+button{
+  background-color: $BOTONES;
+  border-color: $BOTONES;
+}
+
+

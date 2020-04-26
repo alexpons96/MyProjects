@@ -1,0 +1,1347 @@
+﻿Log file open, 11/14/19 21:16:35
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: test2
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.408608
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername=inavarro -epicuserid=c27e9273beec4f6c9a0aa1cdd674f548 -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.11.14-20.16.35:745][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.11.14-20.16.35:745][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.11.14-20.16.35:745][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Alumne/Downloads/test2/Saved/Config/Windows/Engine.ini]
+[2019.11.14-20.16.35:745][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.14-20.16.35:745][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2019.11.14-20.16.35:745][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2019.11.14-20.16.35:745][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2019.11.14-20.16.35:745][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2019.11.14-20.16.35:745][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2019.11.14-20.16.35:745][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2019.11.14-20.16.35:745][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2019.11.14-20.16.35:745][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Alumne/Downloads/test2/Saved/Config/Windows/Engine.ini]
+[2019.11.14-20.16.35:745][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Alumne/Downloads/test2/Saved/Config/Windows/Engine.ini]
+[2019.11.14-20.16.35:745][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.14-20.16.35:745][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.14-20.16.35:745][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.14-20.16.35:745][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.14-20.16.35:745][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.14-20.16.35:745][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.14-20.16.35:745][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.14-20.16.35:745][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.14-20.16.35:745][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.14-20.16.35:745][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.14-20.16.35:746][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.14-20.16.35:746][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.14-20.16.35:746][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.14-20.16.35:746][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Alumne/Downloads/test2/Saved/Config/Windows/Engine.ini]
+[2019.11.14-20.16.35:746][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.14-20.16.35:746][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.14-20.16.35:746][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.14-20.16.35:746][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.14-20.16.35:746][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.14-20.16.35:746][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.14-20.16.35:746][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.11.14-20.16.35:746][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.14-20.16.35:746][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.14-20.16.35:746][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.14-20.16.35:746][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.14-20.16.35:746][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.14-20.16.35:746][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.14-20.16.35:746][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Alumne/Downloads/test2/Saved/Config/Windows/Engine.ini]
+[2019.11.14-20.16.35:746][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Alumne/Downloads/test2/Saved/Config/Windows/Engine.ini]
+[2019.11.14-20.16.35:748][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Alumne/Downloads/test2/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-20.16.35:748][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.14-20.16.35:748][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.14-20.16.35:748][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Alumne/Downloads/test2/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-20.16.35:748][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.11.14-20.16.35:748][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Alumne/Downloads/test2/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-20.16.35:748][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.14-20.16.35:748][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.14-20.16.35:748][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.14-20.16.35:748][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.14-20.16.35:748][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.14-20.16.35:748][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.14-20.16.35:748][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.14-20.16.35:748][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.14-20.16.35:748][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Alumne/Downloads/test2/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Alumne/Downloads/test2/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Alumne/Downloads/test2/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Alumne/Downloads/test2/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.14-20.16.35:749][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.14-20.16.35:749][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.14-20.16.35:749][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.14-20.16.35:761][  0]LogHAL: Display: Platform has ~ 32 GB [34289688576 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.11.14-20.16.35:761][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.14-20.16.35:761][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Alumne/Downloads/test2/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Alumne/Downloads/test2/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Alumne/Downloads/test2/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Alumne/Downloads/test2/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Alumne/Downloads/test2/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Alumne/Downloads/test2/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.11.14-20.16.35:761][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.11.14-20.16.35:762][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.14-20.16.35:762][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.11.14-20.16.35:762][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.14-20.16.35:762][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.14-20.16.35:762][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.14-20.16.35:762][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.14-20.16.35:762][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.14-20.16.35:762][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.14-20.16.35:762][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.14-20.16.35:762][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Alumne/Downloads/test2/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-20.16.35:762][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.14-20.16.35:762][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.14-20.16.35:762][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.14-20.16.35:762][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.14-20.16.35:762][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.11.14-20.16.35:762][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Alumne/Downloads/test2/Saved/Config/Windows/Engine.ini]
+[2019.11.14-20.16.35:762][  0]LogInit: Computer: DESKTOP-PFK5BRK
+[2019.11.14-20.16.35:762][  0]LogInit: User: Alumne
+[2019.11.14-20.16.35:762][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.11.14-20.16.35:762][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.11.14-20.16.35:763][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.11.14-20.16.35:763][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.14-20.16.35:763][  0]LogMemory: Process Physical Memory: 104.04 MB used, 104.04 MB peak
+[2019.11.14-20.16.35:763][  0]LogMemory: Process Virtual Memory: 95.87 MB used, 95.87 MB peak
+[2019.11.14-20.16.35:763][  0]LogMemory: Physical Memory: 8271.81 MB used,  24429.39 MB free, 32701.20 MB total
+[2019.11.14-20.16.35:763][  0]LogMemory: Virtual Memory: 4699.19 MB used,  134213032.00 MB free, 134217728.00 MB total
+[2019.11.14-20.16.35:778][  0]LogInit: Using OS detected language (en-US).
+[2019.11.14-20.16.35:778][  0]LogInit: Using OS detected locale (en-US).
+[2019.11.14-20.16.35:778][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.11.14-20.16.35:954][  0]LogInit: Setting process to per monitor DPI aware
+[2019.11.14-20.16.35:980][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.14-20.16.35:980][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.14-20.16.36:116][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.14-20.16.36:169][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.11.14-20.16.36:169][  0]LogD3D11RHI:       8088/0/16350 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.11.14-20.16.36:170][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.14-20.16.36:170][  0]LogD3D11RHI:       0/0/16350 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.14-20.16.36:170][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.14-20.16.36:177][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.14-20.16.36:177][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2019.11.14-20.16.36:177][  0]LogWindows: EnumDisplayDevices:
+[2019.11.14-20.16.36:177][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2019.11.14-20.16.36:177][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.11.14-20.16.36:177][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.11.14-20.16.36:177][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.11.14-20.16.36:178][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.11.14-20.16.36:178][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.11.14-20.16.36:178][  0]LogD3D11RHI:   Driver Version: 441.12 (internal:26.21.14.4112, unified:441.12)
+[2019.11.14-20.16.36:178][  0]LogD3D11RHI:      Driver Date: 10-24-2019
+[2019.11.14-20.16.36:178][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2019.11.14-20.16.36:210][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.14-20.16.36:213][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.14-20.16.36:214][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.14-20.16.36:214][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.14-20.16.36:222][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.11.14-20.16.36:490][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.14-20.16.36:503][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.14-20.16.36:515][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.14-20.16.36:527][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.14-20.16.36:540][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.14-20.16.36:552][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.14-20.16.36:564][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.14-20.16.36:575][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.14-20.16.36:580][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.14-20.16.36:646][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.14-20.16.36:646][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.14-20.16.36:646][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.14-20.16.36:646][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.14-20.16.36:646][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.14-20.16.36:646][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.14-20.16.36:646][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.14-20.16.36:646][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.14-20.16.36:646][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.14-20.16.36:646][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.14-20.16.36:646][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.14-20.16.36:646][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.14-20.16.36:646][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.14-20.16.36:646][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.14-20.16.36:646][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.14-20.16.36:646][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.14-20.16.36:646][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.14-20.16.36:646][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.14-20.16.36:648][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.14-20.16.36:691][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.14-20.16.36:691][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.14-20.16.36:710][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.14-20.16.36:710][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.14-20.16.36:720][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.14-20.16.36:730][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.14-20.16.36:740][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.14-20.16.36:750][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.14-20.16.36:789][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.14-20.16.36:789][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.14-20.16.36:789][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.14-20.16.36:796][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.14-20.16.36:835][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (../../../../../../Users/Alumne/Downloads/test2/Intermediate/Shaders/WorkingDirectory/3832/).
+[2019.11.14-20.16.36:835][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Alumne/AppData/Local/Temp/UnrealShaderWorkingDir/1A60441A434D7FD3637B408A6C801446/'.
+[2019.11.14-20.16.36:837][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.14-20.16.36:837][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.14-20.16.36:837][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.14-20.16.37:287][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.14-20.16.37:335][  0]LogDerivedDataCache: Loaded boot cache 0.05s 86MB C:/Users/Alumne/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.11.14-20.16.37:335][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Alumne/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.11.14-20.16.37:335][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Alumne/Downloads/test2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.14-20.16.37:335][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.14-20.16.37:335][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Alumne/Downloads/test2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.14-20.16.37:335][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.14-20.16.37:345][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.14-20.16.37:345][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.14-20.16.37:345][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.11.14-20.16.37:357][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Alumne/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.14-20.16.37:357][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.14-20.16.37:357][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.14-20.16.37:377][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.14-20.16.37:378][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.14-20.16.37:378][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.14-20.16.37:450][  0]LogAssetRegistry: FAssetRegistry took 0.0316 seconds to start up
+[2019.11.14-20.16.37:747][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.14-20.16.37:874][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.14-20.16.37:874][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.11.14-20.16.37:874][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.14-20.16.37:874][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.11.14-20.16.37:874][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.11.14-20.16.37:882][  0]LogNetVersion: test2 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 265451243)
+[2019.11.14-20.16.38:260][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.041953 seconds
+[2019.11.14-20.16.38:269][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.11.14-20.16.38:269][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.11.14-20.16.38:269][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.14-20.16.39:030][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.14-20.16.39:051][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.14-20.16.39:148][  0]SourceControl: Source control is disabled
+[2019.11.14-20.16.39:148][  0]SourceControl: Source control is disabled
+[2019.11.14-20.16.39:149][  0]SourceControl: Source control is disabled
+[2019.11.14-20.16.39:150][  0]SourceControl: Source control is disabled
+[2019.11.14-20.16.39:215][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.14-20.16.39:298][  0]LogOcInput: OculusInput pre-init called
+[2019.11.14-20.16.39:869][  0]LogEngine: Initializing Engine...
+[2019.11.14-20.16.39:870][  0]LogHMD: Oculus plugin initialized. Version: 4.22.3-7053642+++UE4+Release-4.22, OVRPlugin: 1.32.0
+[2019.11.14-20.16.39:871][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.11.14-20.16.40:078][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.14-20.16.40:091][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.11.14-20.16.40:120][  0]LogInit: XAudio2 using 'Headphones (5- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.14-20.16.40:139][  0]LogInit: FAudioDevice initialized.
+[2019.11.14-20.16.40:139][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.11.14-20.16.40:234][  0]LogDerivedDataCache: Saved boot cache 0.09s 86MB C:/Users/Alumne/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.11.14-20.16.40:251][  0]LogInit: Texture streaming: Enabled
+[2019.11.14-20.16.40:269][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.11.14-20.16.40:293][  0]LogInit: Transaction tracking system initialized
+[2019.11.14-20.16.40:314][  0]BlueprintLog: New page: Editor Load
+[2019.11.14-20.16.40:389][  0]LocalizationService: Localization service is disabled
+[2019.11.14-20.16.40:665][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alumne/Downloads/test2/Content/' took 0.01s
+[2019.11.14-20.16.40:665][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.14-20.16.40:665][  0]LogCook: Display: Mobile HDR setting 1
+[2019.11.14-20.16.40:815][  0]SourceControl: Source control is disabled
+[2019.11.14-20.16.40:816][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.22/FeaturePacks/StarterContent.upack)
+[2019.11.14-20.16.40:820][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2019.11.14-20.16.40:824][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2019.11.14-20.16.40:827][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2019.11.14-20.16.40:831][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2019.11.14-20.16.40:835][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2019.11.14-20.16.40:838][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2019.11.14-20.16.40:842][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2019.11.14-20.16.40:845][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2019.11.14-20.16.40:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2019.11.14-20.16.40:853][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2019.11.14-20.16.40:856][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2019.11.14-20.16.40:860][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2019.11.14-20.16.40:864][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Audio/Collapse01.uasset"
+[2019.11.14-20.16.40:867][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Audio/Collapse02.uasset"
+[2019.11.14-20.16.40:869][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2019.11.14-20.16.40:873][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Audio/Explosion01.uasset"
+[2019.11.14-20.16.40:876][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Audio/Explosion02.uasset"
+[2019.11.14-20.16.40:877][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2019.11.14-20.16.40:880][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Audio/Fire01.uasset"
+[2019.11.14-20.16.40:881][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2019.11.14-20.16.40:885][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2019.11.14-20.16.40:886][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2019.11.14-20.16.40:889][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Audio/Light01.uasset"
+[2019.11.14-20.16.40:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2019.11.14-20.16.40:894][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Audio/Light02.uasset"
+[2019.11.14-20.16.40:895][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2019.11.14-20.16.40:899][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Audio/Smoke01.uasset"
+[2019.11.14-20.16.40:900][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2019.11.14-20.16.40:903][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2019.11.14-20.16.40:908][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2019.11.14-20.16.40:919][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2019.11.14-20.16.40:925][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2019.11.14-20.16.40:935][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2019.11.14-20.16.40:941][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2019.11.14-20.16.40:945][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Audio/Steam01.uasset"
+[2019.11.14-20.16.40:946][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2019.11.14-20.16.40:951][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2019.11.14-20.16.40:954][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2019.11.14-20.16.40:958][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2019.11.14-20.16.40:961][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2019.11.14-20.16.40:965][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2019.11.14-20.16.40:969][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2019.11.14-20.16.40:973][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2019.11.14-20.16.40:977][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2019.11.14-20.16.40:978][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2019.11.14-20.16.40:981][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2019.11.14-20.16.40:985][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2019.11.14-20.16.40:988][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2019.11.14-20.16.40:992][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2019.11.14-20.16.40:997][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2019.11.14-20.16.41:004][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2019.11.14-20.16.41:008][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2019.11.14-20.16.41:051][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2019.11.14-20.16.41:054][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2019.11.14-20.16.41:058][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2019.11.14-20.16.41:062][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Maps/Minimal_Default.umap"
+[2019.11.14-20.16.41:067][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2019.11.14-20.16.41:071][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Maps/StarterMap.umap"
+[2019.11.14-20.16.41:088][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2019.11.14-20.16.41:092][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2019.11.14-20.16.41:096][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2019.11.14-20.16.41:099][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2019.11.14-20.16.41:102][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2019.11.14-20.16.41:106][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2019.11.14-20.16.41:109][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2019.11.14-20.16.41:112][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2019.11.14-20.16.41:115][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2019.11.14-20.16.41:119][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2019.11.14-20.16.41:122][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2019.11.14-20.16.41:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2019.11.14-20.16.41:129][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2019.11.14-20.16.41:132][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2019.11.14-20.16.41:136][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2019.11.14-20.16.41:139][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2019.11.14-20.16.41:143][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2019.11.14-20.16.41:146][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2019.11.14-20.16.41:149][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Materials/M_Glass.uasset"
+[2019.11.14-20.16.41:153][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2019.11.14-20.16.41:156][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2019.11.14-20.16.41:159][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2019.11.14-20.16.41:163][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2019.11.14-20.16.41:166][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2019.11.14-20.16.41:169][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2019.11.14-20.16.41:172][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2019.11.14-20.16.41:176][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2019.11.14-20.16.41:179][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2019.11.14-20.16.41:183][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2019.11.14-20.16.41:186][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2019.11.14-20.16.41:190][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2019.11.14-20.16.41:193][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2019.11.14-20.16.41:196][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2019.11.14-20.16.41:200][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2019.11.14-20.16.41:205][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2019.11.14-20.16.41:208][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2019.11.14-20.16.41:213][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2019.11.14-20.16.41:217][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2019.11.14-20.16.41:221][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2019.11.14-20.16.41:224][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2019.11.14-20.16.41:227][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2019.11.14-20.16.41:230][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2019.11.14-20.16.41:234][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2019.11.14-20.16.41:239][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2019.11.14-20.16.41:242][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2019.11.14-20.16.41:245][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Particles/P_Explosion.uasset"
+[2019.11.14-20.16.41:254][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Particles/P_Fire.uasset"
+[2019.11.14-20.16.41:257][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Particles/P_Smoke.uasset"
+[2019.11.14-20.16.41:288][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Particles/P_Sparks.uasset"
+[2019.11.14-20.16.41:291][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2019.11.14-20.16.41:294][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2019.11.14-20.16.41:304][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2019.11.14-20.16.41:309][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2019.11.14-20.16.41:313][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2019.11.14-20.16.41:316][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2019.11.14-20.16.41:321][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2019.11.14-20.16.41:324][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2019.11.14-20.16.41:328][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2019.11.14-20.16.41:332][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2019.11.14-20.16.41:335][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2019.11.14-20.16.41:339][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Props/MaterialSphere.uasset"
+[2019.11.14-20.16.41:344][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Props/SM_Bush.uasset"
+[2019.11.14-20.16.41:348][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Props/SM_Chair.uasset"
+[2019.11.14-20.16.41:351][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2019.11.14-20.16.41:354][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Props/SM_Couch.uasset"
+[2019.11.14-20.16.41:357][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Props/SM_Door.uasset"
+[2019.11.14-20.16.41:361][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2019.11.14-20.16.41:366][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2019.11.14-20.16.41:370][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2019.11.14-20.16.41:373][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2019.11.14-20.16.41:378][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2019.11.14-20.16.41:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2019.11.14-20.16.41:386][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2019.11.14-20.16.41:390][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Props/SM_Rock.uasset"
+[2019.11.14-20.16.41:394][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Props/SM_Shelf.uasset"
+[2019.11.14-20.16.41:398][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Props/SM_Stairs.uasset"
+[2019.11.14-20.16.41:401][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Props/SM_Statue.uasset"
+[2019.11.14-20.16.41:419][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Props/SM_TableRound.uasset"
+[2019.11.14-20.16.41:423][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2019.11.14-20.16.41:427][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2019.11.14-20.16.41:431][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2019.11.14-20.16.41:435][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2019.11.14-20.16.41:439][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2019.11.14-20.16.41:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2019.11.14-20.16.41:446][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2019.11.14-20.16.41:450][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2019.11.14-20.16.41:453][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2019.11.14-20.16.41:457][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2019.11.14-20.16.41:460][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2019.11.14-20.16.41:463][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2019.11.14-20.16.41:468][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2019.11.14-20.16.41:471][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2019.11.14-20.16.41:476][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2019.11.14-20.16.41:481][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2019.11.14-20.16.41:485][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2019.11.14-20.16.41:489][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2019.11.14-20.16.41:493][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2019.11.14-20.16.41:497][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2019.11.14-20.16.41:501][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2019.11.14-20.16.41:505][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2019.11.14-20.16.41:509][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2019.11.14-20.16.41:514][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2019.11.14-20.16.41:518][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2019.11.14-20.16.41:522][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2019.11.14-20.16.41:525][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2019.11.14-20.16.41:529][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2019.11.14-20.16.41:532][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2019.11.14-20.16.41:536][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2019.11.14-20.16.41:541][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2019.11.14-20.16.41:545][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2019.11.14-20.16.41:555][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2019.11.14-20.16.41:564][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2019.11.14-20.16.41:576][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2019.11.14-20.16.41:584][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2019.11.14-20.16.41:593][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2019.11.14-20.16.41:602][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2019.11.14-20.16.41:611][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2019.11.14-20.16.41:617][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2019.11.14-20.16.41:627][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2019.11.14-20.16.41:635][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2019.11.14-20.16.41:642][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2019.11.14-20.16.41:650][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2019.11.14-20.16.41:658][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2019.11.14-20.16.41:662][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2019.11.14-20.16.41:665][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2019.11.14-20.16.41:669][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2019.11.14-20.16.41:672][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2019.11.14-20.16.41:677][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2019.11.14-20.16.41:681][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2019.11.14-20.16.41:688][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2019.11.14-20.16.41:693][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2019.11.14-20.16.41:703][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2019.11.14-20.16.41:707][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2019.11.14-20.16.41:717][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2019.11.14-20.16.41:724][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2019.11.14-20.16.41:730][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2019.11.14-20.16.41:753][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2019.11.14-20.16.41:759][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2019.11.14-20.16.41:767][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2019.11.14-20.16.41:776][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2019.11.14-20.16.41:784][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2019.11.14-20.16.41:791][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2019.11.14-20.16.41:802][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2019.11.14-20.16.41:810][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2019.11.14-20.16.41:817][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2019.11.14-20.16.41:824][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2019.11.14-20.16.41:831][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2019.11.14-20.16.41:832][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2019.11.14-20.16.41:836][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2019.11.14-20.16.41:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Door_M.uasset"
+[2019.11.14-20.16.41:845][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Door_N.uasset"
+[2019.11.14-20.16.41:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2019.11.14-20.16.41:856][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2019.11.14-20.16.41:860][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2019.11.14-20.16.41:866][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2019.11.14-20.16.41:872][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2019.11.14-20.16.41:876][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2019.11.14-20.16.41:877][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2019.11.14-20.16.41:886][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2019.11.14-20.16.41:895][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2019.11.14-20.16.41:904][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2019.11.14-20.16.41:912][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2019.11.14-20.16.41:926][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2019.11.14-20.16.41:933][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2019.11.14-20.16.41:938][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2019.11.14-20.16.41:943][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2019.11.14-20.16.41:952][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2019.11.14-20.16.41:959][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2019.11.14-20.16.41:967][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2019.11.14-20.16.41:975][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2019.11.14-20.16.41:981][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2019.11.14-20.16.41:988][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2019.11.14-20.16.41:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2019.11.14-20.16.42:000][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2019.11.14-20.16.42:005][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2019.11.14-20.16.42:012][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2019.11.14-20.16.42:017][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2019.11.14-20.16.42:023][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2019.11.14-20.16.42:031][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2019.11.14-20.16.42:038][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2019.11.14-20.16.42:044][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2019.11.14-20.16.42:052][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2019.11.14-20.16.42:059][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2019.11.14-20.16.42:069][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2019.11.14-20.16.42:076][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2019.11.14-20.16.42:084][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2019.11.14-20.16.42:088][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2019.11.14-20.16.42:092][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2019.11.14-20.16.42:094][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2019.11.14-20.16.42:099][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2019.11.14-20.16.42:103][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2019.11.14-20.16.42:107][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2019.11.14-20.16.42:111][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2019.11.14-20.16.42:114][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2019.11.14-20.16.42:129][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2019.11.14-20.16.42:133][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2019.11.14-20.16.42:137][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2019.11.14-20.16.42:141][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2019.11.14-20.16.42:145][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2019.11.14-20.16.42:153][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2019.11.14-20.16.42:160][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2019.11.14-20.16.42:165][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2019.11.14-20.16.42:169][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Water_M.uasset"
+[2019.11.14-20.16.42:175][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Water_N.uasset"
+[2019.11.14-20.16.42:180][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2019.11.14-20.16.42:187][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2019.11.14-20.16.42:193][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2019.11.14-20.16.42:200][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2019.11.14-20.16.42:206][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2019.11.14-20.16.42:215][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2019.11.14-20.16.42:221][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2019.11.14-20.16.42:227][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2019.11.14-20.16.42:233][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2019.11.14-20.16.42:278][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 26 NumSamples 1 (Frame:1).
+[2019.11.14-20.16.42:353][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Architecture/Floor_400x400" FILE="../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Architecture/Floor_400x400.uasset" SILENT=true
+[2019.11.14-20.16.42:371][  0]LogSavePackage: Moving '../../../../../../Users/Alumne/Downloads/test2/Saved/Floor_400x4008463DEFE4B3CDDC4902E42AC838D75F3.tmp' to '../../../../../../Users/Alumne/Downloads/test2/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2019.11.14-20.16.42:375][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2019.11.14-20.16.42:377][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Alumne/Downloads/test2/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.14-20.16.42:377][  0]LightingResults: New page: Lighting Build
+[2019.11.14-20.16.42:380][  0]MapCheck: New page: Map Check
+[2019.11.14-20.16.42:380][  0]LightingResults: New page: Lighting Build
+[2019.11.14-20.16.42:404][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2019.11.14-20.16.42:484][  0]LogAIModule: Creating AISystem for world StartupMap
+[2019.11.14-20.16.42:489][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.14-20.16.42:514][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2019.11.14-20.16.42:514][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.14-20.16.42:514][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.14ms to complete.
+[2019.11.14-20.16.42:514][  0]LogFileHelpers: Loading map 'StartupMap' took 0.137
+[2019.11.14-20.16.42:602][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-20.16.42:608][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-20.16.42:616][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-20.16.42:623][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-20.16.42:628][  0]LogCollectionManager: Loaded 0 collections in 0.001290 seconds
+[2019.11.14-20.16.42:712][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alumne/Downloads/test2/Saved/Collections/' took 0.01s
+[2019.11.14-20.16.42:712][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alumne/Downloads/test2/Content/Developers/Alumne/Collections/' took 0.01s
+[2019.11.14-20.16.42:712][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alumne/Downloads/test2/Content/Collections/' took 0.01s
+[2019.11.14-20.16.42:712][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.11.14-20.16.42:720][  0]LogContentBrowser: Native class hierarchy populated in 0.0074 seconds. Added 2732 classes and 659 folders.
+[2019.11.14-20.16.42:726][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.14-20.16.42:727][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-20.16.42:727][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-20.16.42:728][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-20.16.42:728][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-20.16.42:728][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-20.16.42:729][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-20.16.42:729][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-20.16.42:729][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-20.16.42:730][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-20.16.42:730][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-20.16.42:731][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-20.16.42:731][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-20.16.42:732][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-20.16.42:732][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-20.16.42:732][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-20.16.42:733][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-20.16.42:733][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-20.16.42:733][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-20.16.42:734][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-20.16.42:734][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-20.16.42:734][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-20.16.42:735][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-20.16.42:735][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-20.16.42:735][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-20.16.42:736][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-20.16.42:736][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.14-20.16.42:759][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.14-20.16.42:764][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.11.14-20.16.42:825][  0]LogSlate: Took 0.000128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.14-20.16.42:827][  0]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.14-20.16.42:832][  0]LogSlate: Took 0.000128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.14-20.16.42:866][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 26 NumSamples 1 (Frame:1).
+[2019.11.14-20.16.42:897][  0]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.14-20.16.42:988][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.14-20.16.42:988][  0]LogLoad: (Engine Initialization) Total time: 9.04 seconds
+[2019.11.14-20.16.42:988][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.14-20.16.43:000][  0]LogOcInput: OculusInput is initialized
+[2019.11.14-20.16.43:026][  0]LogAssetRegistry: Asset discovery search completed in 5.5981 seconds
+[2019.11.14-20.16.43:028][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.11.14-20.16.43:028][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000053 seconds (updated 0 objects)
+[2019.11.14-20.16.43:117][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.11.14-20.16.44:518][162]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-20.17.09:693][180]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.14-20.17.09:702][180]LogAssetEditorManager: Opening Asset editor for World /Game/ASYLUM.ASYLUM
+[2019.11.14-20.17.09:727][180]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2019.11.14-20.17.17:961][180]LogSlate: Window 'Save Content' being destroyed
+[2019.11.14-20.17.20:517][484]LogAssetEditorManager: Opening Asset editor for World /Game/ASYLUM.ASYLUM
+[2019.11.14-20.17.20:540][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2019.11.14-20.17.22:278][484]LogSlate: Window 'Save Content' being destroyed
+[2019.11.14-20.17.22:283][484]Cmd: MAP LOAD FILE="../../../../../../Users/Alumne/Downloads/test2/Content/ASYLUM.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.14-20.17.22:285][484]LightingResults: New page: Lighting Build
+[2019.11.14-20.17.22:286][484]LoadErrors: New page: Loading map: ASYLUM.umap
+[2019.11.14-20.17.22:287][484]MapCheck: New page: Map Check
+[2019.11.14-20.17.22:287][484]LightingResults: New page: Lighting Build
+[2019.11.14-20.17.22:311][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2019.11.14-20.17.22:353][484]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.14-20.17.22:353][484]LogAIModule: Creating AISystem for world ASYLUM
+[2019.11.14-20.17.22:377][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2019.11.14-20.17.22:390][484]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.14-20.17.22:390][484]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.101ms to complete.
+[2019.11.14-20.17.22:394][484]LogFileHelpers: Loading map 'ASYLUM' took 0.112
+[2019.11.14-20.17.24:921][785]Cmd: EDIT PASTE
+[2019.11.14-20.17.25:056][785]Warning: Unable to find function BndEvt__TriggerBox_1_K2Node_ActorBoundEvent_6_ActorBeginOverlapSignature__DelegateSignature in object Prototipo_C_0 for delegate (found class: None)
+[2019.11.14-20.17.25:056][785]Warning: Unable to find function BndEvt__TriggerBox_1_K2Node_ActorBoundEvent_10_ActorEndOverlapSignature__DelegateSignature in object Prototipo_C_0 for delegate (found class: None)
+[2019.11.14-20.17.25:057][785]Warning: Unable to find function BndEvt__TriggerBox2_4_K2Node_ActorBoundEvent_11_ActorBeginOverlapSignature__DelegateSignature in object Prototipo_C_0 for delegate (found class: None)
+[2019.11.14-20.17.25:070][785]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.11.14-20.17.35:396][  4]LogEditorViewport: Clicking Background
+[2019.11.14-20.17.40:164][548]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (roof01)
+[2019.11.14-20.17.45:626][155]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-20.17.48:080][423]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.11.14-20.17.48:088][423]LogAssetEditorManager: Opening Asset editor for World /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap
+[2019.11.14-20.17.48:115][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2019.11.14-20.17.52:990][423]LogSlate: Window 'Save Content' being destroyed
+[2019.11.14-20.17.56:638][423]LogSlate: Window 'Message' being destroyed
+[2019.11.14-20.17.57:969][579]LogAssetEditorManager: Opening Asset editor for World /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap
+[2019.11.14-20.17.57:993][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2019.11.14-20.17.58:928][579]LogSlate: Window 'Save Content' being destroyed
+[2019.11.14-20.17.58:936][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ASYLUM" FILE="../../../../../../Users/Alumne/Downloads/test2/Content/ASYLUM.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.14-20.17.58:960][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.11.14-20.17.59:058][579]LogSavePackage: Moving '../../../../../../Users/Alumne/Downloads/test2/Saved/ASYLUMA81D37B148BBAE5D36DA8C8669D3CB5C.tmp' to '../../../../../../Users/Alumne/Downloads/test2/Content/ASYLUM.umap'
+[2019.11.14-20.17.59:074][579]LogFileHelpers: Saving map 'ASYLUM' took 0.138
+[2019.11.14-20.17.59:076][579]Cmd: MAP LOAD FILE="../../../../../../Users/Alumne/Downloads/test2/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.14-20.17.59:076][579]LightingResults: New page: Lighting Build
+[2019.11.14-20.17.59:077][579]LoadErrors: New page: Loading map: MotionControllerMap.umap
+[2019.11.14-20.17.59:078][579]MapCheck: New page: Map Check
+[2019.11.14-20.17.59:078][579]LightingResults: New page: Lighting Build
+[2019.11.14-20.17.59:104][579]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2019.11.14-20.17.59:172][579]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.14-20.17.59:197][579]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2019.11.14-20.17.59:212][579]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.14-20.17.59:213][579]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.136ms to complete.
+[2019.11.14-20.17.59:214][579]LogFileHelpers: Loading map 'MotionControllerMap' took 0.138
+[2019.11.14-20.18.03:737][114]Cmd: EDIT COPY
+[2019.11.14-20.18.06:016][382]LogAIModule: Creating AISystem for world ASYLUM
+[2019.11.14-20.18.06:025][382]LogAssetEditorManager: Opening Asset editor for World /Game/ASYLUM.ASYLUM
+[2019.11.14-20.18.06:048][382]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2019.11.14-20.18.06:049][382]Cmd: MAP LOAD FILE="../../../../../../Users/Alumne/Downloads/test2/Content/ASYLUM.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.14-20.18.06:049][382]LightingResults: New page: Lighting Build
+[2019.11.14-20.18.06:050][382]LoadErrors: New page: Loading map: ASYLUM.umap
+[2019.11.14-20.18.06:051][382]MapCheck: New page: Map Check
+[2019.11.14-20.18.06:051][382]LightingResults: New page: Lighting Build
+[2019.11.14-20.18.06:075][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2019.11.14-20.18.06:158][382]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.14-20.18.06:182][382]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2019.11.14-20.18.06:193][382]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.14-20.18.06:193][382]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.14ms to complete.
+[2019.11.14-20.18.06:193][382]LogFileHelpers: Loading map 'ASYLUM' took 0.144
+[2019.11.14-20.18.13:164][201]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2019.11.14-20.18.14:331][339]Cmd: DELETE
+[2019.11.14-20.18.14:331][339]Cmd: ACTOR DELETE
+[2019.11.14-20.18.14:334][339]LogEditorActor: Deleted Actor: PlayerStart
+[2019.11.14-20.18.14:356][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2019.11.14-20.18.14:357][339]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.11.14-20.18.14:937][408]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor01)
+[2019.11.14-20.18.15:280][446]Cmd: EDIT PASTE
+[2019.11.14-20.18.32:209][464]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.14-20.18.34:856][780]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.11.14-20.18.34:856][780]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.14-20.18.34:857][780]LogHMD: Initializing OVRPlugin session
+[2019.11.14-20.18.34:933][780]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2019.11.14-20.18.34:934][780]PIE: New page: PIE session: ASYLUM (Nov 14, 2019, 10:18:34 PM)
+[2019.11.14-20.18.34:947][780]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ASYLUM
+[2019.11.14-20.18.34:960][780]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012929s)
+[2019.11.14-20.18.34:961][780]LogAIModule: Creating AISystem for world ASYLUM
+[2019.11.14-20.18.34:961][780]LogPlayLevel: PIE: World Init took: (0.000539s)
+[2019.11.14-20.18.34:961][780]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ASYLUM.ASYLUM to /Game/UEDPIE_0_ASYLUM.ASYLUM (0.013745s)
+[2019.11.14-20.18.34:985][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2019.11.14-20.18.35:012][780]LogInit: XAudio2 using 'Headphones (5- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.14-20.18.35:023][780]LogInit: FAudioDevice initialized.
+[2019.11.14-20.18.35:032][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-20.18.35:099][780]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.11.14-20.18.35:099][780]LogLoad: Game class is 'GameModeBase'
+[2019.11.14-20.18.35:102][780]LogWorld: Bringing World /Game/UEDPIE_0_ASYLUM.ASYLUM up for play (max tick rate 0) at 2019.11.14-21.18.35
+[2019.11.14-20.18.35:102][780]LogWorld: Bringing up level for play took: 0.001854
+[2019.11.14-20.18.35:118][780]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.11.14-20.18.35:123][780]PIE: Play in editor start time for /Game/UEDPIE_0_ASYLUM -0.077
+[2019.11.14-20.18.35:123][780]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.11.14-20.18.35:124][780]LogEngine: Changing dynamic resolution state.
+[2019.11.14-20.18.35:138][780]LogRenderer: Reallocating scene render targets to support 2688x1600 Format 26 NumSamples 1 (Frame:1).
+[2019.11.14-20.18.35:138][780]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2019.11.14-20.18.44:329][605]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.11.14-20.18.44:390][605]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-20.18.44:444][605]LogSlate: Window 'test2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.14-20.18.44:480][605]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.14-20.18.44:481][605]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.11.14-20.18.44:511][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2019.11.14-20.18.44:523][606]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.11.14-20.18.44:523][606]LogEngine: Changing dynamic resolution state.
+[2019.11.14-20.19.07:684][365]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-20.19.27:007][622]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-20.19.27:073][630]LogTemp: Repeating last play command: VR Preview
+[2019.11.14-20.19.27:081][630]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.11.14-20.19.27:081][630]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.14-20.19.27:081][630]LogHMD: Initializing OVRPlugin session
+[2019.11.14-20.19.27:141][630]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2019.11.14-20.19.27:142][630]PIE: New page: PIE session: ASYLUM (Nov 14, 2019, 10:19:27 PM)
+[2019.11.14-20.19.27:142][630]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ASYLUM
+[2019.11.14-20.19.27:158][630]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015707s)
+[2019.11.14-20.19.27:158][630]LogAIModule: Creating AISystem for world ASYLUM
+[2019.11.14-20.19.27:158][630]LogPlayLevel: PIE: World Init took: (0.000621s)
+[2019.11.14-20.19.27:158][630]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ASYLUM.ASYLUM to /Game/UEDPIE_0_ASYLUM.ASYLUM (0.016500s)
+[2019.11.14-20.19.27:183][630]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2019.11.14-20.19.27:212][630]LogInit: XAudio2 using 'Headphones (5- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.14-20.19.27:223][630]LogInit: FAudioDevice initialized.
+[2019.11.14-20.19.27:232][630]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-20.19.27:288][630]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.11.14-20.19.27:288][630]LogLoad: Game class is 'GameModeBase'
+[2019.11.14-20.19.27:290][630]LogWorld: Bringing World /Game/UEDPIE_0_ASYLUM.ASYLUM up for play (max tick rate 0) at 2019.11.14-21.19.27
+[2019.11.14-20.19.27:290][630]LogWorld: Bringing up level for play took: 0.001493
+[2019.11.14-20.19.27:306][630]PIE: Play in editor start time for /Game/UEDPIE_0_ASYLUM 0.106
+[2019.11.14-20.19.27:306][630]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.11.14-20.19.27:306][630]LogEngine: Changing dynamic resolution state.
+[2019.11.14-20.19.27:309][630]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2019.11.14-20.19.53:449][760]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.11.14-20.19.53:508][760]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-20.19.53:527][760]LogSlate: Window 'test2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.14-20.19.53:557][760]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.14-20.19.53:557][760]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.11.14-20.19.53:597][760]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2019.11.14-20.19.53:621][761]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.11.14-20.19.53:621][761]LogEngine: Changing dynamic resolution state.
+[2019.11.14-20.19.56:229][ 72]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2019.11.14-20.19.56:229][ 72]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2019.11.14-20.19.57:337][200]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM
+[2019.11.14-20.19.57:528][200]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2019.11.14-20.19.58:112][200]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.11.14-20.20.17:467][387]LogSlate: Window 'ASYLUM' being destroyed
+[2019.11.14-20.20.17:472][387]LogSlate: Window 'ASYLUM' being destroyed
+[2019.11.14-20.20.33:956][721]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2019.11.14-20.20.33:956][721]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2019.11.14-20.20.35:750][932]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM
+[2019.11.14-20.20.37:556][122]LogLinker: Can't find file '/Game/Prototipo'
+[2019.11.14-20.20.37:556][122]LogLinker: Can't find file '/Game/Prototipo'
+[2019.11.14-20.20.37:556][122]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef: unresolved reference to 'TargetPoint'"/Game/Prototipo.Prototipo:PersistentLevel.TargetPoint_1"''
+[2019.11.14-20.20.37:557][122]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_ActorBoundEvent:EventOwner: unresolved reference to 'TriggerBox'"/Game/Prototipo.Prototipo:PersistentLevel.TriggerBox_1"''
+[2019.11.14-20.20.37:558][122]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef: unresolved reference to 'StaticMeshActor'"/Game/Prototipo.Prototipo:PersistentLevel.Cube_2"''
+[2019.11.14-20.20.37:558][122]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_ActorBoundEvent:EventOwner: unresolved reference to 'TriggerBox'"/Game/Prototipo.Prototipo:PersistentLevel.TriggerBox_1"''
+[2019.11.14-20.20.37:559][122]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_ActorBoundEvent:EventOwner: unresolved reference to 'TriggerBox'"/Game/Prototipo.Prototipo:PersistentLevel.TriggerBox2_4"''
+[2019.11.14-20.20.37:585][123]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.14-20.20.42:239][676]LogEditorTransaction: Undo Move Node
+[2019.11.14-20.20.42:788][734]LogEditorTransaction: Undo Paste clipboard contents
+[2019.11.14-20.20.45:584][ 67]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef: unresolved reference to 'TargetPoint'"/Game/Prototipo.Prototipo:PersistentLevel.TargetPoint_1"''
+[2019.11.14-20.20.45:584][ 67]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_ActorBoundEvent:EventOwner: unresolved reference to 'TriggerBox'"/Game/Prototipo.Prototipo:PersistentLevel.TriggerBox_1"''
+[2019.11.14-20.20.45:585][ 67]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef: unresolved reference to 'StaticMeshActor'"/Game/Prototipo.Prototipo:PersistentLevel.Cube_2"''
+[2019.11.14-20.20.45:585][ 67]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_ActorBoundEvent:EventOwner: unresolved reference to 'TriggerBox'"/Game/Prototipo.Prototipo:PersistentLevel.TriggerBox_1"''
+[2019.11.14-20.20.45:586][ 67]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_ActorBoundEvent:EventOwner: unresolved reference to 'TriggerBox'"/Game/Prototipo.Prototipo:PersistentLevel.TriggerBox2_4"''
+[2019.11.14-20.21.31:625][555]BlueprintLog: New page: Compile ASYLUM
+[2019.11.14-20.21.31:626][555]LogBlueprint: Warning: [Compiler PersistentLevel.ASYLUM] OnActorBeginOverlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2019.11.14-20.21.31:626][555]LogBlueprint: Warning: [Compiler PersistentLevel.ASYLUM] OnActorEndOverlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2019.11.14-20.21.31:626][555]LogBlueprint: Warning: [Compiler PersistentLevel.ASYLUM] Could not find a variable named "overlap" in 'ASYLUM_C'.
+Make sure 'ASYLUM_C' has been compiled for  Set overlap
+[2019.11.14-20.21.31:626][555]LogBlueprint: Warning: [Compiler PersistentLevel.ASYLUM] OnActorBeginOverlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2019.11.14-20.21.31:627][555]LogBlueprint: Warning: [Compiler PersistentLevel.ASYLUM] Node  Unknown  is not referencing a valid level actor
+[2019.11.14-20.21.31:627][555]LogBlueprint: Warning: [Compiler PersistentLevel.ASYLUM] Node  Unknown  is not referencing a valid level actor
+[2019.11.14-20.21.31:627][555]LogBlueprint: Error: [Compiler PersistentLevel.ASYLUM] The property associated with  Overlap  could not be found in '/Game/ASYLUM.ASYLUM_C'
+[2019.11.14-20.21.31:757][555]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2019.11.14-20.21.31:761][555]LogBlueprint: Warning: [Compiler PersistentLevel.ASYLUM] [0297.82] Compile of PersistentLevel.ASYLUM failed. 1 Fatal Issue(s) 6 Warning(s) [in 135 ms] (/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM)
+[2019.11.14-20.21.50:089][730]BlueprintLog: New page: Compile ASYLUM
+[2019.11.14-20.21.50:090][730]LogBlueprint: Warning: [Compiler PersistentLevel.ASYLUM] OnActorBeginOverlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2019.11.14-20.21.50:090][730]LogBlueprint: Warning: [Compiler PersistentLevel.ASYLUM] OnActorEndOverlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2019.11.14-20.21.50:091][730]LogBlueprint: Warning: [Compiler PersistentLevel.ASYLUM] Could not find a variable named "overlap" in 'ASYLUM_C'.
+Make sure 'ASYLUM_C' has been compiled for  Set overlap
+[2019.11.14-20.21.50:091][730]LogBlueprint: Warning: [Compiler PersistentLevel.ASYLUM] OnActorBeginOverlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2019.11.14-20.21.50:091][730]LogBlueprint: Warning: [Compiler PersistentLevel.ASYLUM] Node  Unknown  is not referencing a valid level actor
+[2019.11.14-20.21.50:091][730]LogBlueprint: Error: [Compiler PersistentLevel.ASYLUM] The property associated with  Overlap  could not be found in '/Game/ASYLUM.ASYLUM_C'
+[2019.11.14-20.21.50:214][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2019.11.14-20.21.50:217][730]LogBlueprint: Warning: [Compiler PersistentLevel.ASYLUM] [0316.27] Compile of PersistentLevel.ASYLUM failed. 1 Fatal Issue(s) 5 Warning(s) [in 127 ms] (/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM)
+[2019.11.14-20.23.42:632][ 38]BlueprintLog: New page: Compile ASYLUM
+[2019.11.14-20.23.42:754][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2019.11.14-20.23.44:426][236]LogTemp: Repeating last play command: VR Preview
+[2019.11.14-20.23.44:439][236]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.11.14-20.23.44:439][236]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.14-20.23.44:439][236]LogHMD: Initializing OVRPlugin session
+[2019.11.14-20.23.44:503][236]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2019.11.14-20.23.44:504][236]PIE: New page: PIE session: ASYLUM (Nov 14, 2019, 10:23:44 PM)
+[2019.11.14-20.23.44:504][236]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ASYLUM
+[2019.11.14-20.23.44:517][236]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013248s)
+[2019.11.14-20.23.44:518][236]LogAIModule: Creating AISystem for world ASYLUM
+[2019.11.14-20.23.44:518][236]LogPlayLevel: PIE: World Init took: (0.000444s)
+[2019.11.14-20.23.44:518][236]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ASYLUM.ASYLUM to /Game/UEDPIE_0_ASYLUM.ASYLUM (0.013799s)
+[2019.11.14-20.23.44:545][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2019.11.14-20.23.44:567][236]LogInit: XAudio2 using 'Headphones (5- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.14-20.23.44:580][236]LogInit: FAudioDevice initialized.
+[2019.11.14-20.23.44:588][236]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-20.23.44:647][236]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.11.14-20.23.44:647][236]LogLoad: Game class is 'GameModeBase'
+[2019.11.14-20.23.44:648][236]LogWorld: Bringing World /Game/UEDPIE_0_ASYLUM.ASYLUM up for play (max tick rate 0) at 2019.11.14-21.23.44
+[2019.11.14-20.23.44:649][236]LogWorld: Bringing up level for play took: 0.001527
+[2019.11.14-20.23.44:665][236]PIE: Play in editor start time for /Game/UEDPIE_0_ASYLUM -0.534
+[2019.11.14-20.23.44:666][236]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.11.14-20.23.44:667][236]LogEngine: Changing dynamic resolution state.
+[2019.11.14-20.23.44:669][236]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2019.11.14-20.24.27:342][113]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.11.14-20.24.27:398][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-20.24.27:443][113]LogSlate: Window 'test2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.14-20.24.27:482][113]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.14-20.24.27:482][113]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.11.14-20.24.27:533][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2019.11.14-20.24.27:561][114]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.11.14-20.24.27:561][114]LogEngine: Changing dynamic resolution state.
+[2019.11.14-20.24.28:961][281]LogSlate: Window 'ASYLUM' being destroyed
+[2019.11.14-20.24.28:968][281]LogSlate: Window 'ASYLUM' being destroyed
+[2019.11.14-20.24.41:107][710]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-20.24.53:443][186]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-20.24.53:476][190]LogTemp: Repeating last play command: VR Preview
+[2019.11.14-20.24.53:486][190]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.11.14-20.24.53:486][190]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.14-20.24.53:486][190]LogHMD: Initializing OVRPlugin session
+[2019.11.14-20.24.53:547][190]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2019.11.14-20.24.53:548][190]PIE: New page: PIE session: ASYLUM (Nov 14, 2019, 10:24:53 PM)
+[2019.11.14-20.24.53:548][190]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ASYLUM
+[2019.11.14-20.24.53:560][190]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012007s)
+[2019.11.14-20.24.53:560][190]LogAIModule: Creating AISystem for world ASYLUM
+[2019.11.14-20.24.53:560][190]LogPlayLevel: PIE: World Init took: (0.000462s)
+[2019.11.14-20.24.53:560][190]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ASYLUM.ASYLUM to /Game/UEDPIE_0_ASYLUM.ASYLUM (0.012584s)
+[2019.11.14-20.24.53:593][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2019.11.14-20.24.53:628][190]LogInit: XAudio2 using 'Headphones (5- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.14-20.24.53:639][190]LogInit: FAudioDevice initialized.
+[2019.11.14-20.24.53:648][190]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-20.24.53:705][190]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.11.14-20.24.53:705][190]LogLoad: Game class is 'GameModeBase'
+[2019.11.14-20.24.53:707][190]LogWorld: Bringing World /Game/UEDPIE_0_ASYLUM.ASYLUM up for play (max tick rate 0) at 2019.11.14-21.24.53
+[2019.11.14-20.24.53:707][190]LogWorld: Bringing up level for play took: 0.001435
+[2019.11.14-20.24.53:723][190]PIE: Play in editor start time for /Game/UEDPIE_0_ASYLUM 0.523
+[2019.11.14-20.24.53:724][190]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.11.14-20.24.53:724][190]LogEngine: Changing dynamic resolution state.
+[2019.11.14-20.24.53:727][190]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2019.11.14-20.27.42:219][279]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.11.14-20.27.42:274][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-20.27.42:293][279]LogSlate: Window 'test2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.14-20.27.42:329][279]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.14-20.27.42:329][279]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.11.14-20.27.42:377][279]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2019.11.14-20.27.42:394][280]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.11.14-20.27.42:395][280]LogEngine: Changing dynamic resolution state.
+[2019.11.14-20.28.27:211][644]LogTemp: Repeating last play command: VR Preview
+[2019.11.14-20.28.27:217][644]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.11.14-20.28.27:217][644]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.14-20.28.27:217][644]LogHMD: Initializing OVRPlugin session
+[2019.11.14-20.28.27:276][644]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2019.11.14-20.28.27:277][644]PIE: New page: PIE session: ASYLUM (Nov 14, 2019, 10:28:27 PM)
+[2019.11.14-20.28.27:277][644]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ASYLUM
+[2019.11.14-20.28.27:295][644]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018068s)
+[2019.11.14-20.28.27:295][644]LogAIModule: Creating AISystem for world ASYLUM
+[2019.11.14-20.28.27:296][644]LogPlayLevel: PIE: World Init took: (0.000560s)
+[2019.11.14-20.28.27:296][644]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ASYLUM.ASYLUM to /Game/UEDPIE_0_ASYLUM.ASYLUM (0.018752s)
+[2019.11.14-20.28.27:321][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2019.11.14-20.28.27:346][644]LogInit: XAudio2 using 'Headphones (5- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.14-20.28.27:357][644]LogInit: FAudioDevice initialized.
+[2019.11.14-20.28.27:364][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-20.28.27:423][644]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.11.14-20.28.27:423][644]LogLoad: Game class is 'GameModeBase'
+[2019.11.14-20.28.27:425][644]LogWorld: Bringing World /Game/UEDPIE_0_ASYLUM.ASYLUM up for play (max tick rate 0) at 2019.11.14-21.28.27
+[2019.11.14-20.28.27:426][644]LogWorld: Bringing up level for play took: 0.002211
+[2019.11.14-20.28.27:443][644]PIE: Play in editor start time for /Game/UEDPIE_0_ASYLUM 0.243
+[2019.11.14-20.28.27:443][644]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.11.14-20.28.27:443][644]LogEngine: Changing dynamic resolution state.
+[2019.11.14-20.28.27:446][644]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2019.11.14-20.28.34:685][295]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.11.14-20.28.34:745][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-20.28.34:769][295]LogSlate: Window 'test2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.14-20.28.34:800][295]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.14-20.28.34:801][295]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.11.14-20.28.34:835][295]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2019.11.14-20.28.34:853][296]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.11.14-20.28.34:853][296]LogEngine: Changing dynamic resolution state.
+[2019.11.14-20.28.39:995][910]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-20.28.43:961][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-20.28.43:986][383]LogTemp: Repeating last play command: VR Preview
+[2019.11.14-20.28.43:992][383]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.11.14-20.28.43:992][383]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.14-20.28.43:992][383]LogHMD: Initializing OVRPlugin session
+[2019.11.14-20.28.44:062][383]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2019.11.14-20.28.44:063][383]PIE: New page: PIE session: ASYLUM (Nov 14, 2019, 10:28:44 PM)
+[2019.11.14-20.28.44:063][383]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ASYLUM
+[2019.11.14-20.28.44:077][383]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013689s)
+[2019.11.14-20.28.44:077][383]LogAIModule: Creating AISystem for world ASYLUM
+[2019.11.14-20.28.44:077][383]LogPlayLevel: PIE: World Init took: (0.000478s)
+[2019.11.14-20.28.44:077][383]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ASYLUM.ASYLUM to /Game/UEDPIE_0_ASYLUM.ASYLUM (0.014303s)
+[2019.11.14-20.28.44:105][383]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2019.11.14-20.28.44:134][383]LogInit: XAudio2 using 'Headphones (5- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.14-20.28.44:146][383]LogInit: FAudioDevice initialized.
+[2019.11.14-20.28.44:158][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-20.28.44:213][383]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.11.14-20.28.44:213][383]LogLoad: Game class is 'GameModeBase'
+[2019.11.14-20.28.44:214][383]LogWorld: Bringing World /Game/UEDPIE_0_ASYLUM.ASYLUM up for play (max tick rate 0) at 2019.11.14-21.28.44
+[2019.11.14-20.28.44:215][383]LogWorld: Bringing up level for play took: 0.001431
+[2019.11.14-20.28.44:231][383]PIE: Play in editor start time for /Game/UEDPIE_0_ASYLUM 1.031
+[2019.11.14-20.28.44:231][383]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.11.14-20.28.44:231][383]LogEngine: Changing dynamic resolution state.
+[2019.11.14-20.28.44:234][383]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2019.11.14-20.29.06:918][424]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.11.14-20.29.06:978][424]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-20.29.07:030][424]LogSlate: Window 'test2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.14-20.29.07:067][424]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.14-20.29.07:068][424]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.11.14-20.29.07:133][424]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2019.11.14-20.29.07:147][425]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.11.14-20.29.07:147][425]LogEngine: Changing dynamic resolution state.
+[2019.11.14-20.29.27:919][912]LogEditorViewport: Clicking Background
+[2019.11.14-20.29.35:740][835]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.11.14-20.29.37:165][994]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2019.11.14-20.29.50:651][607]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-20.29.50:751][619]LogTemp: Repeating last play command: VR Preview
+[2019.11.14-20.29.50:759][619]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.11.14-20.29.50:760][619]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.14-20.29.50:760][619]LogHMD: Initializing OVRPlugin session
+[2019.11.14-20.29.50:818][619]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2019.11.14-20.29.50:818][619]PIE: New page: PIE session: ASYLUM (Nov 14, 2019, 10:29:50 PM)
+[2019.11.14-20.29.50:818][619]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ASYLUM
+[2019.11.14-20.29.50:830][619]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011892s)
+[2019.11.14-20.29.50:831][619]LogAIModule: Creating AISystem for world ASYLUM
+[2019.11.14-20.29.50:831][619]LogPlayLevel: PIE: World Init took: (0.000447s)
+[2019.11.14-20.29.50:831][619]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ASYLUM.ASYLUM to /Game/UEDPIE_0_ASYLUM.ASYLUM (0.012452s)
+[2019.11.14-20.29.50:858][619]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2019.11.14-20.29.50:886][619]LogInit: XAudio2 using 'Headphones (5- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.14-20.29.50:897][619]LogInit: FAudioDevice initialized.
+[2019.11.14-20.29.50:904][619]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-20.29.50:956][619]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.11.14-20.29.50:956][619]LogLoad: Game class is 'GameModeBase'
+[2019.11.14-20.29.50:958][619]LogWorld: Bringing World /Game/UEDPIE_0_ASYLUM.ASYLUM up for play (max tick rate 0) at 2019.11.14-21.29.50
+[2019.11.14-20.29.50:958][619]LogWorld: Bringing up level for play took: 0.001457
+[2019.11.14-20.29.50:974][619]PIE: Play in editor start time for /Game/UEDPIE_0_ASYLUM -0.226
+[2019.11.14-20.29.50:975][619]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.11.14-20.29.50:975][619]LogEngine: Changing dynamic resolution state.
+[2019.11.14-20.29.50:978][619]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2019.11.14-20.30.51:627][ 70]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.11.14-20.30.51:687][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-20.30.51:713][ 70]LogSlate: Window 'test2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.14-20.30.51:748][ 70]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.14-20.30.51:749][ 70]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.11.14-20.30.51:808][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2019.11.14-20.30.51:828][ 71]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.11.14-20.30.51:828][ 71]LogEngine: Changing dynamic resolution state.
+[2019.11.14-20.30.58:188][827]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2019.11.14-20.30.58:743][888]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.11.14-20.30.59:554][982]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.11.14-20.31.04:840][609]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-20.31.11:997][455]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-20.31.12:088][466]LogTemp: Repeating last play command: VR Preview
+[2019.11.14-20.31.12:095][466]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.11.14-20.31.12:095][466]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.14-20.31.12:095][466]LogHMD: Initializing OVRPlugin session
+[2019.11.14-20.31.12:157][466]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2019.11.14-20.31.12:157][466]PIE: New page: PIE session: ASYLUM (Nov 14, 2019, 10:31:12 PM)
+[2019.11.14-20.31.12:157][466]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ASYLUM
+[2019.11.14-20.31.12:171][466]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013567s)
+[2019.11.14-20.31.12:172][466]LogAIModule: Creating AISystem for world ASYLUM
+[2019.11.14-20.31.12:172][466]LogPlayLevel: PIE: World Init took: (0.000870s)
+[2019.11.14-20.31.12:172][466]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ASYLUM.ASYLUM to /Game/UEDPIE_0_ASYLUM.ASYLUM (0.014609s)
+[2019.11.14-20.31.12:202][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2019.11.14-20.31.12:232][466]LogInit: XAudio2 using 'Headphones (5- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.14-20.31.12:243][466]LogInit: FAudioDevice initialized.
+[2019.11.14-20.31.12:254][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-20.31.12:307][466]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.11.14-20.31.12:308][466]LogLoad: Game class is 'GameModeBase'
+[2019.11.14-20.31.12:309][466]LogWorld: Bringing World /Game/UEDPIE_0_ASYLUM.ASYLUM up for play (max tick rate 0) at 2019.11.14-21.31.12
+[2019.11.14-20.31.12:310][466]LogWorld: Bringing up level for play took: 0.001420
+[2019.11.14-20.31.12:326][466]PIE: Play in editor start time for /Game/UEDPIE_0_ASYLUM 1.126
+[2019.11.14-20.31.12:326][466]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.11.14-20.31.12:326][466]LogEngine: Changing dynamic resolution state.
+[2019.11.14-20.31.12:330][466]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2019.11.14-20.31.19:738][132]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.11.14-20.31.19:792][132]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-20.31.19:815][132]LogSlate: Window 'test2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.14-20.31.19:848][132]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.14-20.31.19:848][132]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.11.14-20.31.19:882][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.11.14-20.31.19:901][133]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.11.14-20.31.19:902][133]LogEngine: Changing dynamic resolution state.
+[2019.11.14-20.31.21:119][277]LogTemp: Repeating last play command: VR Preview
+[2019.11.14-20.31.21:125][277]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.11.14-20.31.21:125][277]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.14-20.31.21:125][277]LogHMD: Initializing OVRPlugin session
+[2019.11.14-20.31.21:183][277]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2019.11.14-20.31.21:183][277]PIE: New page: PIE session: ASYLUM (Nov 14, 2019, 10:31:21 PM)
+[2019.11.14-20.31.21:183][277]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ASYLUM
+[2019.11.14-20.31.21:195][277]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011626s)
+[2019.11.14-20.31.21:195][277]LogAIModule: Creating AISystem for world ASYLUM
+[2019.11.14-20.31.21:195][277]LogPlayLevel: PIE: World Init took: (0.000433s)
+[2019.11.14-20.31.21:195][277]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ASYLUM.ASYLUM to /Game/UEDPIE_0_ASYLUM.ASYLUM (0.012166s)
+[2019.11.14-20.31.21:221][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2019.11.14-20.31.21:243][277]LogInit: XAudio2 using 'Headphones (5- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.14-20.31.21:251][277]LogInit: FAudioDevice initialized.
+[2019.11.14-20.31.21:262][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-20.31.21:322][277]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.11.14-20.31.21:322][277]LogLoad: Game class is 'GameModeBase'
+[2019.11.14-20.31.21:324][277]LogWorld: Bringing World /Game/UEDPIE_0_ASYLUM.ASYLUM up for play (max tick rate 0) at 2019.11.14-21.31.21
+[2019.11.14-20.31.21:324][277]LogWorld: Bringing up level for play took: 0.001469
+[2019.11.14-20.31.21:340][277]PIE: Play in editor start time for /Game/UEDPIE_0_ASYLUM 0.139
+[2019.11.14-20.31.21:340][277]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.11.14-20.31.21:340][277]LogEngine: Changing dynamic resolution state.
+[2019.11.14-20.31.21:342][277]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2019.11.14-20.31.24:171][531]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.11.14-20.31.24:227][531]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-20.31.24:252][531]LogSlate: Window 'test2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.14-20.31.24:284][531]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.14-20.31.24:284][531]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.11.14-20.31.24:319][531]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2019.11.14-20.31.24:337][532]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.11.14-20.31.24:338][532]LogEngine: Changing dynamic resolution state.
+[2019.11.14-20.31.25:461][667]LogTemp: Repeating last play command: VR Preview
+[2019.11.14-20.31.25:467][667]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.11.14-20.31.25:467][667]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.14-20.31.25:467][667]LogHMD: Initializing OVRPlugin session
+[2019.11.14-20.31.25:520][667]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2019.11.14-20.31.25:520][667]PIE: New page: PIE session: ASYLUM (Nov 14, 2019, 10:31:25 PM)
+[2019.11.14-20.31.25:520][667]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ASYLUM
+[2019.11.14-20.31.25:533][667]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012719s)
+[2019.11.14-20.31.25:534][667]LogAIModule: Creating AISystem for world ASYLUM
+[2019.11.14-20.31.25:534][667]LogPlayLevel: PIE: World Init took: (0.000480s)
+[2019.11.14-20.31.25:534][667]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ASYLUM.ASYLUM to /Game/UEDPIE_0_ASYLUM.ASYLUM (0.013311s)
+[2019.11.14-20.31.25:562][667]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2019.11.14-20.31.25:586][667]LogInit: XAudio2 using 'Headphones (5- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.14-20.31.25:595][667]LogInit: FAudioDevice initialized.
+[2019.11.14-20.31.25:603][667]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-20.31.25:659][667]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.11.14-20.31.25:659][667]LogLoad: Game class is 'GameModeBase'
+[2019.11.14-20.31.25:661][667]LogWorld: Bringing World /Game/UEDPIE_0_ASYLUM.ASYLUM up for play (max tick rate 0) at 2019.11.14-21.31.25
+[2019.11.14-20.31.25:661][667]LogWorld: Bringing up level for play took: 0.001498
+[2019.11.14-20.31.25:677][667]PIE: Play in editor start time for /Game/UEDPIE_0_ASYLUM 0.477
+[2019.11.14-20.31.25:677][667]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.11.14-20.31.25:677][667]LogEngine: Changing dynamic resolution state.
+[2019.11.14-20.31.25:680][667]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2019.11.14-20.31.39:417][903]Cmd: LevelEditor.ToggleImmersive
+[2019.11.14-20.31.39:590][911]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.14-20.31.41:259][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.14-20.31.41:834][ 98]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.14-20.31.42:457][150]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.14-20.31.42:649][158]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.14-20.31.43:767][254]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.11.14-20.31.43:826][254]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-20.31.43:879][254]LogSlate: Window 'test2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.14-20.31.43:910][254]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.14-20.31.43:910][254]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.11.14-20.31.43:946][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2019.11.14-20.31.43:953][255]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.11.14-20.31.43:953][255]LogEngine: Changing dynamic resolution state.
+[2019.11.14-20.31.46:710][584]Cmd: SELECT NONE
+[2019.11.14-20.31.47:877][701]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.14-20.31.49:386][882]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-20.32.00:515][217]LogTemp: Repeating last play command: VR Preview
+[2019.11.14-20.32.00:522][217]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.11.14-20.32.00:522][217]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.14-20.32.00:522][217]LogHMD: Initializing OVRPlugin session
+[2019.11.14-20.32.00:583][217]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2019.11.14-20.32.00:583][217]PIE: New page: PIE session: ASYLUM (Nov 14, 2019, 10:32:00 PM)
+[2019.11.14-20.32.00:584][217]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ASYLUM
+[2019.11.14-20.32.00:596][217]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012061s)
+[2019.11.14-20.32.00:596][217]LogAIModule: Creating AISystem for world ASYLUM
+[2019.11.14-20.32.00:596][217]LogPlayLevel: PIE: World Init took: (0.000474s)
+[2019.11.14-20.32.00:596][217]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ASYLUM.ASYLUM to /Game/UEDPIE_0_ASYLUM.ASYLUM (0.012649s)
+[2019.11.14-20.32.00:628][217]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2019.11.14-20.32.00:663][217]LogInit: XAudio2 using 'Headphones (5- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.14-20.32.00:674][217]LogInit: FAudioDevice initialized.
+[2019.11.14-20.32.00:684][217]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-20.32.00:741][217]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.11.14-20.32.00:741][217]LogLoad: Game class is 'GameModeBase'
+[2019.11.14-20.32.00:743][217]LogWorld: Bringing World /Game/UEDPIE_0_ASYLUM.ASYLUM up for play (max tick rate 0) at 2019.11.14-21.32.00
+[2019.11.14-20.32.00:743][217]LogWorld: Bringing up level for play took: 0.001471
+[2019.11.14-20.32.00:759][217]PIE: Play in editor start time for /Game/UEDPIE_0_ASYLUM -0.441
+[2019.11.14-20.32.00:759][217]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.11.14-20.32.00:759][217]LogEngine: Changing dynamic resolution state.
+[2019.11.14-20.32.00:761][217]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2019.11.14-20.34.56:245][958]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.11.14-20.34.56:305][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-20.34.56:329][958]LogSlate: Window 'test2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.14-20.34.56:359][958]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.14-20.34.56:360][958]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.11.14-20.34.56:443][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2019.11.14-20.34.56:456][959]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.11.14-20.34.56:457][959]LogEngine: Changing dynamic resolution state.
+[2019.11.14-20.35.00:271][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2019.11.14-20.35.00:284][404]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ASYLUM" FILE="../../../../../../Users/Alumne/Downloads/test2/Content/ASYLUM.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.14-20.35.00:313][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.11.14-20.35.00:524][404]LogSavePackage: Moving '../../../../../../Users/Alumne/Downloads/test2/Saved/ASYLUMA0C7BFE64EED270C5A65FEA7608ABF7B.tmp' to '../../../../../../Users/Alumne/Downloads/test2/Content/ASYLUM.umap'
+[2019.11.14-20.35.00:539][404]LogFileHelpers: Saving map 'ASYLUM' took 0.256
+[2019.11.14-20.35.06:748][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ASYLUM" FILE="../../../../../../Users/Alumne/Downloads/test2/Content/ASYLUM.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.14-20.35.06:775][145]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2019.11.14-20.35.06:972][145]LogSavePackage: Moving '../../../../../../Users/Alumne/Downloads/test2/Saved/ASYLUM136386454DB5AC26537C199053DC458B.tmp' to '../../../../../../Users/Alumne/Downloads/test2/Content/ASYLUM.umap'

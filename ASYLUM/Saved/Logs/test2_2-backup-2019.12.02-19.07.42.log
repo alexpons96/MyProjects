@@ -1,0 +1,916 @@
+﻿Log file open, 12/02/19 20:05:21
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: test2
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.410150
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.02-19.05.21:630][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.02-19.05.21:630][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.02-19.05.21:630][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/anfy/ASYLUM_prototipo 3.0/Saved/Config/Windows/Engine.ini]
+[2019.12.02-19.05.21:630][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.02-19.05.21:630][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2019.12.02-19.05.21:630][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2019.12.02-19.05.21:630][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2019.12.02-19.05.21:630][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2019.12.02-19.05.21:630][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2019.12.02-19.05.21:630][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2019.12.02-19.05.21:630][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2019.12.02-19.05.21:630][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/anfy/ASYLUM_prototipo 3.0/Saved/Config/Windows/Engine.ini]
+[2019.12.02-19.05.21:630][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/anfy/ASYLUM_prototipo 3.0/Saved/Config/Windows/Engine.ini]
+[2019.12.02-19.05.21:630][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.02-19.05.21:630][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.02-19.05.21:630][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.02-19.05.21:630][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.02-19.05.21:630][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.02-19.05.21:630][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.02-19.05.21:630][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.02-19.05.21:630][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.02-19.05.21:630][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.02-19.05.21:630][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.02-19.05.21:630][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.02-19.05.21:630][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.02-19.05.21:630][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.02-19.05.21:630][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/anfy/ASYLUM_prototipo 3.0/Saved/Config/Windows/Engine.ini]
+[2019.12.02-19.05.21:630][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.02-19.05.21:630][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.02-19.05.21:630][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.02-19.05.21:630][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.02-19.05.21:630][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.02-19.05.21:630][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.02-19.05.21:630][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.02-19.05.21:630][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.02-19.05.21:630][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.02-19.05.21:630][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.02-19.05.21:630][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.02-19.05.21:630][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.02-19.05.21:630][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.02-19.05.21:630][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/anfy/ASYLUM_prototipo 3.0/Saved/Config/Windows/Engine.ini]
+[2019.12.02-19.05.21:630][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/anfy/ASYLUM_prototipo 3.0/Saved/Config/Windows/Engine.ini]
+[2019.12.02-19.05.21:632][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/anfy/ASYLUM_prototipo 3.0/Saved/Config/Windows/Scalability.ini]
+[2019.12.02-19.05.21:632][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.02-19.05.21:632][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.02-19.05.21:632][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/anfy/ASYLUM_prototipo 3.0/Saved/Config/Windows/Scalability.ini]
+[2019.12.02-19.05.21:632][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/anfy/ASYLUM_prototipo 3.0/Saved/Config/Windows/Scalability.ini]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/anfy/ASYLUM_prototipo 3.0/Saved/Config/Windows/Scalability.ini]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/anfy/ASYLUM_prototipo 3.0/Saved/Config/Windows/Scalability.ini]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/anfy/ASYLUM_prototipo 3.0/Saved/Config/Windows/Scalability.ini]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.12.02-19.05.21:633][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.02-19.05.21:634][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.12.02-19.05.21:634][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.12.02-19.05.21:634][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.02-19.05.21:634][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.12.02-19.05.21:634][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.02-19.05.21:634][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.02-19.05.21:634][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.02-19.05.21:634][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.02-19.05.21:634][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.02-19.05.21:634][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.02-19.05.21:634][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.02-19.05.21:634][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/anfy/ASYLUM_prototipo 3.0/Saved/Config/Windows/Scalability.ini]
+[2019.12.02-19.05.21:634][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.02-19.05.21:634][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.02-19.05.21:634][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.02-19.05.21:634][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.02-19.05.21:653][  0]LogHAL: Display: Platform has ~ 32 GB [34289688576 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.02-19.05.21:653][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.12.02-19.05.21:653][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.02-19.05.21:653][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/anfy/ASYLUM_prototipo 3.0/Saved/Config/Windows/Scalability.ini]
+[2019.12.02-19.05.21:653][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.02-19.05.21:653][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.02-19.05.21:653][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/anfy/ASYLUM_prototipo 3.0/Saved/Config/Windows/Scalability.ini]
+[2019.12.02-19.05.21:653][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.12.02-19.05.21:653][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/anfy/ASYLUM_prototipo 3.0/Saved/Config/Windows/Scalability.ini]
+[2019.12.02-19.05.21:653][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.02-19.05.21:653][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.02-19.05.21:653][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.02-19.05.21:653][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.02-19.05.21:653][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.02-19.05.21:653][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.02-19.05.21:653][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.02-19.05.21:653][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.02-19.05.21:653][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.02-19.05.21:653][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.02-19.05.21:653][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.02-19.05.21:653][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.02-19.05.21:653][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.02-19.05.21:653][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.02-19.05.21:653][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.02-19.05.21:653][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.02-19.05.21:653][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.02-19.05.21:653][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.02-19.05.21:653][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/anfy/ASYLUM_prototipo 3.0/Saved/Config/Windows/Scalability.ini]
+[2019.12.02-19.05.21:653][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.12.02-19.05.21:653][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.02-19.05.21:653][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.02-19.05.21:653][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.12.02-19.05.21:653][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.02-19.05.21:653][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.12.02-19.05.21:653][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.02-19.05.21:653][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.12.02-19.05.21:653][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.12.02-19.05.21:653][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.02-19.05.21:653][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.12.02-19.05.21:653][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.12.02-19.05.21:653][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.02-19.05.21:653][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.02-19.05.21:653][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.02-19.05.21:653][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.02-19.05.21:653][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.02-19.05.21:653][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.02-19.05.21:653][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.02-19.05.21:653][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.02-19.05.21:653][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.02-19.05.21:653][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.02-19.05.21:654][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.02-19.05.21:654][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.02-19.05.21:654][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.02-19.05.21:654][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.02-19.05.21:654][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.02-19.05.21:654][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.02-19.05.21:654][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.02-19.05.21:654][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.02-19.05.21:654][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/anfy/ASYLUM_prototipo 3.0/Saved/Config/Windows/Scalability.ini]
+[2019.12.02-19.05.21:654][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.02-19.05.21:654][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.02-19.05.21:654][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.02-19.05.21:654][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.02-19.05.21:654][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.02-19.05.21:654][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.02-19.05.21:654][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.02-19.05.21:654][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.02-19.05.21:654][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/anfy/ASYLUM_prototipo 3.0/Saved/Config/Windows/Scalability.ini]
+[2019.12.02-19.05.21:654][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.12.02-19.05.21:654][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.02-19.05.21:654][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.12.02-19.05.21:654][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.12.02-19.05.21:654][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.02-19.05.21:654][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.12.02-19.05.21:654][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.02-19.05.21:654][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.02-19.05.21:654][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.02-19.05.21:654][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.02-19.05.21:654][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.02-19.05.21:654][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.02-19.05.21:654][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.02-19.05.21:654][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/anfy/ASYLUM_prototipo 3.0/Saved/Config/Windows/Scalability.ini]
+[2019.12.02-19.05.21:654][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.02-19.05.21:654][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.02-19.05.21:654][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.02-19.05.21:654][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.02-19.05.21:654][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.02-19.05.21:654][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/anfy/ASYLUM_prototipo 3.0/Saved/Config/Windows/Engine.ini]
+[2019.12.02-19.05.21:654][  0]LogInit: Computer: DESKTOP-PFK5BRK
+[2019.12.02-19.05.21:654][  0]LogInit: User: Alumne
+[2019.12.02-19.05.21:654][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.12.02-19.05.21:654][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.02-19.05.21:655][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.12.02-19.05.21:655][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.02-19.05.21:655][  0]LogMemory: Process Physical Memory: 103.45 MB used, 103.46 MB peak
+[2019.12.02-19.05.21:655][  0]LogMemory: Process Virtual Memory: 95.86 MB used, 95.86 MB peak
+[2019.12.02-19.05.21:655][  0]LogMemory: Physical Memory: 13184.91 MB used,  19516.29 MB free, 32701.20 MB total
+[2019.12.02-19.05.21:655][  0]LogMemory: Virtual Memory: 4699.19 MB used,  134213032.00 MB free, 134217728.00 MB total
+[2019.12.02-19.05.21:674][  0]LogInit: Using OS detected language (en-US).
+[2019.12.02-19.05.21:674][  0]LogInit: Using OS detected locale (en-US).
+[2019.12.02-19.05.21:675][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.12.02-19.05.21:864][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.02-19.05.21:888][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.02-19.05.21:888][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.02-19.05.22:041][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.02-19.05.22:100][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.12.02-19.05.22:100][  0]LogD3D11RHI:       8088/0/16350 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.12.02-19.05.22:102][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.02-19.05.22:102][  0]LogD3D11RHI:       0/0/16350 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.02-19.05.22:102][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.02-19.05.22:110][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.02-19.05.22:110][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2019.12.02-19.05.22:110][  0]LogWindows: EnumDisplayDevices:
+[2019.12.02-19.05.22:110][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2019.12.02-19.05.22:110][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.12.02-19.05.22:110][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.12.02-19.05.22:111][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.12.02-19.05.22:111][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.12.02-19.05.22:111][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.12.02-19.05.22:111][  0]LogD3D11RHI:   Driver Version: 441.12 (internal:26.21.14.4112, unified:441.12)
+[2019.12.02-19.05.22:111][  0]LogD3D11RHI:      Driver Date: 10-24-2019
+[2019.12.02-19.05.22:111][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2019.12.02-19.05.22:149][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.02-19.05.22:152][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.12.02-19.05.22:152][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.12.02-19.05.22:152][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.12.02-19.05.22:160][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.12.02-19.05.22:508][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.02-19.05.22:521][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.02-19.05.22:535][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.02-19.05.22:549][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.02-19.05.22:561][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.02-19.05.22:574][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.02-19.05.22:587][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.02-19.05.22:602][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.02-19.05.22:608][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.02-19.05.22:684][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.02-19.05.22:685][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.02-19.05.22:685][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.02-19.05.22:685][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.02-19.05.22:685][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.02-19.05.22:685][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.02-19.05.22:685][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.02-19.05.22:685][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.02-19.05.22:685][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.02-19.05.22:685][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.02-19.05.22:685][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.02-19.05.22:685][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.02-19.05.22:685][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.02-19.05.22:685][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.02-19.05.22:685][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.02-19.05.22:685][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.02-19.05.22:685][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.02-19.05.22:685][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.02-19.05.22:686][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.02-19.05.22:733][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.02-19.05.22:733][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.02-19.05.22:758][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.02-19.05.22:758][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.02-19.05.22:770][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.02-19.05.22:783][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.02-19.05.22:796][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.02-19.05.22:809][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.02-19.05.22:855][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.02-19.05.22:855][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.02-19.05.22:855][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.02-19.05.22:863][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.02-19.05.22:915][  0]LogShaderCompilers: Guid format shader working directory is 19 characters bigger than the processId version (D:/anfy/ASYLUM_prototipo 3.0/Intermediate/Shaders/WorkingDirectory/7172/).
+[2019.12.02-19.05.22:915][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Alumne/AppData/Local/Temp/UnrealShaderWorkingDir/FA4663874D4B3F78D8B3FBA7EEC4FFE6/'.
+[2019.12.02-19.05.22:917][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.02-19.05.22:917][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.02-19.05.22:917][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.02-19.05.23:438][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.02-19.05.23:489][  0]LogDerivedDataCache: Loaded boot cache 0.05s 72MB C:/Users/Alumne/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.12.02-19.05.23:490][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Alumne/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.12.02-19.05.23:490][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/anfy/ASYLUM_prototipo 3.0/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.02-19.05.23:490][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.02-19.05.23:490][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/anfy/ASYLUM_prototipo 3.0/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.02-19.05.23:490][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.02-19.05.23:503][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.02-19.05.23:503][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.02-19.05.23:503][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.02-19.05.23:515][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Alumne/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.02-19.05.23:515][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.02-19.05.23:515][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.02-19.05.23:535][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.02-19.05.23:536][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.02-19.05.23:536][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.02-19.05.23:620][  0]LogAssetRegistry: FAssetRegistry took 0.0355 seconds to start up
+[2019.12.02-19.05.23:930][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.02-19.05.24:059][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.02-19.05.24:060][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.02-19.05.24:060][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.02-19.05.24:060][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.02-19.05.24:060][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.02-19.05.24:071][  0]LogNetVersion: test2 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 265451243)
+[2019.12.02-19.05.24:498][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.088403 seconds
+[2019.12.02-19.05.24:504][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.12.02-19.05.24:504][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.12.02-19.05.24:504][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.02-19.05.25:264][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.02-19.05.25:278][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.02-19.05.25:379][  0]SourceControl: Source control is disabled
+[2019.12.02-19.05.25:379][  0]SourceControl: Source control is disabled
+[2019.12.02-19.05.25:381][  0]SourceControl: Source control is disabled
+[2019.12.02-19.05.25:382][  0]SourceControl: Source control is disabled
+[2019.12.02-19.05.25:457][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.02-19.05.25:566][  0]LogOcInput: OculusInput pre-init called
+[2019.12.02-19.05.26:153][  0]LogEngine: Initializing Engine...
+[2019.12.02-19.05.26:153][  0]LogHMD: Oculus plugin initialized. Version: 4.22.3-7053642+++UE4+Release-4.22, OVRPlugin: 1.32.0
+[2019.12.02-19.05.26:154][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.02-19.05.26:349][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.02-19.05.26:362][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.02-19.05.26:396][  0]LogInit: XAudio2 using 'Headphones (4- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.02-19.05.26:418][  0]LogInit: FAudioDevice initialized.
+[2019.12.02-19.05.26:419][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.02-19.05.26:561][  0]LogDerivedDataCache: Saved boot cache 0.14s 72MB C:/Users/Alumne/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.12.02-19.05.26:572][  0]LogInit: Texture streaming: Enabled
+[2019.12.02-19.05.26:592][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.02-19.05.26:592][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={719A5C1E-45A3-AE35-E428-72A496D297A5}
+[2019.12.02-19.05.26:612][  0]LogInit: Transaction tracking system initialized
+[2019.12.02-19.05.26:636][  0]BlueprintLog: New page: Editor Load
+[2019.12.02-19.05.26:717][  0]LocalizationService: Localization service is disabled
+[2019.12.02-19.05.26:994][  0]LogFileCache: Scanning file cache for directory 'D:/anfy/ASYLUM_prototipo 3.0/Content/' took 0.02s
+[2019.12.02-19.05.26:994][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.02-19.05.26:994][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.02-19.05.27:175][  0]SourceControl: Source control is disabled
+[2019.12.02-19.05.27:175][  0]Cmd: MAP LOAD FILE="D:/anfy/ASYLUM_prototipo 3.0/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.02-19.05.27:175][  0]LightingResults: New page: Lighting Build
+[2019.12.02-19.05.27:178][  0]MapCheck: New page: Map Check
+[2019.12.02-19.05.27:178][  0]LightingResults: New page: Lighting Build
+[2019.12.02-19.05.27:203][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.12.02-19.05.27:274][  0]LogAIModule: Creating AISystem for world StartupMap
+[2019.12.02-19.05.27:279][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.02-19.05.27:306][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2019.12.02-19.05.27:306][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.02-19.05.27:306][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.142ms to complete.
+[2019.12.02-19.05.27:306][  0]LogFileHelpers: Loading map 'StartupMap' took 0.131
+[2019.12.02-19.05.27:399][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-19.05.27:407][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-19.05.27:414][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-19.05.27:420][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-19.05.27:426][  0]LogCollectionManager: Loaded 0 collections in 0.002252 seconds
+[2019.12.02-19.05.27:441][  0]LogFileCache: Scanning file cache for directory 'D:/anfy/ASYLUM_prototipo 3.0/Saved/Collections/' took 0.01s
+[2019.12.02-19.05.27:441][  0]LogFileCache: Scanning file cache for directory 'D:/anfy/ASYLUM_prototipo 3.0/Content/Developers/Alumne/Collections/' took 0.00s
+[2019.12.02-19.05.27:441][  0]LogFileCache: Scanning file cache for directory 'D:/anfy/ASYLUM_prototipo 3.0/Content/Collections/' took 0.00s
+[2019.12.02-19.05.27:441][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.12.02-19.05.27:449][  0]LogContentBrowser: Native class hierarchy populated in 0.0075 seconds. Added 2732 classes and 659 folders.
+[2019.12.02-19.05.27:455][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.02-19.05.27:456][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.02-19.05.27:456][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.02-19.05.27:457][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.02-19.05.27:457][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.02-19.05.27:457][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.02-19.05.27:458][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.02-19.05.27:458][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.02-19.05.27:459][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.02-19.05.27:459][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.02-19.05.27:459][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.02-19.05.27:460][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.02-19.05.27:460][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.02-19.05.27:460][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.02-19.05.27:461][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.02-19.05.27:461][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.02-19.05.27:462][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.02-19.05.27:462][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.02-19.05.27:462][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.02-19.05.27:463][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.02-19.05.27:463][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.02-19.05.27:463][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.02-19.05.27:464][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.02-19.05.27:464][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.02-19.05.27:465][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.02-19.05.27:465][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.02-19.05.27:465][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.02-19.05.27:492][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.02-19.05.27:499][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.12.02-19.05.27:557][  0]LogSlate: Took 0.000249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.02-19.05.27:560][  0]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.02-19.05.27:566][  0]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.02-19.05.27:624][  0]LogRenderer: Reallocating scene render targets to support 1004x720 Format 26 NumSamples 1 (Frame:1).
+[2019.12.02-19.05.27:770][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.02-19.05.27:770][  0]LogLoad: (Engine Initialization) Total time: 8.76 seconds
+[2019.12.02-19.05.27:770][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.02-19.05.27:784][  0]LogOcInput: OculusInput is initialized
+[2019.12.02-19.05.27:821][  0]LogAssetRegistry: Asset discovery search completed in 4.2238 seconds
+[2019.12.02-19.05.27:823][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.12.02-19.05.27:823][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000078 seconds (updated 0 objects)
+[2019.12.02-19.05.27:824][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.02-19.05.27:849][  0]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.02-19.06.11:953][281]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.02-19.06.12:914][395]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.02-19.06.13:402][395]LogAIModule: Creating AISystem for world ASYLUM
+[2019.12.02-19.06.13:425][395]LogAssetEditorManager: Opening Asset editor for World /Game/ASYLUM.ASYLUM
+[2019.12.02-19.06.13:458][395]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2019.12.02-19.06.13:459][395]Cmd: MAP LOAD FILE="D:/anfy/ASYLUM_prototipo 3.0/Content/ASYLUM.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.02-19.06.13:459][395]LightingResults: New page: Lighting Build
+[2019.12.02-19.06.13:460][395]LoadErrors: New page: Loading map: ASYLUM.umap
+[2019.12.02-19.06.13:461][395]MapCheck: New page: Map Check
+[2019.12.02-19.06.13:461][395]LightingResults: New page: Lighting Build
+[2019.12.02-19.06.13:490][395]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2019.12.02-19.06.13:591][395]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.02-19.06.13:616][395]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2019.12.02-19.06.13:638][395]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.02-19.06.13:641][395]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.971ms to complete.
+[2019.12.02-19.06.13:641][395]LogFileHelpers: Loading map 'ASYLUM' took 0.182
+[2019.12.02-19.06.18:397][938]MapCheck: New page: Map Check
+[2019.12.02-19.06.18:411][938]Cmd: MAP REBUILD ALLVISIBLE
+[2019.12.02-19.06.18:411][938]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.12.02-19.06.18:580][938]LightingResults: New page: Lighting Build - Dec 2, 2019, 9:06:18 PM
+[2019.12.02-19.06.18:616][938]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.12.02-19.06.18:693][938]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.12.02-19.06.18:703][938]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.12.02-19.06.19:235][938]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.12.02-19.06.19:236][938]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7172
+[2019.12.02-19.06.21:614][938]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.12.02-19.06.21:614][938]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.12.02-19.06.21:614][938]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.12.02-19.06.21:614][938]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.12.02-19.06.21:614][938]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.12.02-19.06.21:614][938]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.12.02-19.06.21:817][938]LogEditorBuildUtils: Build time 0:03
+[2019.12.02-19.06.21:830][938]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Floor_Water_Mesh_Paint, compiling. 
+[2019.12.02-19.06.21:845][938]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Floor_Water_Mesh_Paint, compiling. 
+[2019.12.02-19.06.21:879][939]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Ceiling_Mesh_Paint, compiling. 
+[2019.12.02-19.06.21:890][939]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Ceiling_Mesh_Paint, compiling. 
+[2019.12.02-19.06.21:923][940]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_CobbleStone_Rough, compiling. 
+[2019.12.02-19.06.21:935][940]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_CobbleStone_Rough, compiling. 
+[2019.12.02-19.06.21:959][941]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer HE_MetalRust, compiling. 
+[2019.12.02-19.06.21:968][941]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer HE_MetalRust, compiling. 
+[2019.12.02-19.06.21:992][942]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_M_LightExploded_HE_MetalBronze_16197FEA42F63ED92CEAE585F0B71D70, compiling. 
+[2019.12.02-19.06.22:003][942]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_M_LightExploded_HE_MetalBronze_16197FEA42F63ED92CEAE585F0B71D70, compiling. 
+[2019.12.02-19.06.22:024][943]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Base_Pipe, compiling. 
+[2019.12.02-19.06.22:034][943]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Base_Pipe, compiling. 
+[2019.12.02-19.06.22:057][944]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Pipe_Clamps, compiling. 
+[2019.12.02-19.06.22:069][944]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Pipe_Clamps, compiling. 
+[2019.12.02-19.06.22:090][945]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Pipe_Valve_02, compiling. 
+[2019.12.02-19.06.22:102][945]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Pipe_Valve_02, compiling. 
+[2019.12.02-19.06.22:126][946]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Pipe_Valve_01, compiling. 
+[2019.12.02-19.06.22:139][946]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Pipe_Valve_01, compiling. 
+[2019.12.02-19.06.22:160][947]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Tiles_Wall_Mesh_Paint, compiling. 
+[2019.12.02-19.06.22:172][947]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Tiles_Wall_Mesh_Paint, compiling. 
+[2019.12.02-19.06.22:190][948]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Glass_Shattered_01, compiling. 
+[2019.12.02-19.06.22:199][948]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Glass_Shattered_01, compiling. 
+[2019.12.02-19.06.26:664][971]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2019.12.02-19.06.27:077][971]Error, fatal in EndJobSpecification
+[2019.12.02-19.06.27:078][971]LogStaticLightingSystem: Warning: Failed to build lighting!!! Lighting build failed. Swarm failed to kick off.  Compile Unreal Lightmass.
+[2019.12.02-19.06.27:622][971]Job has failed! Job is closed while Tasks are still PENDING
+[2019.12.02-19.06.27:622][971]DumpUnbuiltLightIteractions
+[2019.12.02-19.06.27:622][971]Lights with unbuilt interactions: 2
+[2019.12.02-19.06.27:622][971]    Light PointLight2
+[2019.12.02-19.06.27:622][971]    Light PointLight3
+[2019.12.02-19.06.27:622][971]
+[2019.12.02-19.06.27:622][971]Primitives with unbuilt interactions: 15
+[2019.12.02-19.06.27:622][971]    Primitive StaticMeshComponent /Game/ASYLUM.ASYLUM:PersistentLevel.SM_Hallway_Pipe01_100_Bent_90Tight_20.StaticMeshComponent0
+[2019.12.02-19.06.27:622][971]    Primitive StaticMeshComponent /Game/ASYLUM.ASYLUM:PersistentLevel.SM_Hallway_Pipe_Clamp3.StaticMeshComponent0
+[2019.12.02-19.06.27:622][971]    Primitive StaticMeshComponent /Game/ASYLUM.ASYLUM:PersistentLevel.SM_Hallway_Pipe_Clamp2.StaticMeshComponent0
+[2019.12.02-19.06.27:622][971]    Primitive StaticMeshComponent /Game/ASYLUM.ASYLUM:PersistentLevel.SM_Hallway_Pipe_Clamp01_16.StaticMeshComponent0
+[2019.12.02-19.06.27:622][971]    Primitive StaticMeshComponent /Game/ASYLUM.ASYLUM:PersistentLevel.SM_Hallway_Pipe01_7.StaticMeshComponent0
+[2019.12.02-19.06.27:622][971]    Primitive StaticMeshComponent /Game/ASYLUM.ASYLUM:PersistentLevel.SM_Hallway_Pipe01_2.StaticMeshComponent0
+[2019.12.02-19.06.27:622][971]    Primitive StaticMeshComponent /Game/ASYLUM.ASYLUM:PersistentLevel.SM_Hallway_Pipe01_100_Bent_90Tight2.StaticMeshComponent0
+[2019.12.02-19.06.27:622][971]    Primitive StaticMeshComponent /Game/ASYLUM.ASYLUM:PersistentLevel.roof2.StaticMeshComponent0
+[2019.12.02-19.06.27:622][971]    Primitive StaticMeshComponent /Game/ASYLUM.ASYLUM:PersistentLevel.LightExploded_12.StaticMeshComponent0
+[2019.12.02-19.06.27:622][971]    Primitive StaticMeshComponent /Game/ASYLUM.ASYLUM:PersistentLevel.floor2.StaticMeshComponent0
+[2019.12.02-19.06.27:622][971]    Primitive StaticMeshComponent /Game/ASYLUM.ASYLUM:PersistentLevel.SM_Hallway_Pipe_Valve_29.StaticMeshComponent0
+[2019.12.02-19.06.27:622][971]    Primitive StaticMeshComponent /Game/ASYLUM.ASYLUM:PersistentLevel.SM_Hallway_Pipe_TJunction_10.StaticMeshComponent0
+[2019.12.02-19.06.27:622][971]    Primitive StaticMeshComponent /Game/ASYLUM.ASYLUM:PersistentLevel.SM_Hallway_Pipe_Clamp6.StaticMeshComponent0
+[2019.12.02-19.06.27:622][971]    Primitive StaticMeshComponent /Game/ASYLUM.ASYLUM:PersistentLevel.SM_Hallway_Pipe_Clamp5.StaticMeshComponent0
+[2019.12.02-19.06.27:622][971]    Primitive StaticMeshComponent /Game/ASYLUM.ASYLUM:PersistentLevel.SM_Hallway_Pipe_Clamp4.StaticMeshComponent0
+[2019.12.02-19.06.27:665][972]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.12.02-19.06.27:665][972]MapCheck: New page: ASYLUM - Dec 2, 2019, 9:06:27 PM
+[2019.12.02-19.06.27:666][972]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2019.12.02-19.06.27:671][972]MapCheck: Warning: SM_Hallway_Pipe_Clamp4 SM_Hallway_Pipe_Clamp4 is in the same location as SM_Hallway_Pipe_Clamp5 
+[2019.12.02-19.06.27:671][972]MapCheck: Warning: SM_Hallway_Pipe_Clamp5 SM_Hallway_Pipe_Clamp5 is in the same location as SM_Hallway_Pipe_Clamp4 
+[2019.12.02-19.06.27:671][972]MapCheck: Map check complete: 1 Error(s), 2 Warning(s), took 5.885ms to complete.
+[2019.12.02-19.06.40:695][529]MapCheck: New page: Map Check
+[2019.12.02-19.06.40:713][529]Cmd: MAP REBUILD ALLVISIBLE
+[2019.12.02-19.06.40:713][529]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.12.02-19.06.40:889][529]LightingResults: New page: Lighting Build - Dec 2, 2019, 9:06:40 PM
+[2019.12.02-19.06.40:903][529]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.12.02-19.06.40:907][529]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.12.02-19.06.40:907][529]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.12.02-19.06.40:907][529]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.12.02-19.06.40:907][529]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7172
+[2019.12.02-19.06.45:424][529]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.12.02-19.06.45:424][529]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.12.02-19.06.45:424][529]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.12.02-19.06.45:424][529]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.12.02-19.06.45:424][529]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.12.02-19.06.45:424][529]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.12.02-19.06.45:504][529]LogEditorBuildUtils: Build time 0:04
+[2019.12.02-19.06.45:550][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2019.12.02-19.06.45:850][530]Error, fatal in EndJobSpecification
+[2019.12.02-19.06.45:851][530]LogStaticLightingSystem: Warning: Failed to build lighting!!! Lighting build failed. Swarm failed to kick off.  Compile Unreal Lightmass.
+[2019.12.02-19.06.46:425][530]Job has failed! Job is closed while Tasks are still PENDING
+[2019.12.02-19.06.46:425][530]DumpUnbuiltLightIteractions
+[2019.12.02-19.06.46:426][530]Lights with unbuilt interactions: 2
+[2019.12.02-19.06.46:426][530]    Light PointLight2
+[2019.12.02-19.06.46:426][530]    Light PointLight3
+[2019.12.02-19.06.46:426][530]
+[2019.12.02-19.06.46:426][530]Primitives with unbuilt interactions: 15
+[2019.12.02-19.06.46:426][530]    Primitive StaticMeshComponent /Game/ASYLUM.ASYLUM:PersistentLevel.SM_Hallway_Pipe01_100_Bent_90Tight_20.StaticMeshComponent0
+[2019.12.02-19.06.46:426][530]    Primitive StaticMeshComponent /Game/ASYLUM.ASYLUM:PersistentLevel.SM_Hallway_Pipe_Valve_29.StaticMeshComponent0
+[2019.12.02-19.06.46:426][530]    Primitive StaticMeshComponent /Game/ASYLUM.ASYLUM:PersistentLevel.SM_Hallway_Pipe_Clamp6.StaticMeshComponent0
+[2019.12.02-19.06.46:426][530]    Primitive StaticMeshComponent /Game/ASYLUM.ASYLUM:PersistentLevel.SM_Hallway_Pipe_Clamp5.StaticMeshComponent0
+[2019.12.02-19.06.46:426][530]    Primitive StaticMeshComponent /Game/ASYLUM.ASYLUM:PersistentLevel.SM_Hallway_Pipe_Clamp4.StaticMeshComponent0
+[2019.12.02-19.06.46:426][530]    Primitive StaticMeshComponent /Game/ASYLUM.ASYLUM:PersistentLevel.SM_Hallway_Pipe01_100_Bent_90Tight2.StaticMeshComponent0
+[2019.12.02-19.06.46:426][530]    Primitive StaticMeshComponent /Game/ASYLUM.ASYLUM:PersistentLevel.SM_Hallway_Pipe_Clamp3.StaticMeshComponent0
+[2019.12.02-19.06.46:426][530]    Primitive StaticMeshComponent /Game/ASYLUM.ASYLUM:PersistentLevel.SM_Hallway_Pipe_Clamp2.StaticMeshComponent0
+[2019.12.02-19.06.46:426][530]    Primitive StaticMeshComponent /Game/ASYLUM.ASYLUM:PersistentLevel.SM_Hallway_Pipe_Clamp01_16.StaticMeshComponent0
+[2019.12.02-19.06.46:426][530]    Primitive StaticMeshComponent /Game/ASYLUM.ASYLUM:PersistentLevel.SM_Hallway_Pipe_TJunction_10.StaticMeshComponent0
+[2019.12.02-19.06.46:426][530]    Primitive StaticMeshComponent /Game/ASYLUM.ASYLUM:PersistentLevel.SM_Hallway_Pipe01_7.StaticMeshComponent0
+[2019.12.02-19.06.46:426][530]    Primitive StaticMeshComponent /Game/ASYLUM.ASYLUM:PersistentLevel.SM_Hallway_Pipe01_2.StaticMeshComponent0
+[2019.12.02-19.06.46:426][530]    Primitive StaticMeshComponent /Game/ASYLUM.ASYLUM:PersistentLevel.LightExploded_12.StaticMeshComponent0
+[2019.12.02-19.06.46:426][530]    Primitive StaticMeshComponent /Game/ASYLUM.ASYLUM:PersistentLevel.roof2.StaticMeshComponent0
+[2019.12.02-19.06.46:426][530]    Primitive StaticMeshComponent /Game/ASYLUM.ASYLUM:PersistentLevel.floor2.StaticMeshComponent0
+[2019.12.02-19.06.46:463][531]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.12.02-19.06.46:463][531]MapCheck: New page: ASYLUM - Dec 2, 2019, 9:06:46 PM
+[2019.12.02-19.06.46:463][531]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2019.12.02-19.06.46:464][531]MapCheck: Warning: SM_Hallway_Pipe_Clamp4 SM_Hallway_Pipe_Clamp4 is in the same location as SM_Hallway_Pipe_Clamp5 
+[2019.12.02-19.06.46:464][531]MapCheck: Warning: SM_Hallway_Pipe_Clamp5 SM_Hallway_Pipe_Clamp5 is in the same location as SM_Hallway_Pipe_Clamp4 
+[2019.12.02-19.06.46:464][531]MapCheck: Map check complete: 1 Error(s), 2 Warning(s), took 0.905ms to complete.
+[2019.12.02-19.06.52:505][252]MapCheck: New page: Map Check
+[2019.12.02-19.06.52:516][252]Cmd: MAP REBUILD ALLVISIBLE
+[2019.12.02-19.06.52:516][252]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.12.02-19.06.52:780][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2019.12.02-19.06.52:912][252]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.02-19.06.52:921][252]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2019.12.02-19.06.52:950][252]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.02-19.06.52:950][252]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.02-19.06.52:963][252]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.02-19.06.52:973][252]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.02-19.06.52:984][252]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.02-19.06.52:990][252]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.02-19.06.53:004][252]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.02-19.06.53:017][252]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.02-19.06.53:027][252]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.02-19.06.53:039][252]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.02-19.06.53:049][252]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.02-19.06.53:063][252]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.02-19.06.53:072][252]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.02-19.06.53:089][252]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.02-19.06.53:101][252]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.02-19.06.53:115][252]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.02-19.06.57:153][252]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.12.02-19.06.57:153][252]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.12.02-19.06.57:153][252]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.02-19.06.57:153][252]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.02-19.06.57:153][252]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.02-19.06.57:153][252]TextureStreamingBuild: Display: Compiling optional shaders took 4.249 seconds.
+[2019.12.02-19.06.57:349][252]LogLevel: Display: Export Material TexCoord Scales took 0.195 seconds.
+[2019.12.02-19.06.57:379][252]TextureStreamingBuild: Display: Build Texture Streaming took 0.029 seconds.
+[2019.12.02-19.06.57:407][252]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2019.12.02-19.06.57:407][252]LightingResults: New page: Lighting Build - Dec 2, 2019, 9:06:57 PM
+[2019.12.02-19.06.57:420][252]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.12.02-19.06.57:423][252]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.12.02-19.06.57:423][252]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.12.02-19.06.57:423][252]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.12.02-19.06.57:423][252]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7172
+[2019.12.02-19.07.01:936][252]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.12.02-19.07.01:936][252]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.12.02-19.07.01:936][252]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.12.02-19.07.01:936][252]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.12.02-19.07.01:936][252]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.12.02-19.07.01:936][252]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.12.02-19.07.01:994][252]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.12.02-19.07.01:994][252]MapCheck: New page: ASYLUM - Dec 2, 2019, 9:07:01 PM
+[2019.12.02-19.07.01:994][252]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2019.12.02-19.07.01:995][252]MapCheck: Warning: SM_Hallway_Pipe_Clamp4 SM_Hallway_Pipe_Clamp4 is in the same location as SM_Hallway_Pipe_Clamp5 
+[2019.12.02-19.07.01:995][252]MapCheck: Warning: SM_Hallway_Pipe_Clamp5 SM_Hallway_Pipe_Clamp5 is in the same location as SM_Hallway_Pipe_Clamp4 
+[2019.12.02-19.07.01:995][252]MapCheck: Map check complete: 1 Error(s), 2 Warning(s), took 0.662ms to complete.
+[2019.12.02-19.07.02:019][252]LogEditorBuildUtils: Build time 0:09
+[2019.12.02-19.07.02:102][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2019.12.02-19.07.02:381][253]Error, fatal in EndJobSpecification
+[2019.12.02-19.07.02:382][253]LogStaticLightingSystem: Warning: Failed to build lighting!!! Lighting build failed. Swarm failed to kick off.  Compile Unreal Lightmass.
+[2019.12.02-19.07.02:940][253]Job has failed! Job is closed while Tasks are still PENDING
+[2019.12.02-19.07.02:940][253]DumpUnbuiltLightIteractions
+[2019.12.02-19.07.02:941][253]Lights with unbuilt interactions: 2
+[2019.12.02-19.07.02:941][253]    Light PointLight2
+[2019.12.02-19.07.02:941][253]    Light PointLight3
+[2019.12.02-19.07.02:941][253]
+[2019.12.02-19.07.02:941][253]Primitives with unbuilt interactions: 15
+[2019.12.02-19.07.02:941][253]    Primitive StaticMeshComponent /Game/ASYLUM.ASYLUM:PersistentLevel.SM_Hallway_Pipe01_100_Bent_90Tight_20.StaticMeshComponent0
+[2019.12.02-19.07.02:941][253]    Primitive StaticMeshComponent /Game/ASYLUM.ASYLUM:PersistentLevel.SM_Hallway_Pipe_Valve_29.StaticMeshComponent0
+[2019.12.02-19.07.02:941][253]    Primitive StaticMeshComponent /Game/ASYLUM.ASYLUM:PersistentLevel.SM_Hallway_Pipe_Clamp6.StaticMeshComponent0
+[2019.12.02-19.07.02:941][253]    Primitive StaticMeshComponent /Game/ASYLUM.ASYLUM:PersistentLevel.SM_Hallway_Pipe_Clamp5.StaticMeshComponent0
+[2019.12.02-19.07.02:941][253]    Primitive StaticMeshComponent /Game/ASYLUM.ASYLUM:PersistentLevel.SM_Hallway_Pipe_Clamp4.StaticMeshComponent0
+[2019.12.02-19.07.02:941][253]    Primitive StaticMeshComponent /Game/ASYLUM.ASYLUM:PersistentLevel.SM_Hallway_Pipe01_100_Bent_90Tight2.StaticMeshComponent0
+[2019.12.02-19.07.02:941][253]    Primitive StaticMeshComponent /Game/ASYLUM.ASYLUM:PersistentLevel.SM_Hallway_Pipe_Clamp3.StaticMeshComponent0
+[2019.12.02-19.07.02:941][253]    Primitive StaticMeshComponent /Game/ASYLUM.ASYLUM:PersistentLevel.SM_Hallway_Pipe_Clamp2.StaticMeshComponent0
+[2019.12.02-19.07.02:941][253]    Primitive StaticMeshComponent /Game/ASYLUM.ASYLUM:PersistentLevel.SM_Hallway_Pipe_Clamp01_16.StaticMeshComponent0
+[2019.12.02-19.07.02:941][253]    Primitive StaticMeshComponent /Game/ASYLUM.ASYLUM:PersistentLevel.SM_Hallway_Pipe_TJunction_10.StaticMeshComponent0
+[2019.12.02-19.07.02:941][253]    Primitive StaticMeshComponent /Game/ASYLUM.ASYLUM:PersistentLevel.SM_Hallway_Pipe01_7.StaticMeshComponent0
+[2019.12.02-19.07.02:941][253]    Primitive StaticMeshComponent /Game/ASYLUM.ASYLUM:PersistentLevel.SM_Hallway_Pipe01_2.StaticMeshComponent0
+[2019.12.02-19.07.02:941][253]    Primitive StaticMeshComponent /Game/ASYLUM.ASYLUM:PersistentLevel.LightExploded_12.StaticMeshComponent0
+[2019.12.02-19.07.02:941][253]    Primitive StaticMeshComponent /Game/ASYLUM.ASYLUM:PersistentLevel.roof2.StaticMeshComponent0
+[2019.12.02-19.07.02:941][253]    Primitive StaticMeshComponent /Game/ASYLUM.ASYLUM:PersistentLevel.floor2.StaticMeshComponent0
+[2019.12.02-19.07.02:986][254]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.12.02-19.07.02:986][254]MapCheck: New page: ASYLUM - Dec 2, 2019, 9:07:02 PM
+[2019.12.02-19.07.02:986][254]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2019.12.02-19.07.02:987][254]MapCheck: Warning: SM_Hallway_Pipe_Clamp4 SM_Hallway_Pipe_Clamp4 is in the same location as SM_Hallway_Pipe_Clamp5 
+[2019.12.02-19.07.02:987][254]MapCheck: Warning: SM_Hallway_Pipe_Clamp5 SM_Hallway_Pipe_Clamp5 is in the same location as SM_Hallway_Pipe_Clamp4 
+[2019.12.02-19.07.02:987][254]MapCheck: Map check complete: 1 Error(s), 2 Warning(s), took 1.227ms to complete.
+[2019.12.02-19.07.35:092][ 89]LogSlate: Window 'Message Log' being destroyed
+[2019.12.02-19.07.35:098][ 89]LogSlate: Window 'Message Log' being destroyed
+[2019.12.02-19.07.38:685][518]MapCheck: New page: Map Check
+[2019.12.02-19.07.38:696][518]Cmd: MAP REBUILD ALLVISIBLE
+[2019.12.02-19.07.38:696][518]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.12.02-19.07.38:972][518]LogDerivedDataCache: FFileSystemDerivedDataBackend: Move collision, attempt at redundant update, OK C:/Users/Alumne/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/6/9/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_8C1CD29F4C40DAE81F8E70AE5CE70276__1_0_0_0_2_13315_0.udd.
+[2019.12.02-19.07.38:973][518]LogDerivedDataCache: FFileSystemDerivedDataBackend: Move collision, attempt at redundant update, OK C:/Users/Alumne/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/6/9/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_8C1CD29F4C40DAE81F8E70AE5CE70276__1_0_0_0_2_13315_0.udd.
+[2019.12.02-19.07.38:973][518]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_8C1CD29F4C40DAE81F8E70AE5CE70276__1_0_0_0_2_13315_0.
+[2019.12.02-19.07.38:973][518]LogFileManager: Error: Error flushing file: C:/Users/Alumne/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/0/temp.A49FFC3842AA093B782553B4E533C100 (There is not enough space on the disk.)
+[2019.12.02-19.07.38:973][518]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/Alumne/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/0/temp.A49FFC3842AA093B782553B4E533C100!
+[2019.12.02-19.07.38:973][518]LogFileManager: Error: Error flushing file: C:/Users/Alumne/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/0/temp.F7B2CA1145542CF197D6859C32E3F01D (There is not enough space on the disk.)
+[2019.12.02-19.07.38:973][518]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/Alumne/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/0/temp.F7B2CA1145542CF197D6859C32E3F01D!
+[2019.12.02-19.07.38:973][518]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_27611C6C4E0468F64E71F1AC115E4D25__1_0_0_0_3_13315_0.
+[2019.12.02-19.07.38:973][518]LogFileManager: Error: Error writing to file: C:/Users/Alumne/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/4/temp.88DA4D07408F5BE8F4D7AB9D934F4FE8 (There is not enough space on the disk.)
+[2019.12.02-19.07.38:973][518]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/Alumne/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/4/temp.88DA4D07408F5BE8F4D7AB9D934F4FE8!
+[2019.12.02-19.07.38:973][518]LogFileManager: Error: Error writing to file: C:/Users/Alumne/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/4/temp.12439E3C4935A3D3B83F9CA73CD917C8 (There is not enough space on the disk.)
+[2019.12.02-19.07.38:973][518]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/Alumne/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/4/temp.12439E3C4935A3D3B83F9CA73CD917C8!
+[2019.12.02-19.07.38:973][518]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_7E75C416409E16AFAD58F5BF8986EC3E__1_0_0_0_3_13315_0.
+[2019.12.02-19.07.38:973][518]LogFileManager: Error: Error writing to file: C:/Users/Alumne/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/0/temp.66D05E8043F34BAB254646AD00AF4A65 (There is not enough space on the disk.)
+[2019.12.02-19.07.38:973][518]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/Alumne/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/0/temp.66D05E8043F34BAB254646AD00AF4A65!
+[2019.12.02-19.07.38:973][518]LogFileManager: Error: Error flushing file: C:/Users/Alumne/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/1/temp.E613BC52452F8973BA2D0DACFA9D3199 (There is not enough space on the disk.)
+[2019.12.02-19.07.38:973][518]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/Alumne/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/1/temp.E613BC52452F8973BA2D0DACFA9D3199!
+[2019.12.02-19.07.38:973][518]LogFileManager: Error: Error writing to file: C:/Users/Alumne/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/0/temp.4598E8C749F3FEC638314982C18DCA69 (There is not enough space on the disk.)
+[2019.12.02-19.07.38:973][518]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/Alumne/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/0/temp.4598E8C749F3FEC638314982C18DCA69!
+[2019.12.02-19.07.38:973][518]LogFileManager: Error: Error flushing file: C:/Users/Alumne/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/4/temp.A3D1B2D846B90B0E283370BC5B074C5C (There is not enough space on the disk.)
+[2019.12.02-19.07.38:973][518]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_AD8657F0431B77A748BE20B4B9CCED6F__1_0_0_0_3_13315_0.
+[2019.12.02-19.07.38:973][518]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/Alumne/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/4/temp.A3D1B2D846B90B0E283370BC5B074C5C!
+[2019.12.02-19.07.38:973][518]LogFileManager: Error: Error flushing file: C:/Users/Alumne/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/1/temp.35E2AC5240F8B95F22696BB5134C3465 (There is not enough space on the disk.)
+[2019.12.02-19.07.38:973][518]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/Alumne/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/1/temp.35E2AC5240F8B95F22696BB5134C3465!
+[2019.12.02-19.07.38:973][518]LogFileManager: Error: Error flushing file: C:/Users/Alumne/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/4/temp.FFF789D74C3300B45ED34AA631867D4C (There is not enough space on the disk.)
+[2019.12.02-19.07.38:973][518]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/Alumne/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/4/temp.FFF789D74C3300B45ED34AA631867D4C!
+[2019.12.02-19.07.38:973][518]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_A402A046401160630EE0D6B90ED58DAD__1_0_0_0_3_13315_0.
+[2019.12.02-19.07.38:973][518]LogFileManager: Error: Error flushing file: C:/Users/Alumne/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/4/temp.40679724457279D9660981840C51A33F (There is not enough space on the disk.)
+[2019.12.02-19.07.38:973][518]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/Alumne/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/4/temp.40679724457279D9660981840C51A33F!
+[2019.12.02-19.07.38:973][518]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_ECA3F67A44F93F7450DCE4A013B64F4A__1_0_0_0_3_13315_0.
+[2019.12.02-19.07.38:973][518]LogFileManager: Error: Error writing to file: C:/Users/Alumne/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/5/temp.CE11337E4736195A4B98AC9FDC84B431 (There is not enough space on the disk.)
+[2019.12.02-19.07.38:973][518]LogFileManager: Error: Error flushing file: C:/Users/Alumne/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/4/temp.19C07DCF49FAC63B7DD77484AE02DB9C (There is not enough space on the disk.)
+[2019.12.02-19.07.38:973][518]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/Alumne/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/5/temp.CE11337E4736195A4B98AC9FDC84B431!
+[2019.12.02-19.07.38:973][518]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/Alumne/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/4/temp.19C07DCF49FAC63B7DD77484AE02DB9C!
+[2019.12.02-19.07.38:973][518]LogFileManager: Error: Error flushing file: C:/Users/Alumne/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/4/9/temp.E17D66DF477A3897B37F67BB573C2783 (There is not enough space on the disk.)
+[2019.12.02-19.07.38:973][518]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_28B322974E89D52AE0584EB1EDFB44FE__1_0_0_0_3_13315_0.
+[2019.12.02-19.07.38:973][518]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/Alumne/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/4/9/temp.E17D66DF477A3897B37F67BB573C2783!
+[2019.12.02-19.07.38:973][518]LogFileManager: Error: Error writing to file: C:/Users/Alumne/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/5/temp.6C318C8C4C405FC071BF7DA954429270 (There is not enough space on the disk.)
+[2019.12.02-19.07.38:973][518]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/Alumne/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/5/temp.6C318C8C4C405FC071BF7DA954429270!
+[2019.12.02-19.07.38:973][518]LogFileManager: Error: Error flushing file: C:/Users/Alumne/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/4/9/temp.F486E11941F724139C1E93964F5544AF (There is not enough space on the disk.)
+[2019.12.02-19.07.38:973][518]LogFileManager: Error: Error flushing file: C:/Users/Alumne/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/3/temp.E39FDE694E798E2C72A5AD83F575D8C6 (There is not enough space on the disk.)
+[2019.12.02-19.07.38:973][518]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_A80E50B44D6A2C4937F777A8442F401D__1_0_0_0_3_13315_0.
+[2019.12.02-19.07.38:973][518]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/Alumne/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/4/9/temp.F486E11941F724139C1E93964F5544AF!
+[2019.12.02-19.07.38:973][518]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/Alumne/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/3/temp.E39FDE694E798E2C72A5AD83F575D8C6!
+[2019.12.02-19.07.38:973][518]LogFileManager: Error: Error flushing file: C:/Users/Alumne/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/5/temp.DD8C53C04037A0AF26435984EF919577 (There is not enough space on the disk.)
+[2019.12.02-19.07.38:973][518]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_A0D1D01D4614263D8BCC54946E013855__1_0_0_0_3_13315_0.
+[2019.12.02-19.07.38:973][518]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/Alumne/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/5/temp.DD8C53C04037A0AF26435984EF919577!
+[2019.12.02-19.07.38:973][518]LogFileManager: Error: Error flushing file: C:/Users/Alumne/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/5/temp.B767FB814349AC7A67923EB92281391A (There is not enough space on the disk.)
+[2019.12.02-19.07.38:974][518]LogFileManager: Error: Error flushing file: C:/Users/Alumne/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/3/temp.0AE0BCF1454B235AA6B128AC0791B27A (There is not enough space on the disk.)
+[2019.12.02-19.07.38:974][518]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/Alumne/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/5/temp.B767FB814349AC7A67923EB92281391A!
+[2019.12.02-19.07.38:974][518]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/Alumne/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/3/temp.0AE0BCF1454B235AA6B128AC0791B27A!
+[2019.12.02-19.07.38:974][518]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_F45EA9544E824C7861A704B40EC20F89__1_0_0_0_3_13315_0.
+[2019.12.02-19.07.38:974][518]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_0FD0DD244129F53F2D7D928B7F7C35BE__1_0_0_0_3_13315_0.
+[2019.12.02-19.07.38:974][518]LogFileManager: Error: Error writing to file: C:/Users/Alumne/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/3/temp.80634BB04112C8EA8C0DB0A2E4754E8E (There is not enough space on the disk.)
+[2019.12.02-19.07.38:974][518]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/Alumne/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/3/temp.80634BB04112C8EA8C0DB0A2E4754E8E!
+[2019.12.02-19.07.38:974][518]LogFileManager: Error: Error writing to file: C:/Users/Alumne/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/3/temp.7196C79B4FEFD00ACA2CBA9E0CA8A7A7 (There is not enough space on the disk.)
+[2019.12.02-19.07.38:974][518]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/Alumne/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/3/temp.7196C79B4FEFD00ACA2CBA9E0CA8A7A7!
+[2019.12.02-19.07.38:974][518]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_11C6FA124583E0A5F5E78688F1A92C13__1_0_0_0_3_13315_0.
+[2019.12.02-19.07.38:974][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2019.12.02-19.07.39:010][518]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.02-19.07.39:018][518]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2019.12.02-19.07.39:031][518]LogFileManager: Error: Error flushing file: C:/Users/Alumne/AppData/Local/Temp/UnrealShaderWorkingDir/FA4663874D4B3F78D8B3FBA7EEC4FFE6/0A82FAFF6400221615370D5B3952A11A9 (There is not enough space on the disk.)
+[2019.12.02-19.07.39:031][518]LogFileManager: Error: Error writing to file: C:/Users/Alumne/AppData/Local/Temp/UnrealShaderWorkingDir/FA4663874D4B3F78D8B3FBA7EEC4FFE6/0A82FAFF6400221615370D5B3952A11A9 (There is not enough space on the disk.)
+[2019.12.02-19.07.39:031][518]LogFileManager: Error: Error flushing file: C:/Users/Alumne/AppData/Local/Temp/UnrealShaderWorkingDir/FA4663874D4B3F78D8B3FBA7EEC4FFE6/0A82FAFF6400221615370D5B3952A11A9 (There is not enough space on the disk.)
+[2019.12.02-19.07.39:031][518]LogFileManager: Error: Error writing to file: C:/Users/Alumne/AppData/Local/Temp/UnrealShaderWorkingDir/FA4663874D4B3F78D8B3FBA7EEC4FFE6/0A82FAFF6400221615370D5B3952A11A9 (There is not enough space on the disk.)
+[2019.12.02-19.07.39:031][518]LogFileManager: Error: Error flushing file: C:/Users/Alumne/AppData/Local/Temp/UnrealShaderWorkingDir/FA4663874D4B3F78D8B3FBA7EEC4FFE6/0A82FAFF6400221615370D5B3952A11A9 (There is not enough space on the disk.)
+[2019.12.02-19.07.39:031][518]LogFileManager: Error: Error flushing file: C:/Users/Alumne/AppData/Local/Temp/UnrealShaderWorkingDir/FA4663874D4B3F78D8B3FBA7EEC4FFE6/0A82FAFF6400221615370D5B3952A11A9 (There is not enough space on the disk.)
+[2019.12.02-19.07.39:031][518]LogFileManager: Error: Error writing to file: C:/Users/Alumne/AppData/Local/Temp/UnrealShaderWorkingDir/FA4663874D4B3F78D8B3FBA7EEC4FFE6/0A82FAFF6400221615370D5B3952A11A9 (There is not enough space on the disk.)
+[2019.12.02-19.07.39:031][518]LogFileManager: Error: Error flushing file: C:/Users/Alumne/AppData/Local/Temp/UnrealShaderWorkingDir/FA4663874D4B3F78D8B3FBA7EEC4FFE6/0A82FAFF6400221615370D5B3952A11A9 (There is not enough space on the disk.)
+[2019.12.02-19.07.39:031][518]LogFileManager: Error: Error writing to file: C:/Users/Alumne/AppData/Local/Temp/UnrealShaderWorkingDir/FA4663874D4B3F78D8B3FBA7EEC4FFE6/0A82FAFF6400221615370D5B3952A11A9 (There is not enough space on the disk.)
+[2019.12.02-19.07.39:031][518]LogFileManager: Error: Error flushing file: C:/Users/Alumne/AppData/Local/Temp/UnrealShaderWorkingDir/FA4663874D4B3F78D8B3FBA7EEC4FFE6/0A82FAFF6400221615370D5B3952A11A9 (There is not enough space on the disk.)
+[2019.12.02-19.07.39:031][518]LogFileManager: Error: Error writing to file: C:/Users/Alumne/AppData/Local/Temp/UnrealShaderWorkingDir/FA4663874D4B3F78D8B3FBA7EEC4FFE6/0A82FAFF6400221615370D5B3952A11A9 (There is not enough space on the disk.)
+[2019.12.02-19.07.39:031][518]LogFileManager: Error: Error writing to file: C:/Users/Alumne/AppData/Local/Temp/UnrealShaderWorkingDir/FA4663874D4B3F78D8B3FBA7EEC4FFE6/0A82FAFF6400221615370D5B3952A11A9 (There is not enough space on the disk.)
+[2019.12.02-19.07.39:031][518]LogFileManager: Error: Error flushing file: C:/Users/Alumne/AppData/Local/Temp/UnrealShaderWorkingDir/FA4663874D4B3F78D8B3FBA7EEC4FFE6/0A82FAFF6400221615370D5B3952A11A9 (There is not enough space on the disk.)
+[2019.12.02-19.07.39:031][518]LogFileManager: Error: Error flushing file: C:/Users/Alumne/AppData/Local/Temp/UnrealShaderWorkingDir/FA4663874D4B3F78D8B3FBA7EEC4FFE6/0A82FAFF6400221615370D5B3952A11A9 (There is not enough space on the disk.)
+[2019.12.02-19.07.39:031][518]LogFileManager: Error: Error flushing file: C:/Users/Alumne/AppData/Local/Temp/UnrealShaderWorkingDir/FA4663874D4B3F78D8B3FBA7EEC4FFE6/0A82FAFF6400221615370D5B3952A11A9 (There is not enough space on the disk.)
+[2019.12.02-19.07.39:031][518]LogFileManager: Error: Error flushing file: C:/Users/Alumne/AppData/Local/Temp/UnrealShaderWorkingDir/FA4663874D4B3F78D8B3FBA7EEC4FFE6/0A82FAFF6400221615370D5B3952A11A9 (There is not enough space on the disk.)
+[2019.12.02-19.07.39:031][518]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2019.12.02-19.07.39:036][518]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.02-19.07.39:045][518]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.02-19.07.39:054][518]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.02-19.07.39:061][518]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.02-19.07.39:068][518]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.02-19.07.39:092][518]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.02-19.07.39:103][518]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.02-19.07.39:115][518]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.02-19.07.39:122][518]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.02-19.07.39:140][518]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.02-19.07.39:155][518]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.02-19.07.39:164][518]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.02-19.07.39:172][518]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.02-19.07.40:052][518]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.12.02-19.07.40:052][518]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.12.02-19.07.40:052][518]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2019.12.02-19.07.40:052][518]LogWindows: Error: === Critical error: ===
+[2019.12.02-19.07.40:052][518]LogWindows: Error: 
+[2019.12.02-19.07.40:052][518]LogWindows: Error: Fatal error: [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\ShaderCompiler\ShaderCompiler.cpp] [Line: 990] 
+[2019.12.02-19.07.40:052][518]LogWindows: Error: Shader Compiling thread exception:
+[2019.12.02-19.07.40:052][518]LogWindows: Error: Fatal error: [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\ShaderCompiler\ShaderCompiler.cpp] [Line: 1158] 
+[2019.12.02-19.07.40:052][518]LogWindows: Error: Could not write the shader compiler transfer filename to 'C:/Users/Alumne/AppData/Local/Temp/UnrealShaderWorkingDir/FA4663874D4B3F78D8B3FBA7EEC4FFE6/0A82FAFF6400221615370D5B3952A11A9' (Free Disk Space: 0.
+[2019.12.02-19.07.40:052][518]LogWindows: Error: 
+[2019.12.02-19.07.40:052][518]LogWindows: Error: 
+[2019.12.02-19.07.40:052][518]LogWindows: Error: [Callstack] 0x00007ffa55b99149 KERNELBASE.dll!UnknownFunction []
+[2019.12.02-19.07.40:052][518]LogWindows: Error: [Callstack] 0x00007ffa16a71f37 UE4Editor-Core.dll!UnknownFunction []
+[2019.12.02-19.07.40:052][518]LogWindows: Error: [Callstack] 0x00007ffa16a746e7 UE4Editor-Core.dll!UnknownFunction []
+[2019.12.02-19.07.40:052][518]LogWindows: Error: [Callstack] 0x00007ffa16887d1a UE4Editor-Core.dll!UnknownFunction []
+[2019.12.02-19.07.40:052][518]LogWindows: Error: [Callstack] 0x00007ffa1680fe33 UE4Editor-Core.dll!UnknownFunction []
+[2019.12.02-19.07.40:052][518]LogWindows: Error: [Callstack] 0x00007ffa1680fd18 UE4Editor-Core.dll!UnknownFunction []
+[2019.12.02-19.07.40:052][518]LogWindows: Error: [Callstack] 0x00007ff9fd9370e9 UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.02-19.07.40:052][518]LogWindows: Error: [Callstack] 0x00007ff9fd8f26e7 UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.02-19.07.40:052][518]LogWindows: Error: [Callstack] 0x00007ff9fd928457 UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.02-19.07.40:052][518]LogWindows: Error: [Callstack] 0x00007ffa16a84b3f UE4Editor-Core.dll!UnknownFunction []
+[2019.12.02-19.07.40:052][518]LogWindows: Error: [Callstack] 0x00007ffa16a808a7 UE4Editor-Core.dll!UnknownFunction []
+[2019.12.02-19.07.40:053][518]LogWindows: Error: [Callstack] 0x00007ffa575381f4 KERNEL32.DLL!UnknownFunction []
+[2019.12.02-19.07.40:053][518]LogWindows: Error: [Callstack] 0x00007ffa597fa251 ntdll.dll!UnknownFunction []
+[2019.12.02-19.07.40:053][518]LogWindows: Error: 
+[2019.12.02-19.07.40:053][518]LogWindows: Error: 
+[2019.12.02-19.07.40:053][518]LogWindows: Error: 
+[2019.12.02-19.07.40:053][518]LogWindows: Error: 
+[2019.12.02-19.07.40:074][518]LogExit: Executing StaticShutdownAfterError
+[2019.12.02-19.07.40:077][518]LogWindows: FPlatformMisc::RequestExit(1)
+[2019.12.02-19.07.40:088][518]Log file closed, 12/02/19 20:07:40

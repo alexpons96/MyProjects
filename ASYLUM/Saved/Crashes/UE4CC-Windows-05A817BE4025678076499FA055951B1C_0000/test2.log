@@ -1,0 +1,1415 @@
+﻿Log file open, 12/09/19 18:34:04
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: test2
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.394164
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.09-17.34.08:283][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.09-17.34.08:283][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.09-17.34.08:283][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/IRV/ASYLUM_prototipo 3.5/Saved/Config/Windows/Engine.ini]
+[2019.12.09-17.34.08:283][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.09-17.34.08:283][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2019.12.09-17.34.08:283][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2019.12.09-17.34.08:283][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2019.12.09-17.34.08:283][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2019.12.09-17.34.08:283][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2019.12.09-17.34.08:283][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2019.12.09-17.34.08:283][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2019.12.09-17.34.08:283][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/IRV/ASYLUM_prototipo 3.5/Saved/Config/Windows/Engine.ini]
+[2019.12.09-17.34.08:283][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/IRV/ASYLUM_prototipo 3.5/Saved/Config/Windows/Engine.ini]
+[2019.12.09-17.34.08:283][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.09-17.34.08:283][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.09-17.34.08:283][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.09-17.34.08:283][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.09-17.34.08:283][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.09-17.34.08:283][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.09-17.34.08:283][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.09-17.34.08:283][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.09-17.34.08:283][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.09-17.34.08:283][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.09-17.34.08:283][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.09-17.34.08:283][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.09-17.34.08:283][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.09-17.34.08:283][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/IRV/ASYLUM_prototipo 3.5/Saved/Config/Windows/Engine.ini]
+[2019.12.09-17.34.08:283][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.09-17.34.08:283][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.09-17.34.08:283][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.09-17.34.08:283][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.09-17.34.08:283][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.09-17.34.08:283][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.09-17.34.08:283][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.09-17.34.08:283][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.09-17.34.08:283][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.09-17.34.08:283][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.09-17.34.08:283][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.09-17.34.08:283][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.09-17.34.08:283][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.09-17.34.08:283][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/IRV/ASYLUM_prototipo 3.5/Saved/Config/Windows/Engine.ini]
+[2019.12.09-17.34.08:283][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/IRV/ASYLUM_prototipo 3.5/Saved/Config/Windows/Engine.ini]
+[2019.12.09-17.34.08:284][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/IRV/ASYLUM_prototipo 3.5/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/IRV/ASYLUM_prototipo 3.5/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/IRV/ASYLUM_prototipo 3.5/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/IRV/ASYLUM_prototipo 3.5/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/IRV/ASYLUM_prototipo 3.5/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/IRV/ASYLUM_prototipo 3.5/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/IRV/ASYLUM_prototipo 3.5/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.09-17.34.08:285][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.09-17.34.08:285][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.09-17.34.08:285][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.09-17.34.09:602][  0]LogHAL: Display: Platform has ~ 32 GB [34289688576 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.09-17.34.09:602][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.12.09-17.34.09:602][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.09-17.34.09:603][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/IRV/ASYLUM_prototipo 3.5/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/IRV/ASYLUM_prototipo 3.5/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/IRV/ASYLUM_prototipo 3.5/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/IRV/ASYLUM_prototipo 3.5/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/IRV/ASYLUM_prototipo 3.5/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/IRV/ASYLUM_prototipo 3.5/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/IRV/ASYLUM_prototipo 3.5/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.09-17.34.09:603][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.09-17.34.09:604][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.09-17.34.09:604][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.09-17.34.09:604][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/IRV/ASYLUM_prototipo 3.5/Saved/Config/Windows/Engine.ini]
+[2019.12.09-17.34.09:604][  0]LogInit: Computer: DESKTOP-PFK5BRK
+[2019.12.09-17.34.09:604][  0]LogInit: User: Alumne
+[2019.12.09-17.34.09:604][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.12.09-17.34.09:604][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.09-17.34.09:604][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.12.09-17.34.09:604][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.09-17.34.09:604][  0]LogMemory: Process Physical Memory: 103.58 MB used, 103.59 MB peak
+[2019.12.09-17.34.09:604][  0]LogMemory: Process Virtual Memory: 96.32 MB used, 96.32 MB peak
+[2019.12.09-17.34.09:604][  0]LogMemory: Physical Memory: 5292.29 MB used,  27408.91 MB free, 32701.20 MB total
+[2019.12.09-17.34.09:604][  0]LogMemory: Virtual Memory: 4699.19 MB used,  134213032.00 MB free, 134217728.00 MB total
+[2019.12.09-17.34.09:619][  0]LogInit: Using OS detected language (en-US).
+[2019.12.09-17.34.09:619][  0]LogInit: Using OS detected locale (en-US).
+[2019.12.09-17.34.09:619][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.12.09-17.34.09:742][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.09-17.34.10:419][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.09-17.34.10:419][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.09-17.34.10:536][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.09-17.34.10:592][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.12.09-17.34.10:592][  0]LogD3D11RHI:       8088/0/16350 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.12.09-17.34.10:594][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.09-17.34.10:594][  0]LogD3D11RHI:       0/0/16350 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.09-17.34.10:594][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.09-17.34.10:598][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.09-17.34.10:598][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2019.12.09-17.34.10:598][  0]LogWindows: EnumDisplayDevices:
+[2019.12.09-17.34.10:598][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2019.12.09-17.34.10:598][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.12.09-17.34.10:599][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.12.09-17.34.10:599][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.12.09-17.34.10:599][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.12.09-17.34.10:599][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.12.09-17.34.10:599][  0]LogD3D11RHI:   Driver Version: 441.12 (internal:26.21.14.4112, unified:441.12)
+[2019.12.09-17.34.10:599][  0]LogD3D11RHI:      Driver Date: 10-24-2019
+[2019.12.09-17.34.10:599][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2019.12.09-17.34.10:630][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.09-17.34.10:633][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.12.09-17.34.10:633][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.12.09-17.34.10:633][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.12.09-17.34.10:641][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.12.09-17.34.10:896][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.09-17.34.10:907][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.09-17.34.10:918][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.09-17.34.10:929][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.09-17.34.10:941][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.09-17.34.10:952][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.09-17.34.10:963][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.09-17.34.10:974][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.09-17.34.10:980][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.09-17.34.11:045][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.09-17.34.11:045][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.09-17.34.11:045][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.09-17.34.11:045][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.09-17.34.11:045][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.09-17.34.11:045][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.09-17.34.11:045][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.09-17.34.11:045][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.09-17.34.11:045][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.09-17.34.11:045][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.09-17.34.11:045][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.09-17.34.11:045][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.09-17.34.11:045][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.09-17.34.11:045][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.09-17.34.11:046][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.09-17.34.11:046][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.09-17.34.11:046][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.09-17.34.11:046][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.09-17.34.11:047][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.09-17.34.11:090][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.09-17.34.11:090][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.09-17.34.11:109][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.09-17.34.11:110][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.09-17.34.11:120][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.09-17.34.11:130][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.09-17.34.11:140][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.09-17.34.11:150][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.09-17.34.11:185][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.09-17.34.11:185][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.09-17.34.11:185][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.09-17.34.11:192][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.09-17.34.11:231][  0]LogShaderCompilers: Guid format shader working directory is 20 characters bigger than the processId version (D:/IRV/ASYLUM_prototipo 3.5/Intermediate/Shaders/WorkingDirectory/3408/).
+[2019.12.09-17.34.11:232][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Alumne/AppData/Local/Temp/UnrealShaderWorkingDir/FE0D1C4048AA85B9990095B8D84D032B/'.
+[2019.12.09-17.34.11:233][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.09-17.34.11:233][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.09-17.34.11:233][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.09-17.34.11:660][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.09-17.34.11:699][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/Alumne/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.12.09-17.34.11:699][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Alumne/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.12.09-17.34.11:699][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/IRV/ASYLUM_prototipo 3.5/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.09-17.34.11:699][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.09-17.34.11:699][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/IRV/ASYLUM_prototipo 3.5/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.09-17.34.11:699][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.09-17.34.11:709][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.09-17.34.11:709][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.09-17.34.11:709][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.09-17.34.11:721][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Alumne/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.09-17.34.11:721][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.09-17.34.11:721][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.09-17.34.11:755][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.09-17.34.11:756][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.09-17.34.11:756][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.09-17.34.11:828][  0]LogAssetRegistry: FAssetRegistry took 0.0321 seconds to start up
+[2019.12.09-17.34.12:165][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.09-17.34.12:213][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.09-17.34.12:213][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.09-17.34.12:213][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.09-17.34.12:213][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.09-17.34.12:213][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.09-17.34.12:340][  0]LogNetVersion: test2 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 265451243)
+[2019.12.09-17.34.21:540][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 7.240981 seconds
+[2019.12.09-17.34.21:545][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.12.09-17.34.21:545][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.12.09-17.34.21:545][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.09-17.34.22:322][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.09-17.34.22:335][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.09-17.34.22:440][  0]SourceControl: Source control is disabled
+[2019.12.09-17.34.22:440][  0]SourceControl: Source control is disabled
+[2019.12.09-17.34.22:441][  0]SourceControl: Source control is disabled
+[2019.12.09-17.34.22:442][  0]SourceControl: Source control is disabled
+[2019.12.09-17.34.22:503][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.09-17.34.22:576][  0]LogOcInput: OculusInput pre-init called
+[2019.12.09-17.34.23:121][  0]LogEngine: Initializing Engine...
+[2019.12.09-17.34.23:121][  0]LogHMD: Oculus plugin initialized. Version: 4.22.3-7053642+++UE4+Release-4.22, OVRPlugin: 1.32.0
+[2019.12.09-17.34.23:122][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.09-17.34.23:463][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.09-17.34.23:473][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.09-17.34.23:498][  0]LogInit: XAudio2 using 'Headphones (5- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.09-17.34.23:524][  0]LogInit: FAudioDevice initialized.
+[2019.12.09-17.34.23:524][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.09-17.34.23:603][  0]LogDerivedDataCache: Saved boot cache 0.08s 86MB C:/Users/Alumne/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.12.09-17.34.23:614][  0]LogInit: Texture streaming: Enabled
+[2019.12.09-17.34.23:628][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.09-17.34.23:648][  0]LogInit: Transaction tracking system initialized
+[2019.12.09-17.34.23:667][  0]BlueprintLog: New page: Editor Load
+[2019.12.09-17.34.23:737][  0]LocalizationService: Localization service is disabled
+[2019.12.09-17.34.25:362][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.09-17.34.25:363][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.09-17.34.25:496][  0]LogFileCache: Scanning file cache for directory 'D:/IRV/ASYLUM_prototipo 3.5/Content/' took 0.04s
+[2019.12.09-17.34.25:497][  0]SourceControl: Source control is disabled
+[2019.12.09-17.34.25:497][  0]Cmd: MAP LOAD FILE="D:/IRV/ASYLUM_prototipo 3.5/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.09-17.34.25:497][  0]LightingResults: New page: Lighting Build
+[2019.12.09-17.34.25:499][  0]MapCheck: New page: Map Check
+[2019.12.09-17.34.25:499][  0]LightingResults: New page: Lighting Build
+[2019.12.09-17.34.25:523][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2019.12.09-17.34.25:645][  0]LogAIModule: Creating AISystem for world StartupMap
+[2019.12.09-17.34.25:649][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.09-17.34.25:673][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2019.12.09-17.34.25:673][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.09-17.34.25:674][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.321ms to complete.
+[2019.12.09-17.34.25:674][  0]LogFileHelpers: Loading map 'StartupMap' took 0.177
+[2019.12.09-17.34.25:787][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-17.34.25:792][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-17.34.25:797][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-17.34.25:802][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-17.34.25:808][  0]LogCollectionManager: Loaded 0 collections in 0.002111 seconds
+[2019.12.09-17.34.25:823][  0]LogFileCache: Scanning file cache for directory 'D:/IRV/ASYLUM_prototipo 3.5/Saved/Collections/' took 0.01s
+[2019.12.09-17.34.25:823][  0]LogFileCache: Scanning file cache for directory 'D:/IRV/ASYLUM_prototipo 3.5/Content/Developers/Alumne/Collections/' took 0.00s
+[2019.12.09-17.34.25:823][  0]LogFileCache: Scanning file cache for directory 'D:/IRV/ASYLUM_prototipo 3.5/Content/Collections/' took 0.00s
+[2019.12.09-17.34.25:823][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.12.09-17.34.25:830][  0]LogContentBrowser: Native class hierarchy populated in 0.0066 seconds. Added 2732 classes and 659 folders.
+[2019.12.09-17.34.25:835][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.09-17.34.25:836][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.09-17.34.25:836][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.09-17.34.25:837][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.09-17.34.25:837][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.09-17.34.25:837][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.09-17.34.25:838][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.09-17.34.25:838][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.09-17.34.25:838][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.09-17.34.25:839][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.09-17.34.25:839][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.09-17.34.25:839][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.09-17.34.25:840][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.09-17.34.25:840][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.09-17.34.25:840][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.09-17.34.25:841][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.09-17.34.25:841][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.09-17.34.25:841][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.09-17.34.25:842][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.09-17.34.25:842][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.09-17.34.25:842][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.09-17.34.25:843][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.09-17.34.25:843][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.09-17.34.25:843][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.09-17.34.25:844][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.09-17.34.25:844][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.09-17.34.25:845][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.09-17.34.25:869][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.09-17.34.25:873][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.12.09-17.34.25:917][  0]LogSlate: Took 0.000134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.09-17.34.25:918][  0]LogSlate: Took 0.000095 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.09-17.34.25:921][  0]LogSlate: Took 0.000116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.09-17.34.25:975][  0]LogRenderer: Reallocating scene render targets to support 1004x624 Format 26 NumSamples 1 (Frame:1).
+[2019.12.09-17.34.26:105][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.09-17.34.26:105][  0]LogLoad: (Engine Initialization) Total time: 26.84 seconds
+[2019.12.09-17.34.26:105][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.09-17.34.26:118][  0]LogOcInput: OculusInput is initialized
+[2019.12.09-17.34.26:146][  0]LogAssetRegistry: Asset discovery search completed in 14.3409 seconds
+[2019.12.09-17.34.26:148][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.12.09-17.34.26:148][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000033 seconds (updated 0 objects)
+[2019.12.09-17.34.26:149][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.09-17.34.26:201][  0]LogSlate: Took 0.000111 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.09-17.34.30:811][548]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.34.31:968][685]LogSlate: Took 0.000118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.09-17.34.32:920][685]LogAIModule: Creating AISystem for world ASYLUM
+[2019.12.09-17.34.32:944][685]LogAssetEditorManager: Opening Asset editor for World /Game/ASYLUM.ASYLUM
+[2019.12.09-17.34.32:970][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2019.12.09-17.34.32:971][685]Cmd: MAP LOAD FILE="D:/IRV/ASYLUM_prototipo 3.5/Content/ASYLUM.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.09-17.34.32:971][685]LightingResults: New page: Lighting Build
+[2019.12.09-17.34.32:971][685]LoadErrors: New page: Loading map: ASYLUM.umap
+[2019.12.09-17.34.32:973][685]MapCheck: New page: Map Check
+[2019.12.09-17.34.32:973][685]LightingResults: New page: Lighting Build
+[2019.12.09-17.34.32:999][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2019.12.09-17.34.33:064][685]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.09-17.34.33:088][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2019.12.09-17.34.35:072][685]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.09-17.34.35:074][685]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.789ms to complete.
+[2019.12.09-17.34.35:074][685]LogFileHelpers: Loading map 'ASYLUM' took 2.104
+[2019.12.09-17.34.43:141][322]MapCheck: New page: Map Check
+[2019.12.09-17.34.43:150][322]Cmd: MAP REBUILD ALLVISIBLE
+[2019.12.09-17.34.43:150][322]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.12.09-17.34.47:186][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2019.12.09-17.34.47:213][322]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-17.34.47:223][322]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2019.12.09-17.34.47:243][322]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.09-17.34.47:243][322]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-17.34.47:252][322]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-17.34.47:260][322]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-17.34.47:267][322]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-17.34.47:273][322]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-17.34.47:281][322]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-17.34.47:296][322]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-17.34.47:306][322]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-17.34.47:314][322]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-17.34.47:320][322]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-17.34.47:329][322]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-17.34.47:336][322]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-17.34.47:348][322]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-17.34.47:359][322]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-17.34.47:370][322]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-17.34.49:747][322]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.12.09-17.34.49:747][322]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.12.09-17.34.49:747][322]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.09-17.34.49:747][322]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.09-17.34.49:747][322]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.09-17.34.49:747][322]TextureStreamingBuild: Display: Compiling optional shaders took 2.539 seconds.
+[2019.12.09-17.34.49:897][322]LogLevel: Display: Export Material TexCoord Scales took 0.150 seconds.
+[2019.12.09-17.34.49:921][322]TextureStreamingBuild: Display: Build Texture Streaming took 0.023 seconds.
+[2019.12.09-17.34.49:946][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2019.12.09-17.34.49:948][322]LightingResults: New page: Lighting Build - Dec 9, 2019, 7:34:49 PM
+[2019.12.09-17.34.55:128][322]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.12.09-17.34.55:201][322]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.12.09-17.34.55:213][322]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.12.09-17.34.56:250][322]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.12.09-17.34.56:250][322]LogSwarmInterface: [TryOpenConnection] Local Process ID is 3408
+[2019.12.09-17.35.00:725][322]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.12.09-17.35.00:727][322]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.12.09-17.35.00:727][322]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.12.09-17.35.00:727][322]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.12.09-17.35.00:727][322]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.12.09-17.35.00:727][322]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.12.09-17.35.00:820][322]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.12.09-17.35.00:820][322]MapCheck: New page: ASYLUM - Dec 9, 2019, 7:35:00 PM
+[2019.12.09-17.35.00:820][322]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2019.12.09-17.35.00:824][322]MapCheck: Warning: SM_Hallway_Pipe_Clamp4 SM_Hallway_Pipe_Clamp4 is in the same location as SM_Hallway_Pipe_Clamp5 
+[2019.12.09-17.35.00:824][322]MapCheck: Warning: SM_Hallway_Pipe_Clamp5 SM_Hallway_Pipe_Clamp5 is in the same location as SM_Hallway_Pipe_Clamp4 
+[2019.12.09-17.35.00:824][322]MapCheck: Map check complete: 1 Error(s), 2 Warning(s), took 3.613ms to complete.
+[2019.12.09-17.35.00:847][322]LogEditorBuildUtils: Build time 0:17
+[2019.12.09-17.35.00:921][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2019.12.09-17.35.03:276][505]Job is a success!
+[2019.12.09-17.35.05:287][506]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.012s
+[2019.12.09-17.35.05:287][506]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.12.09-17.35.05:287][506]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2019.12.09-17.35.05:287][506]LogVolumetricLightmapImport:      Bricks at Level
+[2019.12.09-17.35.05:287][506]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2019.12.09-17.35.05:287][506]LogVolumetricLightmapImport:          1: 33.3% covering 3.1% of volume
+[2019.12.09-17.35.05:287][506]LogVolumetricLightmapImport:          2: 50.0% covering 0.1% of volume
+[2019.12.09-17.35.05:414][506]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2019.12.09-17.35.05:414][506]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2019.12.09-17.35.05:414][506]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2019.12.09-17.35.05:414][506]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2019.12.09-17.35.05:414][506]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 512X128)
+[2019.12.09-17.35.05:414][506]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 256X256)
+[2019.12.09-17.35.05:436][506]Lightmass on DESKTOP-PFK5BRK: 4.03 sec total, 235 ms importing, 43 ms setup, 717 ms photons, 2.95 sec processing, 0 ms extra exporting [249/249 mappings]. Threads: 31.9 sec total, 3.84 sec processing.
+[2019.12.09-17.35.05:438][506]LogStaticLightingSystem: ASYLUM_BuiltData storing lightmap data for 65 meshes in 3 LightmapResourceClusters (21.7 Meshes per cluster).
+[2019.12.09-17.35.05:464][506]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2019.12.09-17.35.05:477][506]LogStaticLightingSystem: Illumination: 15.5 sec (69 ms encoding lightmaps, 13 ms encoding shadowmaps)
+[2019.12.09-17.35.05:477][506]LogStaticLightingSystem: Lightmap texture memory:  1.0 MB (0.5 MB streaming, 0.5 MB non-streaming), 4 textures
+[2019.12.09-17.35.05:477][506]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.3 MB streaming, 0.3 MB non-streaming), 2 textures
+[2019.12.09-17.35.05:730][506]DumpUnbuiltLightIteractions
+[2019.12.09-17.35.05:730][506]Lights with unbuilt interactions: 0
+[2019.12.09-17.35.05:731][506]
+[2019.12.09-17.35.05:731][506]Primitives with unbuilt interactions: 0
+[2019.12.09-17.35.05:752][507]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.12.09-17.35.05:752][507]MapCheck: New page: ASYLUM - Dec 9, 2019, 7:35:05 PM
+[2019.12.09-17.35.05:753][507]MapCheck: Warning: SM_Hallway_Pipe_Clamp4 SM_Hallway_Pipe_Clamp4 is in the same location as SM_Hallway_Pipe_Clamp5 
+[2019.12.09-17.35.05:753][507]MapCheck: Warning: SM_Hallway_Pipe_Clamp5 SM_Hallway_Pipe_Clamp5 is in the same location as SM_Hallway_Pipe_Clamp4 
+[2019.12.09-17.35.05:753][507]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 0.907ms to complete.
+[2019.12.09-17.35.20:587][286]LogSlate: Window 'Message Log' being destroyed
+[2019.12.09-17.35.20:590][286]LogSlate: Window 'Message Log' being destroyed
+[2019.12.09-17.36.04:936][567]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.36.05:044][580]LogTemp: Repeating last play command: VR Preview
+[2019.12.09-17.36.06:989][580]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.12.09-17.36.06:990][580]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.09-17.36.06:990][580]LogHMD: Initializing OVRPlugin session
+[2019.12.09-17.36.07:867][580]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2019.12.09-17.36.07:868][580]PIE: New page: PIE session: ASYLUM (Dec 9, 2019, 7:36:07 PM)
+[2019.12.09-17.36.07:881][580]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ASYLUM
+[2019.12.09-17.36.07:900][580]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019040s)
+[2019.12.09-17.36.07:900][580]LogAIModule: Creating AISystem for world ASYLUM
+[2019.12.09-17.36.07:901][580]LogPlayLevel: PIE: World Init took: (0.000617s)
+[2019.12.09-17.36.07:901][580]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ASYLUM.ASYLUM to /Game/UEDPIE_0_ASYLUM.ASYLUM (0.019918s)
+[2019.12.09-17.36.07:924][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2019.12.09-17.36.07:952][580]LogInit: XAudio2 using 'Headphones (5- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.09-17.36.07:964][580]LogInit: FAudioDevice initialized.
+[2019.12.09-17.36.07:972][580]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-17.36.08:050][580]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.12.09-17.36.08:050][580]LogLoad: Game class is 'GameModeBase'
+[2019.12.09-17.36.08:053][580]LogWorld: Bringing World /Game/UEDPIE_0_ASYLUM.ASYLUM up for play (max tick rate 0) at 2019.12.09-18.36.08
+[2019.12.09-17.36.08:055][580]LogWorld: Bringing up level for play took: 0.003148
+[2019.12.09-17.36.08:074][580]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.12.09-17.36.08:085][580]PIE: Play in editor start time for /Game/UEDPIE_0_ASYLUM 1.419
+[2019.12.09-17.36.08:085][580]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.12.09-17.36.08:086][580]LogEngine: Changing dynamic resolution state.
+[2019.12.09-17.36.08:091][580]LogRenderer: Reallocating scene render targets to support 2688x1600 Format 26 NumSamples 1 (Frame:1).
+[2019.12.09-17.36.08:091][580]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2019.12.09-17.36.26:597][160]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.12.09-17.36.26:660][160]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-17.36.28:622][160]LogSlate: Window 'test2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.09-17.36.28:655][160]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.09-17.36.28:656][160]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.12.09-17.36.28:683][160]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2019.12.09-17.36.28:698][161]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.12.09-17.36.28:698][161]LogEngine: Changing dynamic resolution state.
+[2019.12.09-17.38.39:616][109]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.12.09-17.38.39:616][109]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.09-17.38.39:616][109]LogHMD: Initializing OVRPlugin session
+[2019.12.09-17.38.39:677][109]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2019.12.09-17.38.39:678][109]PIE: New page: PIE session: ASYLUM (Dec 9, 2019, 7:38:39 PM)
+[2019.12.09-17.38.39:678][109]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ASYLUM
+[2019.12.09-17.38.39:696][109]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017664s)
+[2019.12.09-17.38.39:697][109]LogAIModule: Creating AISystem for world ASYLUM
+[2019.12.09-17.38.39:697][109]LogPlayLevel: PIE: World Init took: (0.000527s)
+[2019.12.09-17.38.39:697][109]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ASYLUM.ASYLUM to /Game/UEDPIE_0_ASYLUM.ASYLUM (0.018518s)
+[2019.12.09-17.38.39:722][109]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2019.12.09-17.38.39:748][109]LogInit: XAudio2 using 'Headphones (5- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.09-17.38.39:759][109]LogInit: FAudioDevice initialized.
+[2019.12.09-17.38.39:769][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-17.38.39:826][109]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.12.09-17.38.39:826][109]LogLoad: Game class is 'GameModeBase'
+[2019.12.09-17.38.39:828][109]LogWorld: Bringing World /Game/UEDPIE_0_ASYLUM.ASYLUM up for play (max tick rate 0) at 2019.12.09-18.38.39
+[2019.12.09-17.38.39:829][109]LogWorld: Bringing up level for play took: 0.001962
+[2019.12.09-17.38.39:846][109]PIE: Play in editor start time for /Game/UEDPIE_0_ASYLUM 1.18
+[2019.12.09-17.38.39:846][109]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.12.09-17.38.39:847][109]LogEngine: Changing dynamic resolution state.
+[2019.12.09-17.38.39:850][109]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2019.12.09-17.42.05:698][282]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.12.09-17.42.05:758][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-17.42.07:726][282]LogSlate: Window 'test2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.09-17.42.07:763][282]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.09-17.42.07:764][282]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.12.09-17.42.07:791][282]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2019.12.09-17.42.07:804][283]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.12.09-17.42.07:804][283]LogEngine: Changing dynamic resolution state.
+[2019.12.09-17.42.11:968][782]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door)
+[2019.12.09-17.42.31:059][ 15]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor2)
+[2019.12.09-17.42.32:940][236]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.42.33:056][250]LogTemp: Repeating last play command: VR Preview
+[2019.12.09-17.42.35:010][250]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.12.09-17.42.35:010][250]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.09-17.42.35:010][250]LogHMD: Initializing OVRPlugin session
+[2019.12.09-17.42.35:070][250]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2019.12.09-17.42.35:071][250]PIE: New page: PIE session: ASYLUM (Dec 9, 2019, 7:42:35 PM)
+[2019.12.09-17.42.35:071][250]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ASYLUM
+[2019.12.09-17.42.35:088][250]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016742s)
+[2019.12.09-17.42.35:088][250]LogAIModule: Creating AISystem for world ASYLUM
+[2019.12.09-17.42.35:089][250]LogPlayLevel: PIE: World Init took: (0.000595s)
+[2019.12.09-17.42.35:089][250]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ASYLUM.ASYLUM to /Game/UEDPIE_0_ASYLUM.ASYLUM (0.017458s)
+[2019.12.09-17.42.35:109][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2019.12.09-17.42.35:130][250]LogInit: XAudio2 using 'Headphones (5- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.09-17.42.35:140][250]LogInit: FAudioDevice initialized.
+[2019.12.09-17.42.35:149][250]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-17.42.35:204][250]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.12.09-17.42.35:204][250]LogLoad: Game class is 'GameModeBase'
+[2019.12.09-17.42.35:206][250]LogWorld: Bringing World /Game/UEDPIE_0_ASYLUM.ASYLUM up for play (max tick rate 0) at 2019.12.09-18.42.35
+[2019.12.09-17.42.35:207][250]LogWorld: Bringing up level for play took: 0.001957
+[2019.12.09-17.42.35:224][250]PIE: Play in editor start time for /Game/UEDPIE_0_ASYLUM 0.559
+[2019.12.09-17.42.35:225][250]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.12.09-17.42.35:225][250]LogEngine: Changing dynamic resolution state.
+[2019.12.09-17.42.35:228][250]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2019.12.09-17.43.46:216][719]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.12.09-17.43.46:271][719]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-17.43.49:513][719]LogSlate: Window 'test2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.09-17.43.49:546][719]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.09-17.43.49:546][719]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.12.09-17.43.49:579][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2019.12.09-17.43.49:608][720]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.12.09-17.43.49:608][720]LogEngine: Changing dynamic resolution state.
+[2019.12.09-17.48.28:947][247]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-17.48.44:319][ 54]LogMaterial: Display: Missing cached shader map for material M_Spark_VelocityLerp, compiling. 
+[2019.12.09-17.48.44:345][ 54]LogMaterial: Display: Missing cached shader map for material M_FlareRound, compiling. 
+[2019.12.09-17.48.44:360][ 54]LogMaterial: Display: Missing cached shader map for material M_Snow_Blowing_Lit, compiling. 
+[2019.12.09-17.48.59:162][438]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_SparkBurst)
+[2019.12.09-17.49.25:235][481]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.49.25:320][491]MapCheck: New page: Map Check
+[2019.12.09-17.49.25:330][491]Cmd: MAP REBUILD ALLVISIBLE
+[2019.12.09-17.49.25:330][491]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.12.09-17.49.25:560][491]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.12.09-17.49.25:589][491]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-17.49.25:597][491]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2019.12.09-17.49.25:610][491]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-17.49.25:620][491]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.09-17.49.25:620][491]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-17.49.25:632][491]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-17.49.25:643][491]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-17.49.25:649][491]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-17.49.25:671][491]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-17.49.25:680][491]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-17.49.25:693][491]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-17.49.25:702][491]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-17.49.25:722][491]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-17.49.25:738][491]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-17.49.25:750][491]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-17.49.25:761][491]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-17.49.25:769][491]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-17.49.25:776][491]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-17.49.25:782][491]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-17.49.29:280][491]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.12.09-17.49.29:280][491]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.12.09-17.49.29:280][491]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.12.09-17.49.29:280][491]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.09-17.49.29:280][491]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.09-17.49.29:280][491]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.09-17.49.29:280][491]TextureStreamingBuild: Display: Compiling optional shaders took 3.694 seconds.
+[2019.12.09-17.49.29:466][491]LogLevel: Display: Export Material TexCoord Scales took 0.185 seconds.
+[2019.12.09-17.49.29:496][491]TextureStreamingBuild: Display: Build Texture Streaming took 0.030 seconds.
+[2019.12.09-17.49.29:520][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2019.12.09-17.49.29:520][491]LightingResults: New page: Lighting Build - Dec 9, 2019, 7:49:29 PM
+[2019.12.09-17.49.34:678][491]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.12.09-17.49.34:681][491]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.12.09-17.49.34:681][491]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.12.09-17.49.34:682][491]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.12.09-17.49.34:682][491]LogSwarmInterface: [TryOpenConnection] Local Process ID is 3408
+[2019.12.09-17.49.39:194][491]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.12.09-17.49.39:194][491]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.12.09-17.49.39:194][491]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.12.09-17.49.39:194][491]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.12.09-17.49.39:194][491]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.12.09-17.49.39:194][491]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.12.09-17.49.39:243][491]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.12.09-17.49.39:243][491]MapCheck: New page: ASYLUM - Dec 9, 2019, 7:49:39 PM
+[2019.12.09-17.49.39:244][491]MapCheck: Warning: SM_Hallway_Pipe_Clamp4 SM_Hallway_Pipe_Clamp4 is in the same location as SM_Hallway_Pipe_Clamp5 
+[2019.12.09-17.49.39:244][491]MapCheck: Warning: SM_Hallway_Pipe_Clamp5 SM_Hallway_Pipe_Clamp5 is in the same location as SM_Hallway_Pipe_Clamp4 
+[2019.12.09-17.49.39:244][491]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 1.065ms to complete.
+[2019.12.09-17.49.39:267][491]LogEditorBuildUtils: Build time 0:13
+[2019.12.09-17.49.39:339][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2019.12.09-17.49.41:798][683]Job is a success!
+[2019.12.09-17.49.41:858][685]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.006s
+[2019.12.09-17.49.41:858][685]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.12.09-17.49.41:858][685]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2019.12.09-17.49.41:858][685]LogVolumetricLightmapImport:      Bricks at Level
+[2019.12.09-17.49.41:858][685]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2019.12.09-17.49.41:858][685]LogVolumetricLightmapImport:          1: 33.3% covering 3.1% of volume
+[2019.12.09-17.49.41:858][685]LogVolumetricLightmapImport:          2: 50.0% covering 0.1% of volume
+[2019.12.09-17.49.41:995][685]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2019.12.09-17.49.41:995][685]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2019.12.09-17.49.41:995][685]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 512X512)
+[2019.12.09-17.49.41:995][685]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 512X512)
+[2019.12.09-17.49.41:995][685]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 512X128)
+[2019.12.09-17.49.41:995][685]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 256X256)
+[2019.12.09-17.49.42:008][685]LogStaticLightingSystem: ASYLUM_BuiltData storing lightmap data for 65 meshes in 3 LightmapResourceClusters (21.7 Meshes per cluster).
+[2019.12.09-17.49.42:033][685]Lightmass on DESKTOP-PFK5BRK: 2.21 sec total, 144 ms importing, 45 ms setup, 760 ms photons, 1.23 sec processing, 0 ms extra exporting [249/249 mappings]. Threads: 13.1 sec total, 5.32 sec processing.
+[2019.12.09-17.49.42:035][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2019.12.09-17.49.42:051][685]LogStaticLightingSystem: Illumination: 12.5 sec (73 ms encoding lightmaps, 18 ms encoding shadowmaps)
+[2019.12.09-17.49.42:051][685]LogStaticLightingSystem: Lightmap texture memory:  1.0 MB (0.5 MB streaming, 0.5 MB non-streaming), 4 textures
+[2019.12.09-17.49.42:051][685]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.3 MB streaming, 0.3 MB non-streaming), 2 textures
+[2019.12.09-17.49.42:197][685]DumpUnbuiltLightIteractions
+[2019.12.09-17.49.42:198][685]Lights with unbuilt interactions: 0
+[2019.12.09-17.49.42:198][685]
+[2019.12.09-17.49.42:198][685]Primitives with unbuilt interactions: 0
+[2019.12.09-17.49.42:227][686]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.12.09-17.49.42:227][686]MapCheck: New page: ASYLUM - Dec 9, 2019, 7:49:42 PM
+[2019.12.09-17.49.42:228][686]MapCheck: Warning: SM_Hallway_Pipe_Clamp4 SM_Hallway_Pipe_Clamp4 is in the same location as SM_Hallway_Pipe_Clamp5 
+[2019.12.09-17.49.42:228][686]MapCheck: Warning: SM_Hallway_Pipe_Clamp5 SM_Hallway_Pipe_Clamp5 is in the same location as SM_Hallway_Pipe_Clamp4 
+[2019.12.09-17.49.42:228][686]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 0.985ms to complete.
+[2019.12.09-17.49.46:502][188]LogSlate: Window 'Message Log' being destroyed
+[2019.12.09-17.49.46:507][188]LogSlate: Window 'Message Log' being destroyed
+[2019.12.09-17.49.53:759][ 56]LogTemp: Repeating last play command: VR Preview
+[2019.12.09-17.49.56:354][ 56]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.12.09-17.49.56:354][ 56]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.09-17.49.56:354][ 56]LogHMD: Initializing OVRPlugin session
+[2019.12.09-17.49.56:426][ 56]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2019.12.09-17.49.56:427][ 56]PIE: New page: PIE session: ASYLUM (Dec 9, 2019, 7:49:56 PM)
+[2019.12.09-17.49.56:427][ 56]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ASYLUM
+[2019.12.09-17.49.56:449][ 56]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022011s)
+[2019.12.09-17.49.56:449][ 56]LogAIModule: Creating AISystem for world ASYLUM
+[2019.12.09-17.49.56:450][ 56]LogPlayLevel: PIE: World Init took: (0.000701s)
+[2019.12.09-17.49.56:450][ 56]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ASYLUM.ASYLUM to /Game/UEDPIE_0_ASYLUM.ASYLUM (0.022882s)
+[2019.12.09-17.49.56:475][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2019.12.09-17.49.56:502][ 56]LogInit: XAudio2 using 'Headphones (5- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.09-17.49.56:513][ 56]LogInit: FAudioDevice initialized.
+[2019.12.09-17.49.56:521][ 56]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-17.49.56:576][ 56]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.12.09-17.49.56:577][ 56]LogLoad: Game class is 'GameModeBase'
+[2019.12.09-17.49.56:579][ 56]LogWorld: Bringing World /Game/UEDPIE_0_ASYLUM.ASYLUM up for play (max tick rate 0) at 2019.12.09-18.49.56
+[2019.12.09-17.49.56:579][ 56]LogWorld: Bringing up level for play took: 0.001962
+[2019.12.09-17.49.56:595][ 56]PIE: Play in editor start time for /Game/UEDPIE_0_ASYLUM -0.07
+[2019.12.09-17.49.56:596][ 56]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.12.09-17.49.56:596][ 56]LogEngine: Changing dynamic resolution state.
+[2019.12.09-17.49.56:598][ 56]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2019.12.09-17.50.26:120][708]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (46.804 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.12.09-17.51.23:894][483]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.12.09-17.51.23:953][483]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-17.51.27:847][483]LogSlate: Window 'test2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.09-17.51.27:882][483]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.09-17.51.27:882][483]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.12.09-17.51.27:912][483]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2019.12.09-17.51.27:936][484]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.12.09-17.51.27:936][484]LogEngine: Changing dynamic resolution state.
+[2019.12.09-17.51.31:598][612]LogTemp: Repeating last play command: VR Preview
+[2019.12.09-17.51.34:194][612]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.12.09-17.51.34:194][612]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.09-17.51.34:194][612]LogHMD: Initializing OVRPlugin session
+[2019.12.09-17.51.34:261][612]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2019.12.09-17.51.34:262][612]PIE: New page: PIE session: ASYLUM (Dec 9, 2019, 7:51:34 PM)
+[2019.12.09-17.51.34:262][612]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ASYLUM
+[2019.12.09-17.51.34:280][612]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017700s)
+[2019.12.09-17.51.34:280][612]LogAIModule: Creating AISystem for world ASYLUM
+[2019.12.09-17.51.34:281][612]LogPlayLevel: PIE: World Init took: (0.000756s)
+[2019.12.09-17.51.34:281][612]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ASYLUM.ASYLUM to /Game/UEDPIE_0_ASYLUM.ASYLUM (0.018626s)
+[2019.12.09-17.51.34:306][612]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2019.12.09-17.51.34:328][612]LogInit: XAudio2 using 'Headphones (5- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.09-17.51.34:339][612]LogInit: FAudioDevice initialized.
+[2019.12.09-17.51.34:350][612]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-17.51.34:402][612]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.12.09-17.51.34:402][612]LogLoad: Game class is 'GameModeBase'
+[2019.12.09-17.51.34:405][612]LogWorld: Bringing World /Game/UEDPIE_0_ASYLUM.ASYLUM up for play (max tick rate 0) at 2019.12.09-18.51.34
+[2019.12.09-17.51.34:405][612]LogWorld: Bringing up level for play took: 0.002226
+[2019.12.09-17.51.34:421][612]PIE: Play in editor start time for /Game/UEDPIE_0_ASYLUM -0.244
+[2019.12.09-17.51.34:422][612]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.12.09-17.51.34:422][612]LogEngine: Changing dynamic resolution state.
+[2019.12.09-17.51.34:426][612]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2019.12.09-17.53.21:808][144]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.12.09-17.53.21:864][144]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-17.53.24:479][144]LogSlate: Window 'test2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.09-17.53.24:516][144]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.09-17.53.24:516][144]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.12.09-17.53.24:556][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2019.12.09-17.53.24:578][145]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.12.09-17.53.24:578][145]LogEngine: Changing dynamic resolution state.
+[2019.12.09-17.53.32:036][872]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LightExploded2)
+[2019.12.09-17.53.34:999][214]Cmd: EDIT COPY
+[2019.12.09-17.53.40:675][884]Cmd: EDIT PASTE
+[2019.12.09-17.54.33:968][108]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.54.46:783][640]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.55.07:667][127]Cmd: TRANSACTION UNDO
+[2019.12.09-17.55.07:667][127]LogEditorTransaction: Undo Move Actors
+[2019.12.09-17.55.09:340][319]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LightExploded3)
+[2019.12.09-17.55.16:670][186]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.55.16:795][201]MapCheck: New page: Map Check
+[2019.12.09-17.55.16:809][201]Cmd: MAP REBUILD ALLVISIBLE
+[2019.12.09-17.55.16:810][201]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.12.09-17.55.17:037][201]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2019.12.09-17.55.17:068][201]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-17.55.17:075][201]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2019.12.09-17.55.17:088][201]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-17.55.17:100][201]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.09-17.55.17:100][201]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-17.55.17:111][201]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-17.55.17:120][201]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-17.55.17:128][201]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-17.55.17:150][201]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-17.55.17:160][201]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-17.55.17:173][201]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-17.55.17:183][201]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-17.55.17:204][201]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-17.55.17:219][201]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-17.55.17:230][201]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-17.55.17:242][201]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-17.55.17:249][201]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-17.55.17:257][201]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-17.55.17:264][201]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-17.55.20:581][201]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.12.09-17.55.20:581][201]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.12.09-17.55.20:581][201]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.12.09-17.55.20:582][201]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.09-17.55.20:582][201]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.09-17.55.20:582][201]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.09-17.55.20:582][201]TextureStreamingBuild: Display: Compiling optional shaders took 3.517 seconds.
+[2019.12.09-17.55.20:774][201]LogLevel: Display: Export Material TexCoord Scales took 0.193 seconds.
+[2019.12.09-17.55.20:804][201]TextureStreamingBuild: Display: Build Texture Streaming took 0.030 seconds.
+[2019.12.09-17.55.20:828][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2019.12.09-17.55.20:828][201]LightingResults: New page: Lighting Build - Dec 9, 2019, 7:55:20 PM
+[2019.12.09-17.55.25:982][201]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.12.09-17.55.25:984][201]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.12.09-17.55.25:984][201]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.12.09-17.55.25:985][201]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.12.09-17.55.25:985][201]LogSwarmInterface: [TryOpenConnection] Local Process ID is 3408
+[2019.12.09-17.55.30:498][201]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.12.09-17.55.30:498][201]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.12.09-17.55.30:498][201]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.12.09-17.55.30:498][201]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.12.09-17.55.30:498][201]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.12.09-17.55.30:498][201]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.12.09-17.55.30:557][201]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.12.09-17.55.30:557][201]MapCheck: New page: ASYLUM - Dec 9, 2019, 7:55:30 PM
+[2019.12.09-17.55.30:557][201]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2019.12.09-17.55.30:558][201]MapCheck: Warning: SM_Hallway_Pipe_Clamp4 SM_Hallway_Pipe_Clamp4 is in the same location as SM_Hallway_Pipe_Clamp5 
+[2019.12.09-17.55.30:558][201]MapCheck: Warning: SM_Hallway_Pipe_Clamp5 SM_Hallway_Pipe_Clamp5 is in the same location as SM_Hallway_Pipe_Clamp4 
+[2019.12.09-17.55.30:558][201]MapCheck: Map check complete: 1 Error(s), 2 Warning(s), took 1.019ms to complete.
+[2019.12.09-17.55.30:581][201]LogEditorBuildUtils: Build time 0:13
+[2019.12.09-17.55.30:656][202]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2019.12.09-17.55.33:343][404]Job is a success!
+[2019.12.09-17.55.33:411][405]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.006s
+[2019.12.09-17.55.33:411][405]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.12.09-17.55.33:411][405]LogVolumetricLightmapImport:      BrickData 85x5x5 = 0.1Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2019.12.09-17.55.33:411][405]LogVolumetricLightmapImport:      Bricks at Level
+[2019.12.09-17.55.33:411][405]LogVolumetricLightmapImport:          0: 5.9% covering 100.0% of volume
+[2019.12.09-17.55.33:411][405]LogVolumetricLightmapImport:          1: 11.8% covering 3.1% of volume
+[2019.12.09-17.55.33:411][405]LogVolumetricLightmapImport:          2: 82.4% covering 0.3% of volume
+[2019.12.09-17.55.33:591][405]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2019.12.09-17.55.33:591][405]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2019.12.09-17.55.33:591][405]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2019.12.09-17.55.33:591][405]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2019.12.09-17.55.33:591][405]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 256X256)
+[2019.12.09-17.55.33:591][405]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (BGRA8, 1024X128)
+[2019.12.09-17.55.33:611][405]Lightmass on DESKTOP-PFK5BRK: 2.50 sec total, 154 ms importing, 47 ms setup, 792 ms photons, 1.48 sec processing, 0 ms extra exporting [250/250 mappings]. Threads: 15.7 sec total, 6.31 sec processing.
+[2019.12.09-17.55.33:612][405]LogStaticLightingSystem: ASYLUM_BuiltData storing lightmap data for 66 meshes in 3 LightmapResourceClusters (22.0 Meshes per cluster).
+[2019.12.09-17.55.33:637][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2019.12.09-17.55.33:653][405]LogStaticLightingSystem: Illumination: 12.8 sec (96 ms encoding lightmaps, 30 ms encoding shadowmaps)
+[2019.12.09-17.55.33:654][405]LogStaticLightingSystem: Lightmap texture memory:  1.0 MB (0.5 MB streaming, 0.5 MB non-streaming), 4 textures
+[2019.12.09-17.55.33:654][405]LogStaticLightingSystem: Shadowmap texture memory: 1.0 MB (0.7 MB streaming, 0.3 MB non-streaming), 2 textures
+[2019.12.09-17.55.34:504][405]DumpUnbuiltLightIteractions
+[2019.12.09-17.55.34:504][405]Lights with unbuilt interactions: 0
+[2019.12.09-17.55.34:504][405]
+[2019.12.09-17.55.34:504][405]Primitives with unbuilt interactions: 0
+[2019.12.09-17.55.34:537][406]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.12.09-17.55.34:538][406]MapCheck: New page: ASYLUM - Dec 9, 2019, 7:55:34 PM
+[2019.12.09-17.55.34:538][406]MapCheck: Warning: SM_Hallway_Pipe_Clamp4 SM_Hallway_Pipe_Clamp4 is in the same location as SM_Hallway_Pipe_Clamp5 
+[2019.12.09-17.55.34:538][406]MapCheck: Warning: SM_Hallway_Pipe_Clamp5 SM_Hallway_Pipe_Clamp5 is in the same location as SM_Hallway_Pipe_Clamp4 
+[2019.12.09-17.55.34:539][406]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 0.91ms to complete.
+[2019.12.09-17.55.36:156][436]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.12.09-17.55.38:051][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ASYLUM" FILE="D:/IRV/ASYLUM_prototipo 3.5/Saved/Autosaves/Game/ASYLUM_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.12.09-17.55.58:398][436]LogSavePackage: Moving 'D:/IRV/ASYLUM_prototipo 3.5/Saved/ASYLUM_Auto1AC71C4504E04E79AD5A17DACE9556EB3.tmp' to 'D:/IRV/ASYLUM_prototipo 3.5/Saved/Autosaves/Game/ASYLUM_Auto1.umap'
+[2019.12.09-17.56.00:994][436]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ASYLUM' took 24.863
+[2019.12.09-17.56.00:994][436]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 24.863
+[2019.12.09-17.56.07:056][853]LogSlate: Window 'Message Log' being destroyed
+[2019.12.09-17.56.07:060][853]LogSlate: Window 'Message Log' being destroyed
+[2019.12.09-17.56.08:024][968]LogTemp: Repeating last play command: VR Preview
+[2019.12.09-17.56.09:980][968]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.12.09-17.56.09:980][968]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.09-17.56.09:980][968]LogHMD: Initializing OVRPlugin session
+[2019.12.09-17.56.10:050][968]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2019.12.09-17.56.10:050][968]PIE: New page: PIE session: ASYLUM (Dec 9, 2019, 7:56:10 PM)
+[2019.12.09-17.56.10:050][968]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ASYLUM
+[2019.12.09-17.56.10:075][968]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024776s)
+[2019.12.09-17.56.10:076][968]LogAIModule: Creating AISystem for world ASYLUM
+[2019.12.09-17.56.10:076][968]LogPlayLevel: PIE: World Init took: (0.000909s)
+[2019.12.09-17.56.10:076][968]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ASYLUM.ASYLUM to /Game/UEDPIE_0_ASYLUM.ASYLUM (0.025934s)
+[2019.12.09-17.56.10:101][968]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2019.12.09-17.56.10:130][968]LogInit: XAudio2 using 'Headphones (5- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.09-17.56.10:141][968]LogInit: FAudioDevice initialized.
+[2019.12.09-17.56.10:149][968]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-17.56.10:208][968]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.12.09-17.56.10:208][968]LogLoad: Game class is 'GameModeBase'
+[2019.12.09-17.56.10:211][968]LogWorld: Bringing World /Game/UEDPIE_0_ASYLUM.ASYLUM up for play (max tick rate 0) at 2019.12.09-18.56.10
+[2019.12.09-17.56.10:211][968]LogWorld: Bringing up level for play took: 0.002243
+[2019.12.09-17.56.10:228][968]PIE: Play in editor start time for /Game/UEDPIE_0_ASYLUM -0.437
+[2019.12.09-17.56.10:228][968]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.12.09-17.56.10:229][968]LogEngine: Changing dynamic resolution state.
+[2019.12.09-17.56.10:231][968]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2019.12.09-17.57.51:757][101]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.12.09-17.57.51:817][101]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-17.57.53:791][101]LogSlate: Window 'test2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.09-17.57.53:825][101]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.09-17.57.53:825][101]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.12.09-17.57.53:884][101]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2019.12.09-17.57.53:905][102]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.12.09-17.57.53:905][102]LogEngine: Changing dynamic resolution state.
+[2019.12.09-18.04.00:053][777]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LightExploded3)
+[2019.12.09-18.04.06:499][530]Cmd: TRANSACTION UNDO
+[2019.12.09-18.04.06:499][530]LogEditorTransaction: Undo Move Actors
+[2019.12.09-18.04.11:632][133]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2019.12.09-18.04.25:050][723]Cmd: TRANSACTION UNDO
+[2019.12.09-18.04.25:050][723]LogEditorTransaction: Undo Move Actors
+[2019.12.09-18.04.36:175][ 54]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-18.04.38:291][304]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2019.12.09-18.04.43:402][865]LogMaterial: Display: Missing cached shader map for material M_Light_Flourescent, compiling. 
+[2019.12.09-18.04.43:445][865]LogMaterial: Display: Missing cached shader map for material M_Emissive, compiling. 
+[2019.12.09-18.04.43:460][865]LogMaterial: Display: Missing cached shader map for material M_Rubber, compiling. 
+[2019.12.09-18.04.43:510][867]LogActorFactory: Actor Factory created SM_Light_Fluorescent_Hanging_01
+[2019.12.09-18.04.44:721][978]LogActorFactory: Actor Factory created SM_Light_Fluorescent_Hanging_01
+[2019.12.09-18.05.03:140][ 21]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2019.12.09-18.05.05:187][261]Cmd: DELETE
+[2019.12.09-18.05.05:187][261]Cmd: ACTOR DELETE
+[2019.12.09-18.05.05:192][261]LogEditorActor: Deleted Actor: PointLight
+[2019.12.09-18.05.05:213][261]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2019.12.09-18.05.05:214][261]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.12.09-18.05.11:186][976]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Light_Fluorescent_Hanging_01)
+[2019.12.09-18.05.17:259][694]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-18.05.17:359][706]MapCheck: New page: Map Check
+[2019.12.09-18.05.17:369][706]Cmd: MAP REBUILD ALLVISIBLE
+[2019.12.09-18.05.17:370][706]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.12.09-18.05.17:600][706]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2019.12.09-18.05.17:631][706]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.05.17:638][706]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2019.12.09-18.05.17:650][706]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.09-18.05.17:650][706]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.05.17:660][706]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.05.17:668][706]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.05.17:674][706]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.05.17:680][706]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.05.17:704][706]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.05.17:714][706]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.05.17:726][706]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.05.17:733][706]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.05.17:749][706]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.05.17:762][706]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.05.17:772][706]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.05.17:780][706]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.05.17:785][706]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.05.17:791][706]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.05.17:797][706]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.05.17:803][706]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.05.17:815][706]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.05.17:824][706]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.05.20:611][706]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.12.09-18.05.20:611][706]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.12.09-18.05.20:611][706]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.12.09-18.05.20:611][706]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.09-18.05.20:611][706]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.09-18.05.20:611][706]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.09-18.05.20:611][706]TextureStreamingBuild: Display: Compiling optional shaders took 2.983 seconds.
+[2019.12.09-18.05.20:787][706]LogLevel: Display: Export Material TexCoord Scales took 0.176 seconds.
+[2019.12.09-18.05.20:814][706]TextureStreamingBuild: Display: Build Texture Streaming took 0.027 seconds.
+[2019.12.09-18.05.20:839][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.12.09-18.05.20:840][706]LightingResults: New page: Lighting Build - Dec 9, 2019, 8:05:20 PM
+[2019.12.09-18.05.25:349][706]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.12.09-18.05.25:350][706]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.12.09-18.05.25:350][706]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.12.09-18.05.25:351][706]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.12.09-18.05.25:351][706]LogSwarmInterface: [TryOpenConnection] Local Process ID is 3408
+[2019.12.09-18.05.29:862][706]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.12.09-18.05.29:862][706]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.12.09-18.05.29:862][706]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.12.09-18.05.29:862][706]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.12.09-18.05.29:862][706]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.12.09-18.05.29:863][706]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.12.09-18.05.29:936][706]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.12.09-18.05.29:936][706]MapCheck: New page: ASYLUM - Dec 9, 2019, 8:05:29 PM
+[2019.12.09-18.05.29:937][706]MapCheck: Warning: SM_Hallway_Pipe_Clamp4 SM_Hallway_Pipe_Clamp4 is in the same location as SM_Hallway_Pipe_Clamp5 
+[2019.12.09-18.05.29:937][706]MapCheck: Warning: SM_Hallway_Pipe_Clamp5 SM_Hallway_Pipe_Clamp5 is in the same location as SM_Hallway_Pipe_Clamp4 
+[2019.12.09-18.05.29:937][706]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 0.88ms to complete.
+[2019.12.09-18.05.29:959][706]LogEditorBuildUtils: Build time 0:12
+[2019.12.09-18.05.30:029][707]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2019.12.09-18.05.32:130][869]LogSlate: Window 'Message Log' being destroyed
+[2019.12.09-18.05.32:136][869]LogSlate: Window 'Message Log' being destroyed
+[2019.12.09-18.05.32:239][877]Job is a success!
+[2019.12.09-18.05.32:290][878]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.006s
+[2019.12.09-18.05.32:290][878]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.12.09-18.05.32:290][878]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2019.12.09-18.05.32:290][878]LogVolumetricLightmapImport:      Bricks at Level
+[2019.12.09-18.05.32:290][878]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2019.12.09-18.05.32:290][878]LogVolumetricLightmapImport:          1: 33.3% covering 3.1% of volume
+[2019.12.09-18.05.32:290][878]LogVolumetricLightmapImport:          2: 50.0% covering 0.1% of volume
+[2019.12.09-18.05.32:417][878]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2019.12.09-18.05.32:417][878]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2019.12.09-18.05.32:417][878]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 512X512)
+[2019.12.09-18.05.32:417][878]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 512X512)
+[2019.12.09-18.05.32:417][878]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (BGRA8, 512X128)
+[2019.12.09-18.05.32:417][878]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (BGRA8, 256X256)
+[2019.12.09-18.05.32:430][878]LogStaticLightingSystem: ASYLUM_BuiltData storing lightmap data for 67 meshes in 3 LightmapResourceClusters (22.3 Meshes per cluster).
+[2019.12.09-18.05.32:456][878]Lightmass on DESKTOP-PFK5BRK: 2.03 sec total, 134 ms importing, 41 ms setup, 721 ms photons, 1.11 sec processing, 0 ms extra exporting [251/251 mappings]. Threads: 11.7 sec total, 4.69 sec processing.
+[2019.12.09-18.05.32:457][878]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2019.12.09-18.05.32:469][878]LogStaticLightingSystem: Illumination: 11.6 sec (65 ms encoding lightmaps, 15 ms encoding shadowmaps)
+[2019.12.09-18.05.32:469][878]LogStaticLightingSystem: Lightmap texture memory:  1.0 MB (0.5 MB streaming, 0.5 MB non-streaming), 4 textures
+[2019.12.09-18.05.32:469][878]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.3 MB streaming, 0.3 MB non-streaming), 2 textures
+[2019.12.09-18.05.41:872][878]DumpUnbuiltLightIteractions
+[2019.12.09-18.05.41:872][878]Lights with unbuilt interactions: 0
+[2019.12.09-18.05.41:872][878]
+[2019.12.09-18.05.41:872][878]Primitives with unbuilt interactions: 0
+[2019.12.09-18.05.41:902][879]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.12.09-18.05.41:902][879]MapCheck: New page: ASYLUM - Dec 9, 2019, 8:05:41 PM
+[2019.12.09-18.05.41:903][879]MapCheck: Warning: SM_Hallway_Pipe_Clamp4 SM_Hallway_Pipe_Clamp4 is in the same location as SM_Hallway_Pipe_Clamp5 
+[2019.12.09-18.05.41:903][879]MapCheck: Warning: SM_Hallway_Pipe_Clamp5 SM_Hallway_Pipe_Clamp5 is in the same location as SM_Hallway_Pipe_Clamp4 
+[2019.12.09-18.05.41:903][879]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 0.842ms to complete.
+[2019.12.09-18.06.40:531][777]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-18.07.33:504][533]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-18.07.39:561][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-18.08.06:030][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.12.09-18.08.06:031][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ASYLUM" FILE="D:/IRV/ASYLUM_prototipo 3.5/Saved/Autosaves/Game/ASYLUM_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.12.09-18.08.27:594][223]LogSavePackage: Moving 'D:/IRV/ASYLUM_prototipo 3.5/Saved/ASYLUM_Auto2884A5F074D8AB360856B5AAF67791829.tmp' to 'D:/IRV/ASYLUM_prototipo 3.5/Saved/Autosaves/Game/ASYLUM_Auto2.umap'
+[2019.12.09-18.08.30:187][223]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ASYLUM' took 24.180
+[2019.12.09-18.08.30:187][223]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 24.180
+[2019.12.09-18.09.38:434][359]LogMaterial: Display: Missing cached shader map for material Emissive, compiling. 
+[2019.12.09-18.09.38:450][359]LogMaterial: Display: Missing cached shader map for material Emissive, compiling. 
+[2019.12.09-18.09.59:563][724]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-18.09.59:688][739]MapCheck: New page: Map Check
+[2019.12.09-18.09.59:702][739]Cmd: MAP REBUILD ALLVISIBLE
+[2019.12.09-18.09.59:703][739]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.12.09-18.09.59:946][739]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2019.12.09-18.09.59:976][739]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.09.59:982][739]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2019.12.09-18.09.59:994][739]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.10.00:002][739]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.10.00:010][739]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.10.00:016][739]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.10.00:022][739]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.10.00:040][739]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.10.00:050][739]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.10.00:064][739]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.10.00:074][739]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.10.00:091][739]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.10.00:106][739]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.10.00:116][739]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.10.00:126][739]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.10.00:133][739]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.10.00:140][739]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.10.00:147][739]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.10.00:156][739]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.10.00:167][739]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.10.00:175][739]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.10.00:183][739]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.10.02:603][739]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.12.09-18.10.02:603][739]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.12.09-18.10.02:603][739]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.12.09-18.10.02:603][739]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.09-18.10.02:603][739]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.09-18.10.02:603][739]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.09-18.10.02:603][739]TextureStreamingBuild: Display: Compiling optional shaders took 2.631 seconds.
+[2019.12.09-18.10.02:781][739]LogLevel: Display: Export Material TexCoord Scales took 0.177 seconds.
+[2019.12.09-18.10.02:810][739]TextureStreamingBuild: Display: Build Texture Streaming took 0.029 seconds.
+[2019.12.09-18.10.02:833][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2019.12.09-18.10.02:834][739]LightingResults: New page: Lighting Build - Dec 9, 2019, 8:10:02 PM
+[2019.12.09-18.10.07:339][739]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.12.09-18.10.07:340][739]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.12.09-18.10.07:340][739]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.12.09-18.10.07:341][739]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.12.09-18.10.07:341][739]LogSwarmInterface: [TryOpenConnection] Local Process ID is 3408
+[2019.12.09-18.10.11:854][739]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.12.09-18.10.11:854][739]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.12.09-18.10.11:854][739]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.12.09-18.10.11:854][739]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.12.09-18.10.11:854][739]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.12.09-18.10.11:854][739]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.12.09-18.10.11:905][739]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.12.09-18.10.11:905][739]MapCheck: New page: ASYLUM - Dec 9, 2019, 8:10:11 PM
+[2019.12.09-18.10.11:906][739]MapCheck: Warning: SM_Hallway_Pipe_Clamp4 SM_Hallway_Pipe_Clamp4 is in the same location as SM_Hallway_Pipe_Clamp5 
+[2019.12.09-18.10.11:906][739]MapCheck: Warning: SM_Hallway_Pipe_Clamp5 SM_Hallway_Pipe_Clamp5 is in the same location as SM_Hallway_Pipe_Clamp4 
+[2019.12.09-18.10.11:906][739]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 0.838ms to complete.
+[2019.12.09-18.10.11:929][739]LogEditorBuildUtils: Build time 0:12
+[2019.12.09-18.10.11:997][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2019.12.09-18.10.14:013][893]LogSlate: Window 'Message Log' being destroyed
+[2019.12.09-18.10.14:019][893]LogSlate: Window 'Message Log' being destroyed
+[2019.12.09-18.10.14:124][901]Job is a success!
+[2019.12.09-18.10.14:173][903]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.006s
+[2019.12.09-18.10.14:173][903]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.12.09-18.10.14:173][903]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2019.12.09-18.10.14:173][903]LogVolumetricLightmapImport:      Bricks at Level
+[2019.12.09-18.10.14:173][903]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2019.12.09-18.10.14:173][903]LogVolumetricLightmapImport:          1: 33.3% covering 3.1% of volume
+[2019.12.09-18.10.14:173][903]LogVolumetricLightmapImport:          2: 50.0% covering 0.1% of volume
+[2019.12.09-18.10.14:301][903]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2019.12.09-18.10.14:301][903]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2019.12.09-18.10.14:302][903]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2019.12.09-18.10.14:302][903]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2019.12.09-18.10.14:302][903]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (BGRA8, 512X128)
+[2019.12.09-18.10.14:302][903]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (BGRA8, 256X256)
+[2019.12.09-18.10.14:314][903]LogStaticLightingSystem: ASYLUM_BuiltData storing lightmap data for 67 meshes in 3 LightmapResourceClusters (22.3 Meshes per cluster).
+[2019.12.09-18.10.14:337][903]Lightmass on DESKTOP-PFK5BRK: 1.95 sec total, 135 ms importing, 40 ms setup, 720 ms photons, 1.03 sec processing, 0 ms extra exporting [251/251 mappings]. Threads: 10.8 sec total, 4.36 sec processing.
+[2019.12.09-18.10.14:340][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2019.12.09-18.10.14:352][903]LogStaticLightingSystem: Illumination: 11.5 sec (72 ms encoding lightmaps, 12 ms encoding shadowmaps)
+[2019.12.09-18.10.14:352][903]LogStaticLightingSystem: Lightmap texture memory:  1.0 MB (0.5 MB streaming, 0.5 MB non-streaming), 4 textures
+[2019.12.09-18.10.14:352][903]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.3 MB streaming, 0.3 MB non-streaming), 2 textures
+[2019.12.09-18.10.19:860][903]DumpUnbuiltLightIteractions
+[2019.12.09-18.10.19:861][903]Lights with unbuilt interactions: 0
+[2019.12.09-18.10.19:861][903]
+[2019.12.09-18.10.19:861][903]Primitives with unbuilt interactions: 0
+[2019.12.09-18.10.19:889][904]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.12.09-18.10.19:889][904]MapCheck: New page: ASYLUM - Dec 9, 2019, 8:10:19 PM
+[2019.12.09-18.10.19:890][904]MapCheck: Warning: SM_Hallway_Pipe_Clamp4 SM_Hallway_Pipe_Clamp4 is in the same location as SM_Hallway_Pipe_Clamp5 
+[2019.12.09-18.10.19:890][904]MapCheck: Warning: SM_Hallway_Pipe_Clamp5 SM_Hallway_Pipe_Clamp5 is in the same location as SM_Hallway_Pipe_Clamp4 
+[2019.12.09-18.10.19:890][904]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 0.819ms to complete.
+[2019.12.09-18.10.37:939][611]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-18.10.42:558][122]LogTemp: Repeating last play command: VR Preview
+[2019.12.09-18.10.46:426][122]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.12.09-18.10.46:426][122]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.09-18.10.46:426][122]LogHMD: Initializing OVRPlugin session
+[2019.12.09-18.10.46:497][122]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2019.12.09-18.10.46:497][122]PIE: New page: PIE session: ASYLUM (Dec 9, 2019, 8:10:46 PM)
+[2019.12.09-18.10.46:497][122]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ASYLUM
+[2019.12.09-18.10.46:517][122]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019819s)
+[2019.12.09-18.10.46:518][122]LogAIModule: Creating AISystem for world ASYLUM
+[2019.12.09-18.10.46:518][122]LogPlayLevel: PIE: World Init took: (0.000780s)
+[2019.12.09-18.10.46:518][122]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ASYLUM.ASYLUM to /Game/UEDPIE_0_ASYLUM.ASYLUM (0.020817s)
+[2019.12.09-18.10.46:541][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2019.12.09-18.10.46:570][122]LogInit: XAudio2 using 'Headphones (5- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.09-18.10.46:581][122]LogInit: FAudioDevice initialized.
+[2019.12.09-18.10.46:591][122]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-18.10.46:649][122]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.12.09-18.10.46:649][122]LogLoad: Game class is 'GameModeBase'
+[2019.12.09-18.10.46:651][122]LogWorld: Bringing World /Game/UEDPIE_0_ASYLUM.ASYLUM up for play (max tick rate 0) at 2019.12.09-19.10.46
+[2019.12.09-18.10.46:651][122]LogWorld: Bringing up level for play took: 0.002187
+[2019.12.09-18.10.46:668][122]PIE: Play in editor start time for /Game/UEDPIE_0_ASYLUM 0.002
+[2019.12.09-18.10.46:668][122]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.12.09-18.10.46:668][122]LogEngine: Changing dynamic resolution state.
+[2019.12.09-18.10.46:671][122]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2019.12.09-18.12.33:475][728]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.12.09-18.12.33:532][728]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-18.12.35:501][728]LogSlate: Window 'test2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.09-18.12.35:536][728]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.09-18.12.35:537][728]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.12.09-18.12.35:593][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2019.12.09-18.12.35:606][729]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.12.09-18.12.35:607][729]LogEngine: Changing dynamic resolution state.
+[2019.12.09-18.12.41:284][400]LogEditorViewport: Clicking on Actor (LMB): BP_LightBuzzSoundControl_C (BP_LightBuzzSoundControl)
+[2019.12.09-18.13.00:243][663]Cmd: TRANSACTION UNDO
+[2019.12.09-18.13.00:243][663]LogEditorTransaction: Undo Scale Actors
+[2019.12.09-18.13.06:367][393]Cmd: TRANSACTION UNDO
+[2019.12.09-18.13.06:367][393]LogEditorTransaction: Undo Scale Actors
+[2019.12.09-18.13.09:621][782]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-18.13.10:380][873]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.09-18.13.45:732][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-18.13.51:829][825]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-18.13.51:920][836]MapCheck: New page: Map Check
+[2019.12.09-18.13.51:932][836]Cmd: MAP REBUILD ALLVISIBLE
+[2019.12.09-18.13.51:932][836]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.12.09-18.13.52:192][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2019.12.09-18.13.52:223][836]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.13.52:230][836]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2019.12.09-18.13.52:242][836]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.13.52:250][836]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.13.52:259][836]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.13.52:267][836]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.13.52:273][836]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.13.52:292][836]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.13.52:302][836]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.13.52:314][836]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.13.52:321][836]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.13.52:337][836]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.13.52:350][836]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.13.52:358][836]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.13.52:368][836]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.13.52:374][836]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.13.52:380][836]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.13.52:386][836]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.13.52:393][836]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.13.52:405][836]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.13.52:414][836]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.13.52:423][836]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.09-18.13.55:050][836]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.12.09-18.13.55:050][836]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.12.09-18.13.55:050][836]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.12.09-18.13.55:050][836]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.12.09-18.13.55:050][836]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.12.09-18.13.55:050][836]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.12.09-18.13.55:050][836]TextureStreamingBuild: Display: Compiling optional shaders took 2.830 seconds.
+[2019.12.09-18.13.55:223][836]LogLevel: Display: Export Material TexCoord Scales took 0.173 seconds.
+[2019.12.09-18.13.55:250][836]TextureStreamingBuild: Display: Build Texture Streaming took 0.027 seconds.
+[2019.12.09-18.13.55:273][836]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2019.12.09-18.13.55:273][836]LightingResults: New page: Lighting Build - Dec 9, 2019, 8:13:55 PM
+[2019.12.09-18.14.00:427][836]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.12.09-18.14.00:429][836]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.12.09-18.14.00:429][836]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.12.09-18.14.00:430][836]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.12.09-18.14.00:430][836]LogSwarmInterface: [TryOpenConnection] Local Process ID is 3408
+[2019.12.09-18.14.04:938][836]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.12.09-18.14.04:938][836]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.12.09-18.14.04:938][836]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.12.09-18.14.04:938][836]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.12.09-18.14.04:938][836]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.12.09-18.14.04:938][836]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.12.09-18.14.04:983][836]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.12.09-18.14.04:983][836]MapCheck: New page: ASYLUM - Dec 9, 2019, 8:14:04 PM
+[2019.12.09-18.14.04:984][836]MapCheck: Warning: SM_Hallway_Pipe_Clamp4 SM_Hallway_Pipe_Clamp4 is in the same location as SM_Hallway_Pipe_Clamp5 
+[2019.12.09-18.14.04:984][836]MapCheck: Warning: SM_Hallway_Pipe_Clamp5 SM_Hallway_Pipe_Clamp5 is in the same location as SM_Hallway_Pipe_Clamp4 
+[2019.12.09-18.14.04:984][836]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 0.859ms to complete.
+[2019.12.09-18.14.05:007][836]LogEditorBuildUtils: Build time 0:13
+[2019.12.09-18.14.05:085][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2019.12.09-18.14.07:602][ 30]Job is a success!
+[2019.12.09-18.14.07:672][ 31]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.007s
+[2019.12.09-18.14.07:672][ 31]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.12.09-18.14.07:672][ 31]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2019.12.09-18.14.07:672][ 31]LogVolumetricLightmapImport:      Bricks at Level
+[2019.12.09-18.14.07:672][ 31]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2019.12.09-18.14.07:672][ 31]LogVolumetricLightmapImport:          1: 33.3% covering 3.1% of volume
+[2019.12.09-18.14.07:672][ 31]LogVolumetricLightmapImport:          2: 50.0% covering 0.1% of volume
+[2019.12.09-18.14.07:807][ 31]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2019.12.09-18.14.07:807][ 31]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 512X512)
+[2019.12.09-18.14.07:807][ 31]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2019.12.09-18.14.07:807][ 31]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 512X512)
+[2019.12.09-18.14.07:807][ 31]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (BGRA8, 512X128)
+[2019.12.09-18.14.07:807][ 31]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (BGRA8, 256X256)
+[2019.12.09-18.14.07:820][ 31]LogStaticLightingSystem: ASYLUM_BuiltData storing lightmap data for 67 meshes in 3 LightmapResourceClusters (22.3 Meshes per cluster).
+[2019.12.09-18.14.07:844][ 31]Lightmass on DESKTOP-PFK5BRK: 2.33 sec total, 146 ms importing, 46 ms setup, 792 ms photons, 1.31 sec processing, 0 ms extra exporting [251/251 mappings]. Threads: 13.9 sec total, 5.94 sec processing.
+[2019.12.09-18.14.07:845][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2019.12.09-18.14.07:858][ 31]LogStaticLightingSystem: Illumination: 12.5 sec (69 ms encoding lightmaps, 16 ms encoding shadowmaps)
+[2019.12.09-18.14.07:858][ 31]LogStaticLightingSystem: Lightmap texture memory:  1.0 MB (0.5 MB streaming, 0.5 MB non-streaming), 4 textures
+[2019.12.09-18.14.07:858][ 31]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.3 MB streaming, 0.3 MB non-streaming), 2 textures
+[2019.12.09-18.14.08:942][ 31]DumpUnbuiltLightIteractions
+[2019.12.09-18.14.08:942][ 31]Lights with unbuilt interactions: 0
+[2019.12.09-18.14.08:942][ 31]
+[2019.12.09-18.14.08:942][ 31]Primitives with unbuilt interactions: 0
+[2019.12.09-18.14.08:971][ 32]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.12.09-18.14.08:971][ 32]MapCheck: New page: ASYLUM - Dec 9, 2019, 8:14:08 PM
+[2019.12.09-18.14.08:972][ 32]MapCheck: Warning: SM_Hallway_Pipe_Clamp4 SM_Hallway_Pipe_Clamp4 is in the same location as SM_Hallway_Pipe_Clamp5 
+[2019.12.09-18.14.08:972][ 32]MapCheck: Warning: SM_Hallway_Pipe_Clamp5 SM_Hallway_Pipe_Clamp5 is in the same location as SM_Hallway_Pipe_Clamp4 
+[2019.12.09-18.14.08:972][ 32]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 0.954ms to complete.
+[2019.12.09-18.14.14:146][643]LogSlate: Window 'Message Log' being destroyed
+[2019.12.09-18.14.14:149][643]LogSlate: Window 'Message Log' being destroyed
+[2019.12.09-18.14.20:191][367]LogTemp: Repeating last play command: VR Preview
+[2019.12.09-18.14.24:059][367]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.12.09-18.14.24:059][367]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.09-18.14.24:059][367]LogHMD: Initializing OVRPlugin session
+[2019.12.09-18.14.24:128][367]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2019.12.09-18.14.24:128][367]PIE: New page: PIE session: ASYLUM (Dec 9, 2019, 8:14:24 PM)
+[2019.12.09-18.14.24:129][367]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ASYLUM
+[2019.12.09-18.14.24:146][367]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017548s)
+[2019.12.09-18.14.24:147][367]LogAIModule: Creating AISystem for world ASYLUM
+[2019.12.09-18.14.24:147][367]LogPlayLevel: PIE: World Init took: (0.000551s)
+[2019.12.09-18.14.24:147][367]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ASYLUM.ASYLUM to /Game/UEDPIE_0_ASYLUM.ASYLUM (0.018240s)
+[2019.12.09-18.14.24:173][367]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2019.12.09-18.14.24:199][367]LogInit: XAudio2 using 'Headphones (5- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.09-18.14.24:210][367]LogInit: FAudioDevice initialized.
+[2019.12.09-18.14.24:218][367]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-18.14.24:273][367]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.12.09-18.14.24:273][367]LogLoad: Game class is 'GameModeBase'
+[2019.12.09-18.14.24:276][367]LogWorld: Bringing World /Game/UEDPIE_0_ASYLUM.ASYLUM up for play (max tick rate 0) at 2019.12.09-19.14.24
+[2019.12.09-18.14.24:276][367]LogWorld: Bringing up level for play took: 0.002619
+[2019.12.09-18.14.24:293][367]PIE: Play in editor start time for /Game/UEDPIE_0_ASYLUM -0.372
+[2019.12.09-18.14.24:293][367]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.12.09-18.14.24:294][367]LogEngine: Changing dynamic resolution state.
+[2019.12.09-18.14.24:296][367]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2019.12.09-18.16.34:811][101]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.12.09-18.16.34:870][101]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-18.16.38:768][101]LogSlate: Window 'test2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.09-18.16.38:801][101]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.09-18.16.38:801][101]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ASYLUM.ASYLUM:PersistentLevel' has LevelScriptBlueprint '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM' with GeneratedClass '/Game/ASYLUM.ASYLUM_C' with ClassGeneratedBy '/Game/ASYLUM.ASYLUM:PersistentLevel.ASYLUM'
+[2019.12.09-18.16.38:831][101]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2019.12.09-18.16.38:855][102]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.12.09-18.16.38:855][102]LogEngine: Changing dynamic resolution state.
+[2019.12.09-18.18.12:819][308]LogMaterial: Display: Missing cached shader map for material M_Dust_Flicker, compiling. 
+[2019.12.09-18.18.16:593][659]LogMaterial: Warning: Material /Game/Assets/Effects/Materials/Dust/M_Dust_Flicker.M_Dust_Flicker needed to have new flag set bUsedWithStaticLighting !
+[2019.12.09-18.18.16:598][659]LogMaterial: Display: Missing cached shader map for material M_Dust_Flicker, compiling. 
+[2019.12.09-18.18.17:332][660]LogWindows: Windows GetLastError: The operation completed successfully. (0)
